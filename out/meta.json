@@ -1,0 +1,12 @@
+{
+  "source": "https://x.com/home",
+  "client": "responsive-web",
+  "sha": "3f45101e8a63b6ab04064a85f6b9242dba292f8f",
+  "env": "prod",
+  "counts": {
+    "graphql": 290,
+    "v11": 106,
+    "v2": 12,
+    "unversioned": 2
+  }
+}

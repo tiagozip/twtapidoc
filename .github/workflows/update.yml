@@ -1,0 +1,51 @@
+name: update
+
+on:
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "src/**"
+      - ".github/workflows/update.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Generate docs
+        id: gen
+        run: bun run generate
+
+      - name: Commit and push
+        run: |
+          git config user.name "tiago"
+          git config user.email "70700766+tiagozip@users.noreply.github.com"
+          git add -A out
+          if git diff --cached --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          changes="${{ steps.gen.outputs.changes }}"
+          date="$(date -u +%Y-%m-%d)"
+          if [ "${changes:-0}" -gt 0 ]; then
+            msg="update: $date ($changes API changes)"
+          else
+            msg="update: $date"
+          fi
+          git commit -m "$msg"
+          git push

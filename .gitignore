@@ -1,0 +1,4 @@
+node_modules
+debug
+*.backup
+.DS_Store

@@ -1,0 +1,13 @@
+{
+  "name": "twtapidoc",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "description": "auto-generated docs of X (Twitter)'s internal API, extracted from the web client bundles",
+  "scripts": {
+    "generate": "bun run src/generate.js"
+  },
+  "engines": {
+    "bun": ">=1.1.0"
+  }
+}
