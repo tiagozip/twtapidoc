@@ -24178,7 +24178,7 @@
     "func_name": "o",
     "func_name_init": "r",
     "query": {
-      "timeline_type": "r",
+      "timeline_type": "i",
       "cursor": "n",
       "count": "t"
     }
@@ -26151,7 +26151,7 @@
     "func_name": "o",
     "func_name_init": "r",
     "query": {
-      "timeline_type": "r",
+      "timeline_type": "i",
       "cursor": "n",
       "count": "t"
     }

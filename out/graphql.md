@@ -7935,7 +7935,7 @@ Request Method: `GET`<br>
 #### variables<br>
 | key           | type | variable |
 | :------------ | :--- | :------- |
-| timeline_type | ...  | r        |
+| timeline_type | ...  | i        |
 | cursor        | ...  | n        |
 | count         | ...  | t        |
 
@@ -8656,7 +8656,7 @@ Request Method: `GET`<br>
 #### variables<br>
 | key           | type | variable |
 | :------------ | :--- | :------- |
-| timeline_type | ...  | r        |
+| timeline_type | ...  | i        |
 | cursor        | ...  | n        |
 | count         | ...  | t        |
 
