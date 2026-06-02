@@ -666,33 +666,6 @@
     ]
   },
   {
-    "queryId": "geo/places",
-    "dispatch_key": "get",
-    "dispatch": [
-      "get",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "account/not_my_account/disassociate",
-    "dispatch_key": "post",
-    "dispatch": [
-      "post",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "account/not_my_account/get_masked_data",
-    "dispatch_key": "get",
-    "dispatch": [
-      "get",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
     "queryId": "onboarding/task",
     "dispatch_key": "post",
     "dispatch": [
@@ -765,6 +738,33 @@
     ]
   },
   {
+    "queryId": "geo/places",
+    "dispatch_key": "get",
+    "dispatch": [
+      "get",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
+    "queryId": "account/not_my_account/disassociate",
+    "dispatch_key": "post",
+    "dispatch": [
+      "post",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
+    "queryId": "account/not_my_account/get_masked_data",
+    "dispatch_key": "get",
+    "dispatch": [
+      "get",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
     "queryId": "moments/create",
     "dispatch_key": "post",
     "dispatch": [
@@ -796,6 +796,15 @@
     "dispatch_key": "post",
     "dispatch": [
       "post",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
+    "queryId": "contacts/addressbook",
+    "dispatch_key": "get",
+    "dispatch": [
+      "get",
       "",
       "https://api.x.com/1.1/{queryId}.json"
     ]
@@ -865,15 +874,6 @@
   },
   {
     "queryId": "collections/entries",
-    "dispatch_key": "get",
-    "dispatch": [
-      "get",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "contacts/addressbook",
     "dispatch_key": "get",
     "dispatch": [
       "get",
