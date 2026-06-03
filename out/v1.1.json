@@ -765,15 +765,6 @@
     ]
   },
   {
-    "queryId": "moments/create",
-    "dispatch_key": "post",
-    "dispatch": [
-      "post",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
     "queryId": "account/user_twitter_data",
     "dispatch_key": "get",
     "dispatch": [
@@ -787,24 +778,6 @@
     "dispatch_key": "put",
     "dispatch": [
       "put",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "keyregistry/register",
-    "dispatch_key": "post",
-    "dispatch": [
-      "post",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "contacts/addressbook",
-    "dispatch_key": "get",
-    "dispatch": [
-      "get",
       "",
       "https://api.x.com/1.1/{queryId}.json"
     ]
@@ -832,6 +805,15 @@
     "dispatch_key": "get",
     "dispatch": [
       "get",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
+    "queryId": "keyregistry/register",
+    "dispatch_key": "post",
+    "dispatch": [
+      "post",
       "",
       "https://api.x.com/1.1/{queryId}.json"
     ]
@@ -882,6 +864,15 @@
     ]
   },
   {
+    "queryId": "contacts/addressbook",
+    "dispatch_key": "get",
+    "dispatch": [
+      "get",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
     "queryId": "mutes/keywords/list",
     "dispatch_key": "get",
     "dispatch": [
@@ -901,6 +892,15 @@
   },
   {
     "queryId": "mutes/keywords/update",
+    "dispatch_key": "post",
+    "dispatch": [
+      "post",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
+    "queryId": "moments/create",
     "dispatch_key": "post",
     "dispatch": [
       "post",
