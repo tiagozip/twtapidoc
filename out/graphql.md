@@ -7933,11 +7933,14 @@ Request URL: `https://x.com/i/api/graphql/_ahUdWCUiqTx9q6y84KlLQ/Retweeters`<br>
 Request Method: `GET`<br>
 ### Param<br>
 #### variables<br>
-| key           | type | variable |
-| :------------ | :--- | :------- |
-| timeline_type | ...  | i        |
-| cursor        | ...  | n        |
-| count         | ...  | t        |
+| key                    | type    | variable |
+| :--------------------- | :------ | :------- |
+| tweetId                | ...     | r        |
+| count                  | ...     | t        |
+| cursor                 | ...     | i        |
+| enableRanking          | ...     | a        |
+| includePromotedContent | boolean | True     |
+| ...()(0,n.g)           | ...     | _        |
 
 #### features<br>
 | key                                                                     | type    | variable | default |
@@ -8654,11 +8657,14 @@ Request URL: `https://x.com/i/api/graphql/_ahUdWCUiqTx9q6y84KlLQ/Retweeters`<br>
 Request Method: `GET`<br>
 ### Param<br>
 #### variables<br>
-| key           | type | variable |
-| :------------ | :--- | :------- |
-| timeline_type | ...  | i        |
-| cursor        | ...  | n        |
-| count         | ...  | t        |
+| key                    | type    | variable |
+| :--------------------- | :------ | :------- |
+| tweetId                | ...     | r        |
+| count                  | ...     | t        |
+| cursor                 | ...     | i        |
+| enableRanking          | ...     | a        |
+| includePromotedContent | boolean | True     |
+| ...()(0,n.g)           | ...     | _        |
 
 #### features<br>
 | key                                                                     | type    | variable | default |
