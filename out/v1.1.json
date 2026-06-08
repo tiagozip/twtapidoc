@@ -738,15 +738,6 @@
     ]
   },
   {
-    "queryId": "geo/places",
-    "dispatch_key": "get",
-    "dispatch": [
-      "get",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
     "queryId": "account/not_my_account/disassociate",
     "dispatch_key": "post",
     "dispatch": [
@@ -757,42 +748,6 @@
   },
   {
     "queryId": "account/not_my_account/get_masked_data",
-    "dispatch_key": "get",
-    "dispatch": [
-      "get",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "account/user_twitter_data",
-    "dispatch_key": "get",
-    "dispatch": [
-      "get",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "account/user_twitter_data",
-    "dispatch_key": "put",
-    "dispatch": [
-      "put",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "keyregistry/register",
-    "dispatch_key": "post",
-    "dispatch": [
-      "post",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "contacts/addressbook",
     "dispatch_key": "get",
     "dispatch": [
       "get",
@@ -828,6 +783,60 @@
     ]
   },
   {
+    "queryId": "account/user_twitter_data",
+    "dispatch_key": "get",
+    "dispatch": [
+      "get",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
+    "queryId": "account/user_twitter_data",
+    "dispatch_key": "put",
+    "dispatch": [
+      "put",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
+    "queryId": "geo/places",
+    "dispatch_key": "get",
+    "dispatch": [
+      "get",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
+    "queryId": "keyregistry/register",
+    "dispatch_key": "post",
+    "dispatch": [
+      "post",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
+    "queryId": "contacts/addressbook",
+    "dispatch_key": "get",
+    "dispatch": [
+      "get",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
+    "queryId": "live_pipeline/update_subscriptions",
+    "dispatch_key": "post",
+    "dispatch": [
+      "post",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
     "queryId": "foundmedia/categories",
     "dispatch_key": "get",
     "dispatch": [
@@ -841,15 +850,6 @@
     "dispatch_key": "get",
     "dispatch": [
       "get",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "live_pipeline/update_subscriptions",
-    "dispatch_key": "post",
-    "dispatch": [
-      "post",
       "",
       "https://api.x.com/1.1/{queryId}.json"
     ]
