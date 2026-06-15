@@ -81,7 +81,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -130,7 +130,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -179,7 +179,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -228,7 +228,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -277,7 +277,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -326,7 +326,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -375,7 +375,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -424,7 +424,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -489,7 +489,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -538,7 +538,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -619,7 +619,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -764,7 +764,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -845,7 +845,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -894,7 +894,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -962,7 +962,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -1078,7 +1078,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -1128,7 +1128,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -1177,7 +1177,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -1226,7 +1226,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -1313,7 +1313,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -1384,7 +1384,7 @@ Request Method: `POST`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | longform_notetweets_rich_text_read_enabled                              | boolean | True     |         |
 | longform_notetweets_inline_media_enabled                                | boolean | False    |         |
 | profile_label_improvements_pcf_label_in_post_enabled                    | boolean | True     |         |
@@ -1438,7 +1438,7 @@ Request Method: `POST`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | longform_notetweets_rich_text_read_enabled                              | boolean | True     |         |
 | longform_notetweets_inline_media_enabled                                | boolean | False    |         |
 | profile_label_improvements_pcf_label_in_post_enabled                    | boolean | True     |         |
@@ -1598,7 +1598,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -1647,7 +1647,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -1712,7 +1712,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -1761,7 +1761,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -1810,7 +1810,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -1859,7 +1859,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -1916,7 +1916,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -1965,7 +1965,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2014,7 +2014,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2063,7 +2063,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2112,7 +2112,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2241,7 +2241,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2298,7 +2298,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2347,7 +2347,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2396,7 +2396,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2445,7 +2445,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2502,7 +2502,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2567,7 +2567,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2632,7 +2632,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2697,7 +2697,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2786,7 +2786,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2835,7 +2835,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2884,7 +2884,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2941,7 +2941,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -2990,7 +2990,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -3090,7 +3090,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -3155,7 +3155,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -3212,7 +3212,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -3269,7 +3269,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -3318,7 +3318,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -3383,7 +3383,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -3432,7 +3432,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -3481,7 +3481,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -3530,7 +3530,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -3571,7 +3571,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -3618,7 +3618,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -3756,7 +3756,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -3805,7 +3805,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -3854,7 +3854,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -3955,7 +3955,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -4004,7 +4004,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -4053,7 +4053,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -4102,7 +4102,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -4159,7 +4159,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -4208,7 +4208,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -4265,7 +4265,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -4314,7 +4314,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -4363,7 +4363,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -4523,7 +4523,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -4574,7 +4574,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -4639,7 +4639,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -4684,7 +4684,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -4802,7 +4802,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -4931,7 +4931,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -4982,7 +4982,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -5195,7 +5195,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -5236,7 +5236,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -5347,7 +5347,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -5416,7 +5416,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -5478,7 +5478,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -5549,7 +5549,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -5614,7 +5614,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -5791,7 +5791,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -5857,7 +5857,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -6071,7 +6071,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -6120,7 +6120,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -6257,7 +6257,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -6322,7 +6322,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -6387,7 +6387,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -6488,7 +6488,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -6615,7 +6615,7 @@ Request Method: `POST`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -6665,7 +6665,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -6779,7 +6779,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -6904,7 +6904,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -7234,7 +7234,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -7329,7 +7329,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -7416,7 +7416,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -7473,7 +7473,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -7521,7 +7521,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | profile_label_improvements_pcf_label_in_post_enabled                    | boolean | True     |         |
 | responsive_web_profile_redirect_enabled                                 | boolean | False    |         |
 | rweb_tipjar_consumption_enabled                                         | boolean | False    |         |
@@ -7600,7 +7600,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -7692,7 +7692,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -7876,7 +7876,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -7941,7 +7941,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -7986,7 +7986,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -8140,7 +8140,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -8197,7 +8197,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -8245,7 +8245,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | profile_label_improvements_pcf_label_in_post_enabled                    | boolean | True     |         |
 | responsive_web_profile_redirect_enabled                                 | boolean | False    |         |
 | rweb_tipjar_consumption_enabled                                         | boolean | False    |         |
@@ -8404,7 +8404,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -8493,7 +8493,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -8542,7 +8542,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -8591,7 +8591,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -8640,7 +8640,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -8689,7 +8689,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -8738,7 +8738,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -8787,7 +8787,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -8836,7 +8836,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -8901,7 +8901,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -8950,7 +8950,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -9031,7 +9031,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -9176,7 +9176,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -9257,7 +9257,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -9306,7 +9306,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -9374,7 +9374,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -9490,7 +9490,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -9540,7 +9540,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -9589,7 +9589,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -9638,7 +9638,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -9725,7 +9725,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -9796,7 +9796,7 @@ Request Method: `POST`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | longform_notetweets_rich_text_read_enabled                              | boolean | True     |         |
 | longform_notetweets_inline_media_enabled                                | boolean | False    |         |
 | profile_label_improvements_pcf_label_in_post_enabled                    | boolean | True     |         |
@@ -9850,7 +9850,7 @@ Request Method: `POST`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | longform_notetweets_rich_text_read_enabled                              | boolean | True     |         |
 | longform_notetweets_inline_media_enabled                                | boolean | False    |         |
 | profile_label_improvements_pcf_label_in_post_enabled                    | boolean | True     |         |
@@ -10010,7 +10010,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10059,7 +10059,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10124,7 +10124,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10173,7 +10173,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10222,7 +10222,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10271,7 +10271,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10328,7 +10328,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10377,7 +10377,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10426,7 +10426,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10475,7 +10475,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10524,7 +10524,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10653,7 +10653,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10710,7 +10710,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10759,7 +10759,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10808,7 +10808,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10857,7 +10857,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10914,7 +10914,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -10979,7 +10979,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11044,7 +11044,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11109,7 +11109,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11198,7 +11198,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11247,7 +11247,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11296,7 +11296,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11353,7 +11353,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11402,7 +11402,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11502,7 +11502,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11567,7 +11567,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11624,7 +11624,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11681,7 +11681,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11730,7 +11730,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11795,7 +11795,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11844,7 +11844,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11893,7 +11893,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11942,7 +11942,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -11983,7 +11983,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | rweb_cashtags_enabled                                                   | boolean | True     |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
@@ -12030,7 +12030,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -12168,7 +12168,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -12217,7 +12217,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -12266,7 +12266,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -12367,7 +12367,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -12416,7 +12416,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -12465,7 +12465,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -12514,7 +12514,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -12571,7 +12571,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -12620,7 +12620,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -12677,7 +12677,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -12726,7 +12726,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |
@@ -12775,7 +12775,7 @@ Request Method: `GET`<br>
 | content_disclosure_ai_generated_indicator_enabled                       | boolean | True     |         |
 | responsive_web_grok_show_grok_translated_post                           | boolean | True     |         |
 | responsive_web_grok_analysis_button_from_backend                        | boolean | True     |         |
-| post_ctas_fetch_enabled                                                 | boolean | True     |         |
+| post_ctas_fetch_enabled                                                 | boolean | False    |         |
 | freedom_of_speech_not_reach_fetch_enabled                               | boolean | True     |         |
 | standardized_nudges_misinfo                                             | boolean | True     |         |
 | tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled | boolean | True     |         |

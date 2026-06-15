@@ -1,7 +1,7 @@
 {
   "source": "https://x.com/home",
   "client": "responsive-web",
-  "sha": "9998178a68e40f05a470bad63a71cd6641ab99a3",
+  "sha": "247448ebce0e7c1fdf67e7e525f1c0d6af746859",
   "env": "prod",
   "counts": {
     "graphql": 290,
