@@ -621,6 +621,15 @@
     ]
   },
   {
+    "queryId": "live_pipeline/update_subscriptions",
+    "dispatch_key": "post",
+    "dispatch": [
+      "post",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
     "queryId": "account/not_my_account/disassociate",
     "dispatch_key": "post",
     "dispatch": [
@@ -702,10 +711,10 @@
     ]
   },
   {
-    "queryId": "live_pipeline/update_subscriptions",
-    "dispatch_key": "post",
+    "queryId": "contacts/addressbook",
+    "dispatch_key": "get",
     "dispatch": [
-      "post",
+      "get",
       "",
       "https://api.x.com/1.1/{queryId}.json"
     ]
@@ -856,15 +865,6 @@
   },
   {
     "queryId": "collections/entries",
-    "dispatch_key": "get",
-    "dispatch": [
-      "get",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "contacts/addressbook",
     "dispatch_key": "get",
     "dispatch": [
       "get",
