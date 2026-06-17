@@ -22932,9 +22932,12 @@
     "func_name": "a",
     "func_name_init": "i",
     "query": {
-      "timeline_type": "n",
+      "tweetId": "o",
+      "count": "t",
       "cursor": "i",
-      "count": "t"
+      "enableRanking": "r",
+      "includePromotedContent": "!0",
+      "...()(0,n.g)": "_"
     }
   },
   {
@@ -24905,9 +24908,12 @@
     "func_name": "a",
     "func_name_init": "i",
     "query": {
-      "timeline_type": "n",
+      "tweetId": "o",
+      "count": "t",
       "cursor": "i",
-      "count": "t"
+      "enableRanking": "r",
+      "includePromotedContent": "!0",
+      "...()(0,n.g)": "_"
     }
   },
   {

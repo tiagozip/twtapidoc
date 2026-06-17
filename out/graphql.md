@@ -7464,11 +7464,14 @@ Request URL: `https://x.com/i/api/graphql/6SsQvi19ZR-txuiu7Uo2OA/Favoriters`<br>
 Request Method: `GET`<br>
 ### Param<br>
 #### variables<br>
-| key           | type | variable |
-| :------------ | :--- | :------- |
-| timeline_type | ...  | n        |
-| cursor        | ...  | i        |
-| count         | ...  | t        |
+| key                    | type    | variable |
+| :--------------------- | :------ | :------- |
+| tweetId                | ...     | o        |
+| count                  | ...     | t        |
+| cursor                 | ...     | i        |
+| enableRanking          | ...     | r        |
+| includePromotedContent | boolean | True     |
+| ...()(0,n.g)           | ...     | _        |
 
 #### features<br>
 | key                                                                     | type    | variable | default |
@@ -8185,11 +8188,14 @@ Request URL: `https://x.com/i/api/graphql/6SsQvi19ZR-txuiu7Uo2OA/Favoriters`<br>
 Request Method: `GET`<br>
 ### Param<br>
 #### variables<br>
-| key           | type | variable |
-| :------------ | :--- | :------- |
-| timeline_type | ...  | n        |
-| cursor        | ...  | i        |
-| count         | ...  | t        |
+| key                    | type    | variable |
+| :--------------------- | :------ | :------- |
+| tweetId                | ...     | o        |
+| count                  | ...     | t        |
+| cursor                 | ...     | i        |
+| enableRanking          | ...     | r        |
+| includePromotedContent | boolean | True     |
+| ...()(0,n.g)           | ...     | _        |
 
 #### features<br>
 | key                                                                     | type    | variable | default |
