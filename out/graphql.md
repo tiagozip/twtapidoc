@@ -1667,7 +1667,7 @@ Request Method: `POST`<br>
 #### features<br>
 `None`<br>
 ## FinanceSearchTags<br>
-Request URL: `https://x.com/i/api/graphql/4BInQe9OX1qSSZYKT5LB2w/FinanceSearchTags`<br>
+Request URL: `https://x.com/i/api/graphql/4VTsYZ3r4xYW9S0Rys5G0A/FinanceSearchTags`<br>
 Request Method: `GET`<br>
 ### Param<br>
 #### variables<br>
@@ -10168,7 +10168,7 @@ Request Method: `POST`<br>
 #### features<br>
 `None`<br>
 ## FinanceSearchTags<br>
-Request URL: `https://x.com/i/api/graphql/4BInQe9OX1qSSZYKT5LB2w/FinanceSearchTags`<br>
+Request URL: `https://x.com/i/api/graphql/4VTsYZ3r4xYW9S0Rys5G0A/FinanceSearchTags`<br>
 Request Method: `GET`<br>
 ### Param<br>
 #### variables<br>
