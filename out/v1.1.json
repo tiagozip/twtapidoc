@@ -702,24 +702,6 @@
     ]
   },
   {
-    "queryId": "keyregistry/register",
-    "dispatch_key": "post",
-    "dispatch": [
-      "post",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "contacts/addressbook",
-    "dispatch_key": "get",
-    "dispatch": [
-      "get",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
     "queryId": "dm/welcome_messages/add_to_conversation",
     "dispatch_key": "post",
     "dispatch": [
@@ -837,6 +819,15 @@
     ]
   },
   {
+    "queryId": "keyregistry/register",
+    "dispatch_key": "post",
+    "dispatch": [
+      "post",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
     "queryId": "foundmedia/categories",
     "dispatch_key": "get",
     "dispatch": [
@@ -865,6 +856,15 @@
   },
   {
     "queryId": "collections/entries",
+    "dispatch_key": "get",
+    "dispatch": [
+      "get",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
+    "queryId": "contacts/addressbook",
     "dispatch_key": "get",
     "dispatch": [
       "get",
