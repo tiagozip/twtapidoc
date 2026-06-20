@@ -7681,7 +7681,7 @@ Request Method: `POST`<br>
 #### features<br>
 `None`<br>
 ## ViewerEmailSettings<br>
-Request URL: `https://x.com/i/api/graphql/JpjlNgn4sLGvS6tgpTzYBg/ViewerEmailSettings`<br>
+Request URL: `https://x.com/i/api/graphql/YYJk-rhCD2EUmq49LugABA/ViewerEmailSettings`<br>
 Request Method: `GET`<br>
 ### Param<br>
 #### variables<br>
