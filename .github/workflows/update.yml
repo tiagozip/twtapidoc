@@ -43,9 +43,9 @@ jobs:
           changes="${{ steps.gen.outputs.changes }}"
           date="$(date -u +%Y-%m-%d)"
           if [ "${changes:-0}" -gt 0 ]; then
-            msg="update: $date ($changes API changes)"
+            msg="build $date with $changes changes"
           else
-            msg="update: $date"
+            msg="build $date"
           fi
           git commit -m "$msg"
           git push
