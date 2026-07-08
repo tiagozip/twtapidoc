@@ -3036,6 +3036,22 @@ Request Method: `POST`<br>
 `None`<br>
 #### features<br>
 `None`<br>
+## PinnableTimelines<br>
+Request URL: `https://x.com/i/api/graphql/Tx2WqUDEDSYRA7IKfQReAg/PinnableTimelines`<br>
+Request Method: `GET`<br>
+### Param<br>
+#### variables<br>
+`None`<br>
+#### features<br>
+| key                                                               | type    | variable |
+| :---------------------------------------------------------------- | :------ | :------- |
+| profile_label_improvements_pcf_label_in_post_enabled              | boolean | True     |
+| responsive_web_profile_redirect_enabled                           | boolean | False    |
+| rweb_tipjar_consumption_enabled                                   | boolean | False    |
+| verified_phone_label_enabled                                      | boolean | False    |
+| responsive_web_graphql_skip_user_profile_image_extensions_enabled | boolean | False    |
+| responsive_web_graphql_timeline_navigation_enabled                | boolean | True     |
+
 ## PinnedTimelines<br>
 Request URL: `https://x.com/i/api/graphql/TRRXFHdz_saNdA9vVa94cg/PinnedTimelines`<br>
 Request Method: `GET`<br>
@@ -14070,6 +14086,22 @@ Request Method: `POST`<br>
 `None`<br>
 #### features<br>
 `None`<br>
+## PinnableTimelines<br>
+Request URL: `https://x.com/i/api/graphql/Tx2WqUDEDSYRA7IKfQReAg/PinnableTimelines`<br>
+Request Method: `GET`<br>
+### Param<br>
+#### variables<br>
+`None`<br>
+#### features<br>
+| key                                                               | type    | variable |
+| :---------------------------------------------------------------- | :------ | :------- |
+| profile_label_improvements_pcf_label_in_post_enabled              | boolean | True     |
+| responsive_web_profile_redirect_enabled                           | boolean | False    |
+| rweb_tipjar_consumption_enabled                                   | boolean | False    |
+| verified_phone_label_enabled                                      | boolean | False    |
+| responsive_web_graphql_skip_user_profile_image_extensions_enabled | boolean | False    |
+| responsive_web_graphql_timeline_navigation_enabled                | boolean | True     |
+
 ## PinnedTimelines<br>
 Request URL: `https://x.com/i/api/graphql/TRRXFHdz_saNdA9vVa94cg/PinnedTimelines`<br>
 Request Method: `GET`<br>
