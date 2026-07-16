@@ -162,6 +162,15 @@
     ]
   },
   {
+    "queryId": "graphql/app_context",
+    "dispatch_key": "post",
+    "dispatch": [
+      "post",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
     "queryId": "jot/external_referer",
     "dispatch_key": "post",
     "dispatch": [
@@ -531,7 +540,7 @@
     ]
   },
   {
-    "queryId": "media/metadata/create",
+    "queryId": "live_pipeline/update_subscriptions",
     "dispatch_key": "post",
     "dispatch": [
       "post",
@@ -540,10 +549,19 @@
     ]
   },
   {
-    "queryId": "media/subtitles/create",
+    "queryId": "account/not_my_account/disassociate",
     "dispatch_key": "post",
     "dispatch": [
       "post",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
+    "queryId": "account/not_my_account/get_masked_data",
+    "dispatch_key": "get",
+    "dispatch": [
+      "get",
       "",
       "https://api.x.com/1.1/{queryId}.json"
     ]
@@ -616,42 +634,6 @@
     "dispatch_key": "post",
     "dispatch": [
       "post",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "live_pipeline/update_subscriptions",
-    "dispatch_key": "post",
-    "dispatch": [
-      "post",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "account/not_my_account/disassociate",
-    "dispatch_key": "post",
-    "dispatch": [
-      "post",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "account/not_my_account/get_masked_data",
-    "dispatch_key": "get",
-    "dispatch": [
-      "get",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "lists/memberships",
-    "dispatch_key": "get",
-    "dispatch": [
-      "get",
       "",
       "https://api.x.com/1.1/{queryId}.json"
     ]
@@ -828,6 +810,24 @@
     ]
   },
   {
+    "queryId": "users/recommendations",
+    "dispatch_key": "get",
+    "dispatch": [
+      "get",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
+    "queryId": "lists/memberships",
+    "dispatch_key": "get",
+    "dispatch": [
+      "get",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
     "queryId": "keyregistry/register",
     "dispatch_key": "post",
     "dispatch": [
@@ -856,15 +856,6 @@
   },
   {
     "queryId": "foundmedia/search",
-    "dispatch_key": "get",
-    "dispatch": [
-      "get",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
-    "queryId": "users/recommendations",
     "dispatch_key": "get",
     "dispatch": [
       "get",
@@ -960,6 +951,24 @@
       "get",
       "I",
       "https://x.com/i/api/1.1/{queryId}.json"
+    ]
+  },
+  {
+    "queryId": "media/metadata/create",
+    "dispatch_key": "post",
+    "dispatch": [
+      "post",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
+    "queryId": "media/subtitles/create",
+    "dispatch_key": "post",
+    "dispatch": [
+      "post",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
     ]
   }
 ]
