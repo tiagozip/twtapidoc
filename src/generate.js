@@ -3,7 +3,7 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { getDispatch, splitDispatch } from "./dispatch.js";
 import { getGraphql, margeExports, margeFeatureSwitch, margeMetadata, toApi } from "./graphql.js";
-import { jsonParser, parse, searchJs, searchJsReg } from "./js-parser.js";
+import { extractJsonAssignment, jsonParser, parse, searchJsReg } from "./js-parser.js";
 import { genMdDispatch, genMdGraphql } from "./md.js";
 import { TwitterHome } from "./twitter.js";
 
@@ -58,14 +58,12 @@ async function main() {
   await twitter.getHome();
   log("home fetched");
 
-  const inline = parse(twitter.getScriptRes().join(""));
+  const inlineScript = twitter.getScriptRes().join("");
+  const inline = parse(inlineScript);
   const src = twitter.getScriptUrl();
 
-  const initialState = searchJsReg(inline, /window\.__INITIAL_STATE__=/)[0].after;
-  const initialOutput = JSON.parse(jsonParser(initialState));
-
-  const metaData = searchJs(inline, ";window.__META_DATA__=")[0].after;
-  const metaOutput = JSON.parse(jsonParser(metaData));
+  const initialOutput = extractJsonAssignment(inlineScript, "window.__INITIAL_STATE__=");
+  const metaOutput = extractJsonAssignment(inlineScript, "window.__META_DATA__=");
   log("initial state + metadata decoded");
 
   const scriptLoadData = searchJsReg(inline, /Promise\.all/)[0].after;
@@ -121,8 +119,8 @@ async function main() {
     prevGraphql.map((g) => g.exports?.operationName).filter(Boolean),
   );
   const featDiff = diffKeys(
-    Object.keys(featureSwitch),
-    prevApi ? collectPrevFeatureKeys(prevApi) : [],
+    collectFeatureKeys(apiOutput),
+    prevApi ? collectFeatureKeys(prevApi) : [],
   );
 
   const meta = {
@@ -170,9 +168,9 @@ async function main() {
   }
 }
 
-function collectPrevFeatureKeys(prevApi) {
+function collectFeatureKeys(api) {
   const keys = new Set();
-  for (const op of Object.values(prevApi.graphql || {})) {
+  for (const op of Object.values(api.graphql || {})) {
     for (const k of Object.keys(op.features || {})) keys.add(k);
   }
   return [...keys];

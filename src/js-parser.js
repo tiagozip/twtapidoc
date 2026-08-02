@@ -40,6 +40,31 @@ export function parse(script) {
   return root;
 }
 
+export function extractJsonAssignment(script, marker) {
+  const at = script.indexOf(marker);
+  if (at === -1) throw new Error(`marker not found: ${marker}`);
+  const start = script.indexOf("{", at + marker.length);
+  if (start === -1) throw new Error(`no object literal after: ${marker}`);
+
+  let depth = 0;
+  let quoted = false;
+  let escaped = false;
+  for (let i = start; i < script.length; i++) {
+    const char = script[i];
+    if (escaped) {
+      escaped = false;
+    } else if (char === "\\") {
+      escaped = true;
+    } else if (char === '"') {
+      quoted = !quoted;
+    } else if (!quoted) {
+      if (char === "{") depth++;
+      else if (char === "}" && --depth === 0) return JSON.parse(script.slice(start, i + 1));
+    }
+  }
+  throw new Error(`unterminated object literal after: ${marker}`);
+}
+
 function findall(re, groups, str) {
   re.lastIndex = 0;
   const out = [];

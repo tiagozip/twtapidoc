@@ -162,6 +162,11 @@ export function margeMetadata(graphqlOutput, featureSwitch) {
 
 const VARIABLE_CONVERTER = { "!0": true, "!1": false, true: true, false: false };
 
+export function switchValue(value) {
+  if (typeof value !== "string") return value;
+  return value in VARIABLE_CONVERTER ? VARIABLE_CONVERTER[value] : value;
+}
+
 export function toApi(graphqlOutput, extra) {
   const apiOutput = { graphql: {} };
   for (const graphql of graphqlOutput) {
@@ -170,7 +175,7 @@ export function toApi(graphqlOutput, extra) {
     const features = {};
     for (const key of exports.metadata.featureSwitches) {
       const sw = exports.metadata.featureSwitch?.[key];
-      if (sw != null) features[key] = VARIABLE_CONVERTER[sw.value];
+      if (sw != null) features[key] = switchValue(sw.value);
       else console.warn("NotFoundKey: " + key);
     }
     apiOutput.graphql[exports.operationName] = {

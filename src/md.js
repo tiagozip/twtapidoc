@@ -1,3 +1,4 @@
+import { switchValue } from "./graphql.js";
 const BR = "<br>\n";
 
 function cell(v) {
@@ -117,14 +118,8 @@ export function genMdGraphql(graphqlOutput) {
         switches.map((key) => {
           const sw = exports.metadata.featureSwitch?.[key];
           if (sw == null) return { key, type: "...", default: "error" };
-          if (typeof sw.value === "string") {
-            return {
-              key,
-              type: TYPE_CONVERTER[sw.value] ?? "...",
-              variable: VARIABLE_CONVERTER[sw.value] ?? "...",
-            };
-          }
-          return { key, type: "...", default: sw.value };
+          const value = switchValue(sw.value);
+          return { key, type: value == null ? "..." : typeof value, default: value };
         }),
       );
     } else {
