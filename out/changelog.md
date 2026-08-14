@@ -1,3 +1,16 @@
+## 2026-08-14
+### GraphQL API
+#### add
+- BirdwatchFetchSimilarMediaMatchSlice
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-07-31
 ### GraphQL API
 #### add
