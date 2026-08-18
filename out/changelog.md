@@ -1,3 +1,16 @@
+## 2026-08-18
+### GraphQL API
+#### add
+- QuickPromoteBoostContentCheck
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-08-14
 ### GraphQL API
 #### add
