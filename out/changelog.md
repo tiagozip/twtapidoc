@@ -1,3 +1,63 @@
+## 2026-08-20
+### GraphQL API
+#### add
+- CurrentNflWeek
+- FollowedTeams
+- NFLGameEventPage
+- NFLGameHydrate
+- NFLGameOdds
+- NFLGameRoster
+- NFLLiveGame
+- ProfileSeasonSchedule
+- ProfileTeamRoster
+- NFLSchedule
+- NFLSeasonStats
+- NFLStandings
+- NFLTeams
+- NflTop100
+- NFLWeeklySchedule
+- NFLWeeklyStats
+- SportsHubTrends
+- SportsProductCreateGameReminder
+- SportsProductDeleteGameReminder
+- SportsProductFollowTeam
+- SportsProductFollowedTeams
+- SportsProductGameReminders
+- SportsProductNflTeams
+- SportsProductUnfollowTeam
+- CurrentNflWeek
+- FollowedTeams
+- NFLGameEventPage
+- NFLGameHydrate
+- NFLGameOdds
+- NFLGameRoster
+- NFLLiveGame
+- ProfileSeasonSchedule
+- ProfileTeamRoster
+- NFLSchedule
+- NFLSeasonStats
+- NFLStandings
+- NFLTeams
+- NflTop100
+- NFLWeeklySchedule
+- NFLWeeklyStats
+- SportsHubTrends
+- SportsProductCreateGameReminder
+- SportsProductDeleteGameReminder
+- SportsProductFollowTeam
+- SportsProductFollowedTeams
+- SportsProductGameReminders
+- SportsProductNflTeams
+- SportsProductUnfollowTeam
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-08-18
 ### GraphQL API
 #### add
