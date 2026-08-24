@@ -1,3 +1,20 @@
+## 2026-08-24
+### GraphQL API
+#### add
+- SportsGameLatestTimeline
+- SportsGameTopTimeline
+- SportsGameLatestTimeline
+- SportsGameTopTimeline
+#### remove
+- NFLGameEventPage
+- NFLGameEventPage
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-08-20
 ### GraphQL API
 #### add
