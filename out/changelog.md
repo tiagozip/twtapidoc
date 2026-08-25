@@ -1,3 +1,21 @@
+## 2026-08-25
+### GraphQL API
+#### add
+- SportsProductOptInTeamNotifications
+- SportsProductOptOutTeamNotifications
+- SportsProductTeamNotificationSettings
+- SportsProductOptInTeamNotifications
+- SportsProductOptOutTeamNotifications
+- SportsProductTeamNotificationSettings
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-08-24
 ### GraphQL API
 #### add
