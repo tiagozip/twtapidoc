@@ -1,3 +1,20 @@
+## 2026-08-28
+### GraphQL API
+#### add
+- DeleteDraftTweets
+- DeleteDraftTweets
+- DeleteDraftTweets
+- DeleteDraftTweets
+- DeleteDraftTweets
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-08-25
 ### GraphQL API
 #### add
