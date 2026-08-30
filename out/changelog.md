@@ -1,3 +1,16 @@
+## 2026-08-30
+### GraphQL API
+#### add
+- NflScoresSidebarFollow
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-08-28
 ### GraphQL API
 #### add
