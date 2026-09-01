@@ -1,3 +1,16 @@
+## 2026-09-01
+### GraphQL API
+#### add
+- SportsProductChatState
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-08-30
 ### GraphQL API
 #### add
