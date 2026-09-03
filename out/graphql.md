@@ -2155,7 +2155,7 @@ Request Method: `GET`<br>
 | responsive_web_enhance_cards_enabled                                    | boolean | False   |
 
 ## UserHighlightsTweets<br>
-Request URL: `https://x.com/i/api/graphql/ryXhzHPlD6YJE137gSf7mQ/UserHighlightsTweets`<br>
+Request URL: `https://x.com/i/api/graphql/p1UTbncXKApPssa4EpqKvw/UserHighlightsTweets`<br>
 Request Method: `GET`<br>
 ### Param<br>
 #### variables<br>
@@ -2251,7 +2251,7 @@ Request Method: `GET`<br>
 | responsive_web_enhance_cards_enabled                                    | boolean | False   |
 
 ## UserOriginalsTimeline<br>
-Request URL: `https://x.com/i/api/graphql/jcbfqPu_2XMNOwVyGypRhw/UserOriginalsTimeline`<br>
+Request URL: `https://x.com/i/api/graphql/F3G579cN5xm0xa_j76q08Q/UserOriginalsTimeline`<br>
 Request Method: `GET`<br>
 ### Param<br>
 #### variables<br>
@@ -2603,7 +2603,7 @@ Request Method: `GET`<br>
 | responsive_web_enhance_cards_enabled                                    | boolean | False   |
 
 ## UserTweets<br>
-Request URL: `https://x.com/i/api/graphql/SXVCYB8XHSS25nzIljNtZA/UserTweets`<br>
+Request URL: `https://x.com/i/api/graphql/eviprbEPLvNG88V3smUngQ/UserTweets`<br>
 Request Method: `GET`<br>
 ### Param<br>
 #### variables<br>
@@ -18051,7 +18051,7 @@ Request Method: `GET`<br>
 | responsive_web_enhance_cards_enabled                                    | boolean | False   |
 
 ## UserHighlightsTweets<br>
-Request URL: `https://x.com/i/api/graphql/ryXhzHPlD6YJE137gSf7mQ/UserHighlightsTweets`<br>
+Request URL: `https://x.com/i/api/graphql/p1UTbncXKApPssa4EpqKvw/UserHighlightsTweets`<br>
 Request Method: `GET`<br>
 ### Param<br>
 #### variables<br>
@@ -18147,7 +18147,7 @@ Request Method: `GET`<br>
 | responsive_web_enhance_cards_enabled                                    | boolean | False   |
 
 ## UserOriginalsTimeline<br>
-Request URL: `https://x.com/i/api/graphql/jcbfqPu_2XMNOwVyGypRhw/UserOriginalsTimeline`<br>
+Request URL: `https://x.com/i/api/graphql/F3G579cN5xm0xa_j76q08Q/UserOriginalsTimeline`<br>
 Request Method: `GET`<br>
 ### Param<br>
 #### variables<br>
@@ -18499,7 +18499,7 @@ Request Method: `GET`<br>
 | responsive_web_enhance_cards_enabled                                    | boolean | False   |
 
 ## UserTweets<br>
-Request URL: `https://x.com/i/api/graphql/SXVCYB8XHSS25nzIljNtZA/UserTweets`<br>
+Request URL: `https://x.com/i/api/graphql/eviprbEPLvNG88V3smUngQ/UserTweets`<br>
 Request Method: `GET`<br>
 ### Param<br>
 #### variables<br>
