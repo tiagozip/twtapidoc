@@ -1,3 +1,17 @@
+## 2026-09-04
+### GraphQL API
+#### add
+- FollowTeamRoster
+- SportsTeamRosterFollowState
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-09-01
 ### GraphQL API
 #### add
