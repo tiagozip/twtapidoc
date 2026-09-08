@@ -1,3 +1,16 @@
+## 2026-09-08
+### GraphQL API
+#### add
+- None
+#### remove
+- None
+
+### Feature Switch
+#### add
+- rweb_sports_post_context_enabled
+#### remove
+- None
+
 ## 2026-09-04
 ### GraphQL API
 #### add
