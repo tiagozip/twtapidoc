@@ -19,17 +19,20 @@ const BEARER =
 async function pooledFetch(twitter, urls, limit) {
   const results = new Array(urls.length).fill("");
   let next = 0;
+  const failures = [];
   async function worker() {
     while (next < urls.length) {
       const i = next++;
       try {
         results[i] = await twitter.getText(urls[i]);
       } catch (e) {
+        failures.push(urls[i]);
         console.warn(`fetch failed: ${urls[i]} (${e})`);
       }
     }
   }
   await Promise.all(Array.from({ length: Math.min(limit, urls.length) }, worker));
+  if (failures.length) throw new Error(`${failures.length} bundle downloads failed; refusing to publish partial docs`);
   return results;
 }
 

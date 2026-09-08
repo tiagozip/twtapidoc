@@ -10,7 +10,8 @@ export class TwitterHome {
   }
 
   static async create() {
-    const res = await fetch(LATEST_USER_AGENT);
+    const res = await fetch(LATEST_USER_AGENT, { signal: AbortSignal.timeout(30_000) });
+    if (!res.ok) throw new Error(`user agent request returned HTTP ${res.status}`);
     const ua = (await res.json()).chrome;
     return new TwitterHome(ua);
   }
@@ -36,9 +37,27 @@ export class TwitterHome {
     };
   }
 
-  async getText(url) {
-    const res = await fetch(url, { headers: this.header() });
-    return await res.text();
+  async getText(url, options = {}) {
+    for (let attempt = 1; attempt <= 3; attempt++) {
+      try {
+        const res = await fetch(url, {
+          ...options,
+          headers: { ...this.header(), ...options.headers },
+          signal: AbortSignal.timeout(30_000),
+        });
+        if (!res.ok) {
+          await res.body?.cancel();
+          throw new Error(`HTTP ${res.status} from ${url}`);
+        }
+        const text = await res.text();
+        if (!text.trim()) throw new Error(`empty response from ${url}`);
+        return text;
+      } catch (error) {
+        if (attempt === 3) throw error;
+        console.warn(`request attempt ${attempt} failed: ${error.message}`);
+        await Bun.sleep(attempt * 1000);
+      }
+    }
   }
 
   async getHome() {
@@ -53,14 +72,17 @@ export class TwitterHome {
       for (const m of redirect.matchAll(/<input type="hidden" name="(.*?)" value="(.*?)" \/>/g)) {
         params[m[1]] = m[2];
       }
-      const res = await fetch(action, {
+      this.response = await this.getText(action, {
         method: "POST",
         headers: { ...this.header(), "content-type": "application/json" },
         body: JSON.stringify(params),
       });
-      this.response = await res.text();
     } else {
       this.response = legacy;
+    }
+    const scripts = this.getScriptRes().join("");
+    if (!scripts.includes("window.__INITIAL_STATE__=") || !scripts.includes("window.__META_DATA__=")) {
+      throw new Error(`X returned an unexpected page (${this.response.length} bytes, ${this.getScriptRes().length} inline scripts); initial state or metadata missing`);
     }
     return this.response;
   }

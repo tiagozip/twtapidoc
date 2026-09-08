@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - "src/**"
+      - "tests/**"
       - ".github/workflows/update.yml"
 
 permissions:
@@ -19,13 +20,38 @@ concurrency:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
 
       - uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
+
+      - name: Test
+        run: bun test
+
+      - name: Connect WARP
+        timeout-minutes: 5
+        run: |
+          curl -fsSL --retry 3 --max-time 30 https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor --output /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
+          echo "deb [signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ noble main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
+          sudo apt-get update -o Acquire::Retries=3
+          sudo apt-get install -y cloudflare-warp
+          sudo systemctl start warp-svc
+          warp-cli --accept-tos registration new
+          warp-cli --accept-tos mode warp+doh
+          warp-cli --accept-tos connect
+          for attempt in {1..12}; do
+            if curl -fsS --max-time 10 https://www.cloudflare.com/cdn-cgi/trace | grep -qx 'warp=on'; then
+              echo "WARP egress verified"
+              exit 0
+            fi
+            sleep 5
+          done
+          warp-cli --accept-tos status
+          exit 1
 
       - name: Generate docs
         id: gen
