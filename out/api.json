@@ -3565,14 +3565,20 @@
       "features": {}
     },
     "NFLGameHydrate": {
-      "url": "https://x.com/i/api/graphql/fHsc5Wm3mTSUoLWWlG66ew/NFLGameHydrate",
-      "queryId": "fHsc5Wm3mTSUoLWWlG66ew",
+      "url": "https://x.com/i/api/graphql/XtriwVR_hoq5nQhz8Q-dZg/NFLGameHydrate",
+      "queryId": "XtriwVR_hoq5nQhz8Q-dZg",
       "method": "GET",
       "features": {}
     },
     "NFLGameOdds": {
       "url": "https://x.com/i/api/graphql/BCsiVB5FamwjLHyEFBIOMA/NFLGameOdds",
       "queryId": "BCsiVB5FamwjLHyEFBIOMA",
+      "method": "GET",
+      "features": {}
+    },
+    "NFLGamePlayerProps": {
+      "url": "https://x.com/i/api/graphql/sdnp1Oz1pRRCxzBlqB_zBQ/NFLGamePlayerProps",
+      "queryId": "sdnp1Oz1pRRCxzBlqB_zBQ",
       "method": "GET",
       "features": {}
     },
@@ -3589,8 +3595,8 @@
       }
     },
     "NFLLiveGame": {
-      "url": "https://x.com/i/api/graphql/ngeyMUnnhn4X3dW4h8doEA/NFLLiveGame",
-      "queryId": "ngeyMUnnhn4X3dW4h8doEA",
+      "url": "https://x.com/i/api/graphql/1ssBFzuY0MFqgTl9h6a3hw/NFLLiveGame",
+      "queryId": "1ssBFzuY0MFqgTl9h6a3hw",
       "method": "GET",
       "features": {}
     },

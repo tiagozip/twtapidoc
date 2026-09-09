@@ -1,3 +1,16 @@
+## 2026-09-09
+### GraphQL API
+#### add
+- NFLGamePlayerProps
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-09-08
 ### GraphQL API
 #### add
