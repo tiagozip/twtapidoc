@@ -1,3 +1,17 @@
+## 2026-09-15
+### GraphQL API
+#### add
+- ViewerBadgeCounts
+- ViewerBadgeCounts
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-09-11
 ### GraphQL API
 #### add
