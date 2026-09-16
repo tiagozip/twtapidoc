@@ -1,3 +1,16 @@
+## 2026-09-16
+### GraphQL API
+#### add
+- BroadcastUpdateViewerSession
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-09-15
 ### GraphQL API
 #### add

@@ -648,15 +648,6 @@
     ]
   },
   {
-    "queryId": "moments/create",
-    "dispatch_key": "post",
-    "dispatch": [
-      "post",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
     "queryId": "account/user_twitter_data",
     "dispatch_key": "get",
     "dispatch": [
@@ -910,6 +901,15 @@
   },
   {
     "queryId": "mutes/keywords/update",
+    "dispatch_key": "post",
+    "dispatch": [
+      "post",
+      "",
+      "https://api.x.com/1.1/{queryId}.json"
+    ]
+  },
+  {
+    "queryId": "moments/create",
     "dispatch_key": "post",
     "dispatch": [
       "post",
