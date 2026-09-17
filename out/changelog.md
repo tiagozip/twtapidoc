@@ -1,3 +1,19 @@
+## 2026-09-17
+### GraphQL API
+#### add
+- GifEnumerateCategory
+- GifSearch
+- GifEnumerateCategory
+- GifSearch
+#### remove
+- None
+
+### Feature Switch
+#### add
+- responsive_web_nested_quote_preview_enabled
+#### remove
+- None
+
 ## 2026-09-16
 ### GraphQL API
 #### add
