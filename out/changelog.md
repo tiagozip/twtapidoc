@@ -1,3 +1,30 @@
+## 2026-09-19
+### GraphQL API
+#### add
+- NFLTeamLastGameHighlights
+- SportsProductAdSlots
+- SportsProductSetTeamPick
+- SportsProductTeamPicker
+- SportsProductTeamTallies
+- NFLTeamLastGameHighlights
+- SportsProductAdSlots
+- SportsProductSetTeamPick
+- SportsProductTeamPicker
+- SportsProductTeamTallies
+- NFLTeamLastGameHighlights
+- SportsProductAdSlots
+- SportsProductSetTeamPick
+- SportsProductTeamPicker
+- SportsProductTeamTallies
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-09-17
 ### GraphQL API
 #### add

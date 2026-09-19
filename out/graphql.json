@@ -15810,7 +15810,7 @@
   {
     "n": "800099",
     "exports": {
-      "queryId": "SruM3PX-YvCLmsvaaGjqPQ",
+      "queryId": "8pLIKp-Khhl_ANf4ZeSgVg",
       "operationName": "NFLGameRoster",
       "operationType": "query",
       "metadata": {
@@ -15928,6 +15928,19 @@
     "exports": {
       "queryId": "whFK1zt98nRCL8cRDsnqFg",
       "operationName": "NFLStandings",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "128898",
+    "exports": {
+      "queryId": "RJLJjyt4VPiQ5006q8Tteg",
+      "operationName": "NFLTeamLastGameHighlights",
       "operationType": "query",
       "metadata": {
         "featureSwitches": [],
@@ -16537,9 +16550,22 @@
     }
   },
   {
+    "n": "988206",
+    "exports": {
+      "queryId": "pgakXvDW-RVau7vMG6En0A",
+      "operationName": "SportsProductAdSlots",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
     "n": "274925",
     "exports": {
-      "queryId": "YNyONbdF7kyn5A7YrAom-w",
+      "queryId": "x1B2DaFQ3OroLl5xCmnVXQ",
       "operationName": "SportsProductChatState",
       "operationType": "query",
       "metadata": {
@@ -16667,10 +16693,49 @@
     }
   },
   {
+    "n": "518740",
+    "exports": {
+      "queryId": "wgQc8AbBeexw0Hx3kPtFFQ",
+      "operationName": "SportsProductSetTeamPick",
+      "operationType": "mutation",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
     "n": "418879",
     "exports": {
       "queryId": "o_ONtKkXGr4GQOvvihmVbA",
       "operationName": "SportsProductTeamNotificationSettings",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "202239",
+    "exports": {
+      "queryId": "XwhsOQbv-QA-y5CmUd6mdg",
+      "operationName": "SportsProductTeamPicker",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "341623",
+    "exports": {
+      "queryId": "i4p1dyYRohDUQZCx22d0xA",
+      "operationName": "SportsProductTeamTallies",
       "operationType": "query",
       "metadata": {
         "featureSwitches": [],
@@ -24124,7 +24189,7 @@
   {
     "n": "800099",
     "exports": {
-      "queryId": "SruM3PX-YvCLmsvaaGjqPQ",
+      "queryId": "8pLIKp-Khhl_ANf4ZeSgVg",
       "operationName": "NFLGameRoster",
       "operationType": "query",
       "metadata": {
@@ -24242,6 +24307,19 @@
     "exports": {
       "queryId": "whFK1zt98nRCL8cRDsnqFg",
       "operationName": "NFLStandings",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "128898",
+    "exports": {
+      "queryId": "RJLJjyt4VPiQ5006q8Tteg",
+      "operationName": "NFLTeamLastGameHighlights",
       "operationType": "query",
       "metadata": {
         "featureSwitches": [],
@@ -25032,9 +25110,22 @@
     }
   },
   {
+    "n": "988206",
+    "exports": {
+      "queryId": "pgakXvDW-RVau7vMG6En0A",
+      "operationName": "SportsProductAdSlots",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
     "n": "274925",
     "exports": {
-      "queryId": "YNyONbdF7kyn5A7YrAom-w",
+      "queryId": "x1B2DaFQ3OroLl5xCmnVXQ",
       "operationName": "SportsProductChatState",
       "operationType": "query",
       "metadata": {
@@ -25162,10 +25253,49 @@
     }
   },
   {
+    "n": "518740",
+    "exports": {
+      "queryId": "wgQc8AbBeexw0Hx3kPtFFQ",
+      "operationName": "SportsProductSetTeamPick",
+      "operationType": "mutation",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
     "n": "418879",
     "exports": {
       "queryId": "o_ONtKkXGr4GQOvvihmVbA",
       "operationName": "SportsProductTeamNotificationSettings",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "202239",
+    "exports": {
+      "queryId": "XwhsOQbv-QA-y5CmUd6mdg",
+      "operationName": "SportsProductTeamPicker",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "341623",
+    "exports": {
+      "queryId": "i4p1dyYRohDUQZCx22d0xA",
+      "operationName": "SportsProductTeamTallies",
       "operationType": "query",
       "metadata": {
         "featureSwitches": [],
@@ -27901,7 +28031,7 @@
   {
     "n": "800099",
     "exports": {
-      "queryId": "SruM3PX-YvCLmsvaaGjqPQ",
+      "queryId": "8pLIKp-Khhl_ANf4ZeSgVg",
       "operationName": "NFLGameRoster",
       "operationType": "query",
       "metadata": {
@@ -28019,6 +28149,19 @@
     "exports": {
       "queryId": "whFK1zt98nRCL8cRDsnqFg",
       "operationName": "NFLStandings",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "128898",
+    "exports": {
+      "queryId": "RJLJjyt4VPiQ5006q8Tteg",
+      "operationName": "NFLTeamLastGameHighlights",
       "operationType": "query",
       "metadata": {
         "featureSwitches": [],
@@ -28628,9 +28771,22 @@
     }
   },
   {
+    "n": "988206",
+    "exports": {
+      "queryId": "pgakXvDW-RVau7vMG6En0A",
+      "operationName": "SportsProductAdSlots",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
     "n": "274925",
     "exports": {
-      "queryId": "YNyONbdF7kyn5A7YrAom-w",
+      "queryId": "x1B2DaFQ3OroLl5xCmnVXQ",
       "operationName": "SportsProductChatState",
       "operationType": "query",
       "metadata": {
@@ -28758,10 +28914,49 @@
     }
   },
   {
+    "n": "518740",
+    "exports": {
+      "queryId": "wgQc8AbBeexw0Hx3kPtFFQ",
+      "operationName": "SportsProductSetTeamPick",
+      "operationType": "mutation",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
     "n": "418879",
     "exports": {
       "queryId": "o_ONtKkXGr4GQOvvihmVbA",
       "operationName": "SportsProductTeamNotificationSettings",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "202239",
+    "exports": {
+      "queryId": "XwhsOQbv-QA-y5CmUd6mdg",
+      "operationName": "SportsProductTeamPicker",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "341623",
+    "exports": {
+      "queryId": "i4p1dyYRohDUQZCx22d0xA",
+      "operationName": "SportsProductTeamTallies",
       "operationType": "query",
       "metadata": {
         "featureSwitches": [],
