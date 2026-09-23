@@ -4205,8 +4205,8 @@
       "features": {}
     },
     "AiTrendByRestId": {
-      "url": "https://x.com/i/api/graphql/eSeYHOd6VbQ_Emazm5ntIA/AiTrendByRestId",
-      "queryId": "eSeYHOd6VbQ_Emazm5ntIA",
+      "url": "https://x.com/i/api/graphql/wdJkPBXYhqRFOfz3851zOQ/AiTrendByRestId",
+      "queryId": "wdJkPBXYhqRFOfz3851zOQ",
       "method": "GET",
       "features": {
         "creator_subscriptions_tweet_preview_api_enabled": true,
@@ -4511,6 +4511,12 @@
     "Budgets": {
       "url": "https://x.com/i/api/graphql/mbK3oSQotwcJXyQIBE3uYw/Budgets",
       "queryId": "mbK3oSQotwcJXyQIBE3uYw",
+      "method": "GET",
+      "features": {}
+    },
+    "BudgetsByCurrency": {
+      "url": "https://x.com/i/api/graphql/WKAPUeb7AOpuxWasFAJ1Dw/BudgetsByCurrency",
+      "queryId": "WKAPUeb7AOpuxWasFAJ1Dw",
       "method": "GET",
       "features": {}
     },
