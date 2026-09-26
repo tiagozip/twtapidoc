@@ -1,7 +1,7 @@
 const LATEST_USER_AGENT = "https://raw.githubusercontent.com/tiagozip/latest-user-agent/main/output.json";
 
 export class TwitterHome {
-  static TWITTER_HOME = "https://x.com/home";
+  static TWITTER_HOME = "https://x.com/i/jf/";
   static CLIENT = "responsive-web";
 
   constructor(userAgent) {
