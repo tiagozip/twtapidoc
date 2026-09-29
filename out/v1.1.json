@@ -837,15 +837,6 @@
     ]
   },
   {
-    "queryId": "",
-    "dispatch_key": "post",
-    "dispatch": [
-      "post",
-      "",
-      "https://api.x.com/1.1/{queryId}.json"
-    ]
-  },
-  {
     "queryId": "media/metadata/create",
     "dispatch_key": "post",
     "dispatch": [

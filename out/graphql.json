@@ -29594,12 +29594,12 @@
         }
       }
     },
-    "func_name": "i",
-    "func_name_init": "a",
+    "func_name": "a",
+    "func_name_init": "i",
     "query": {
       "tweetId": "o",
       "count": "t",
-      "cursor": "a",
+      "cursor": "i",
       "enableRanking": "r",
       "includePromotedContent": "!0",
       "...()(0,n.gy)": "_"
@@ -29790,8 +29790,8 @@
     "query": {
       "tweetId": "r",
       "count": "t",
-      "cursor": "a",
-      "enableRanking": "i",
+      "cursor": "i",
+      "enableRanking": "a",
       "includePromotedContent": "!0",
       "...()(0,n.gy)": "_"
     }
@@ -36567,12 +36567,12 @@
         }
       }
     },
-    "func_name": "i",
-    "func_name_init": "a",
+    "func_name": "a",
+    "func_name_init": "i",
     "query": {
       "tweetId": "o",
       "count": "t",
-      "cursor": "a",
+      "cursor": "i",
       "enableRanking": "r",
       "includePromotedContent": "!0",
       "...()(0,n.gy)": "_"
@@ -36763,8 +36763,8 @@
     "query": {
       "tweetId": "r",
       "count": "t",
-      "cursor": "a",
-      "enableRanking": "i",
+      "cursor": "i",
+      "enableRanking": "a",
       "includePromotedContent": "!0",
       "...()(0,n.gy)": "_"
     }
