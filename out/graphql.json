@@ -65,19 +65,6 @@
     }
   },
   {
-    "n": "203642",
-    "exports": {
-      "queryId": "pROR-yRiBVsEjJyHt3fvhg",
-      "operationName": "BakeryQuery",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
     "n": "839423",
     "exports": {
       "queryId": "17j54yk-VPnOed6s1EdosQ",
@@ -10034,14 +10021,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -14189,14 +14168,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -14663,14 +14634,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -15232,14 +15195,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -17832,14 +17787,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -20185,14 +20132,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -20672,14 +20611,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -25077,14 +25008,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -25447,14 +25370,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -25817,14 +25732,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -26291,14 +26198,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -26806,14 +26705,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -27176,14 +27067,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -28665,14 +28548,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -29061,14 +28936,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -29593,16 +29460,6 @@
           }
         }
       }
-    },
-    "func_name": "a",
-    "func_name_init": "i",
-    "query": {
-      "tweetId": "o",
-      "count": "t",
-      "cursor": "i",
-      "enableRanking": "r",
-      "includePromotedContent": "!0",
-      "...()(0,n.gy)": "_"
     }
   },
   {
@@ -29784,16 +29641,6 @@
           }
         }
       }
-    },
-    "func_name": "o",
-    "func_name_init": "r",
-    "query": {
-      "tweetId": "r",
-      "count": "t",
-      "cursor": "i",
-      "enableRanking": "a",
-      "includePromotedContent": "!0",
-      "...()(0,n.gy)": "_"
     }
   },
   {
@@ -29975,13 +29822,6 @@
           }
         }
       }
-    },
-    "func_name": "l",
-    "func_name_init": "s",
-    "query": {
-      "tweetId": "t",
-      "...()(0,n.gy)": "_",
-      "withQuickPromoteEligibilityTweetFields": "!0"
     }
   },
   {
@@ -30721,14 +30561,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -31091,14 +30923,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -31552,14 +31376,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -31948,14 +31764,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -32318,14 +32126,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -32688,14 +32488,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -33058,14 +32850,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -36296,14 +36080,6 @@
           }
         }
       }
-    },
-    "func_name": "c",
-    "func_name_init": "a",
-    "query": {
-      "tweetId": "n",
-      "withCommunity": "!1",
-      "includePromotedContent": "!1",
-      "withVoice": "!1"
     }
   },
   {
@@ -36566,16 +36342,6 @@
           }
         }
       }
-    },
-    "func_name": "a",
-    "func_name_init": "i",
-    "query": {
-      "tweetId": "o",
-      "count": "t",
-      "cursor": "i",
-      "enableRanking": "r",
-      "includePromotedContent": "!0",
-      "...()(0,n.gy)": "_"
     }
   },
   {
@@ -36757,16 +36523,6 @@
           }
         }
       }
-    },
-    "func_name": "o",
-    "func_name_init": "r",
-    "query": {
-      "tweetId": "r",
-      "count": "t",
-      "cursor": "i",
-      "enableRanking": "a",
-      "includePromotedContent": "!0",
-      "...()(0,n.gy)": "_"
     }
   },
   {
@@ -36948,13 +36704,6 @@
           }
         }
       }
-    },
-    "func_name": "l",
-    "func_name_init": "s",
-    "query": {
-      "tweetId": "t",
-      "...()(0,n.gy)": "_",
-      "withQuickPromoteEligibilityTweetFields": "!0"
     }
   },
   {
@@ -37648,19 +37397,6 @@
     "exports": {
       "queryId": "q4Npr1-FYRWyXsRzPckwEA",
       "operationName": "ViewerBadgeCounts",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "203642",
-    "exports": {
-      "queryId": "pROR-yRiBVsEjJyHt3fvhg",
-      "operationName": "BakeryQuery",
       "operationType": "query",
       "metadata": {
         "featureSwitches": [],

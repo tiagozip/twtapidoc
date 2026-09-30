@@ -30,12 +30,6 @@
       "method": "GET",
       "features": {}
     },
-    "BakeryQuery": {
-      "url": "https://x.com/i/api/graphql/pROR-yRiBVsEjJyHt3fvhg/BakeryQuery",
-      "queryId": "pROR-yRiBVsEjJyHt3fvhg",
-      "method": "GET",
-      "features": {}
-    },
     "BlockedAccountsAll": {
       "url": "https://x.com/i/api/graphql/17j54yk-VPnOed6s1EdosQ/BlockedAccountsAll",
       "queryId": "17j54yk-VPnOed6s1EdosQ",

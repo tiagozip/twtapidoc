@@ -1,3 +1,17 @@
+## 2026-09-30
+### GraphQL API
+#### add
+- None
+#### remove
+- BakeryQuery
+- BakeryQuery
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-09-23
 ### GraphQL API
 #### add
