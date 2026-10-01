@@ -1,3 +1,34 @@
+## 2026-10-01
+### GraphQL API
+#### add
+- SportsProductSnoozeGameReminder
+- SportsProductSnoozeGameReminder
+- SportsProductSnoozeGameReminder
+- MLBGameHydrate
+- MLBGameOdds
+- MLBLeaders
+- MLBLiveGame
+- MLBMatchup
+- MLBPlayerProfile
+- MLBSchedule
+- MLBScheduleDays
+- MLBStandings
+- MLBTeams
+- SportsHubBySport
+- SportsProductFollowedTeamsV2
+- SportsProductLeagueMediaSeries
+- SportsProductLeagueTeams
+- SportsProductSnoozeGameReminder
+- SportsProductSnoozeGameReminder
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-09-30
 ### GraphQL API
 #### add
