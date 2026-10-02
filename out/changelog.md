@@ -1,3 +1,25 @@
+## 2026-10-02
+### GraphQL API
+#### add
+- NflScoresSidebarLiveGame
+- MlbScoresSidebarLiveGame
+- NflScoresSidebarLiveGame
+- UserSportsProfile
+- MlbScoresSidebarLiveGame
+- SportsLeagueFollow
+- NflScoresSidebarLiveGame
+- NflScoresSidebarLiveGame
+- NflScoresSidebarLiveGame
+- UserSportsProfile
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-10-01
 ### GraphQL API
 #### add
