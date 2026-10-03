@@ -1,3 +1,17 @@
+## 2026-10-03
+### GraphQL API
+#### add
+- MLBPostseasonRounds
+- MLBPostseasonRounds
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-10-02
 ### GraphQL API
 #### add

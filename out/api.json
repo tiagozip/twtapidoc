@@ -1846,7 +1846,7 @@
         "verified_phone_label_enabled": false,
         "highlights_tweets_tab_ui_enabled": true,
         "responsive_web_twitter_article_notes_tab_enabled": true,
-        "subscriptions_feature_can_gift_premium": true,
+        "subscriptions_feature_can_gift_premium": false,
         "creator_subscriptions_tweet_preview_api_enabled": true,
         "responsive_web_graphql_timeline_navigation_enabled": true
       }
@@ -1865,7 +1865,7 @@
         "subscriptions_verification_info_verified_since_enabled": true,
         "highlights_tweets_tab_ui_enabled": true,
         "responsive_web_twitter_article_notes_tab_enabled": true,
-        "subscriptions_feature_can_gift_premium": true,
+        "subscriptions_feature_can_gift_premium": false,
         "creator_subscriptions_tweet_preview_api_enabled": true,
         "responsive_web_graphql_timeline_navigation_enabled": true
       }
@@ -2558,7 +2558,7 @@
         "subscriptions_verification_info_verified_since_enabled": true,
         "highlights_tweets_tab_ui_enabled": true,
         "responsive_web_twitter_article_notes_tab_enabled": true,
-        "subscriptions_feature_can_gift_premium": true,
+        "subscriptions_feature_can_gift_premium": false,
         "creator_subscriptions_tweet_preview_api_enabled": true,
         "responsive_web_graphql_timeline_navigation_enabled": true
       }
@@ -4473,8 +4473,8 @@
       "features": {}
     },
     "MLBGameHydrate": {
-      "url": "https://x.com/i/api/graphql/_rYux0Ctq-AI-N_Fde5_bQ/MLBGameHydrate",
-      "queryId": "_rYux0Ctq-AI-N_Fde5_bQ",
+      "url": "https://x.com/i/api/graphql/phsne54Bfd6Yx0jJLS5s_A/MLBGameHydrate",
+      "queryId": "phsne54Bfd6Yx0jJLS5s_A",
       "method": "GET",
       "features": {}
     },
@@ -4508,9 +4508,15 @@
       "method": "GET",
       "features": {}
     },
+    "MLBPostseasonRounds": {
+      "url": "https://x.com/i/api/graphql/thgZnfjQjxqkh0hmoVvGew/MLBPostseasonRounds",
+      "queryId": "thgZnfjQjxqkh0hmoVvGew",
+      "method": "GET",
+      "features": {}
+    },
     "MLBSchedule": {
-      "url": "https://x.com/i/api/graphql/DfH5Xpn8YRHPFYL2ngbdWg/MLBSchedule",
-      "queryId": "DfH5Xpn8YRHPFYL2ngbdWg",
+      "url": "https://x.com/i/api/graphql/LF20hIABrq6kjc7fhInf7Q/MLBSchedule",
+      "queryId": "LF20hIABrq6kjc7fhInf7Q",
       "method": "GET",
       "features": {}
     },
