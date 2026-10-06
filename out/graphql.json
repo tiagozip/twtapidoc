@@ -67,7 +67,7 @@
   {
     "n": "839423",
     "exports": {
-      "queryId": "17j54yk-VPnOed6s1EdosQ",
+      "queryId": "6rXG9JjNz_sYumZ91slicQ",
       "operationName": "BlockedAccountsAll",
       "operationType": "query",
       "metadata": {
@@ -115,6 +115,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -248,7 +249,7 @@
   {
     "n": "482004",
     "exports": {
-      "queryId": "NOopxUl-dcnnOI1_zXQyLg",
+      "queryId": "7oPe9QPWh3NcxsLjohRNFA",
       "operationName": "BlockedAccountsImported",
       "operationType": "query",
       "metadata": {
@@ -296,6 +297,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -429,7 +431,7 @@
   {
     "n": "877500",
     "exports": {
-      "queryId": "ck_SV_kTAlbD2WZiOFNbzw",
+      "queryId": "Qv0-wBcYvGkyVFOqOsQZyg",
       "operationName": "BlueVerifiedFollowers",
       "operationType": "query",
       "metadata": {
@@ -477,6 +479,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -610,7 +613,7 @@
   {
     "n": "521179",
     "exports": {
-      "queryId": "vqbH512y_Emfr0P4rXJ0Lw",
+      "queryId": "BYZi2BctI_PPWPtVIARwNQ",
       "operationName": "BookmarkSearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -658,6 +661,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -833,7 +837,7 @@
   {
     "n": "144664",
     "exports": {
-      "queryId": "Chu4A5yjQn8BVizIpzQaQA",
+      "queryId": "lMeej6L3iMbAeEV2t--J4g",
       "operationName": "ConnectTabTimeline",
       "operationType": "query",
       "metadata": {
@@ -881,6 +885,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -1066,7 +1071,7 @@
   {
     "n": "384719",
     "exports": {
-      "queryId": "Q-sJyowqllPknxuKDt_pKQ",
+      "queryId": "4ZgEQwT1s_Ztx7oXm2Sxug",
       "operationName": "CreateNoteTweet",
       "operationType": "mutation",
       "metadata": {
@@ -1117,6 +1122,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -1248,7 +1254,7 @@
   {
     "n": "11111",
     "exports": {
-      "queryId": "WNkbkQ_JLIofjdukTXahVA",
+      "queryId": "5pUpVEnRC2yGK7jaguF11w",
       "operationName": "CreateTweet",
       "operationType": "mutation",
       "metadata": {
@@ -1299,6 +1305,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -1586,7 +1593,7 @@
   {
     "n": "274412",
     "exports": {
-      "queryId": "e9FxSelvGhzaVvCyfmd-HA",
+      "queryId": "YUF9RvPginQpy9yj55R2FQ",
       "operationName": "ExplorePage",
       "operationType": "query",
       "metadata": {
@@ -1634,6 +1641,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -1767,7 +1775,7 @@
   {
     "n": "73245",
     "exports": {
-      "queryId": "a_EaOYRmowjytmooCbPRtA",
+      "queryId": "mrDxGGskdmtL9jDw2vjyWA",
       "operationName": "ExploreSidebar",
       "operationType": "query",
       "metadata": {
@@ -1815,6 +1823,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -1974,7 +1983,7 @@
   {
     "n": "810724",
     "exports": {
-      "queryId": "mrqxgX8JzwlL6pvYiC5CPA",
+      "queryId": "NPvSAR1p8XUWh8J6PeP3-g",
       "operationName": "Followers",
       "operationType": "query",
       "metadata": {
@@ -2022,6 +2031,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -2155,7 +2165,7 @@
   {
     "n": "618300",
     "exports": {
-      "queryId": "kSjQs8VV3c9WKxUoutJcrw",
+      "queryId": "-1esnGbXeHMrJabM9z3FCg",
       "operationName": "FollowersYouKnow",
       "operationType": "query",
       "metadata": {
@@ -2203,6 +2213,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -2336,7 +2347,7 @@
   {
     "n": "747136",
     "exports": {
-      "queryId": "uwmIAx89XrXNuGY-Y7WFLg",
+      "queryId": "nyTOiXy603sofPjdrXYL9Q",
       "operationName": "Following",
       "operationType": "query",
       "metadata": {
@@ -2384,6 +2395,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -2517,7 +2529,7 @@
   {
     "n": "107530",
     "exports": {
-      "queryId": "S_hzVUv1trgZ_5ruDe2IoA",
+      "queryId": "yXgbfagsvlYI3tUiju1_tA",
       "operationName": "GenericTimelineById",
       "operationType": "query",
       "metadata": {
@@ -2565,6 +2577,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -2711,7 +2724,7 @@
   {
     "n": "584558",
     "exports": {
-      "queryId": "c2zrxcOVSiQFzV1LvnKYXg",
+      "queryId": "jQEhWNvLuOJt6Q4V5CIKuA",
       "operationName": "GlobalCommunitiesLatestPostSearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -2759,6 +2772,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -2892,7 +2906,7 @@
   {
     "n": "39383",
     "exports": {
-      "queryId": "vcCW9agd-RJnwBZrxVkzFg",
+      "queryId": "6tOMHf1gbEUX607xV94Fzg",
       "operationName": "GlobalCommunitiesPostSearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -2940,6 +2954,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -3073,7 +3088,7 @@
   {
     "n": "837876",
     "exports": {
-      "queryId": "PgAssYGsPMMF1vVox5ysPg",
+      "queryId": "RQ7C2mINUB7QZE_0cjWojg",
       "operationName": "Likes",
       "operationType": "query",
       "metadata": {
@@ -3121,6 +3136,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -3254,7 +3270,7 @@
   {
     "n": "740403",
     "exports": {
-      "queryId": "6RIvCXM8i3HnC2_Rshgb_w",
+      "queryId": "c0yisjFInR0q6U4BQzmZ8Q",
       "operationName": "ListSearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -3302,6 +3318,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -3435,7 +3452,7 @@
   {
     "n": "507459",
     "exports": {
-      "queryId": "SJlH7KNABwCu-8BxJGIqzw",
+      "queryId": "pGjfYkkmpERoNXlSkG_JVw",
       "operationName": "MediaTabVideoMixer",
       "operationType": "query",
       "metadata": {
@@ -3483,6 +3500,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -3629,7 +3647,7 @@
   {
     "n": "881236",
     "exports": {
-      "queryId": "Q51KPb_uAJZDWhsvRcKToQ",
+      "queryId": "ubfJzUyBYxZrkX0uy3Phxw",
       "operationName": "ModeratedTimeline",
       "operationType": "query",
       "metadata": {
@@ -3677,6 +3695,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -3810,7 +3829,7 @@
   {
     "n": "198777",
     "exports": {
-      "queryId": "SkK3NXvsAGlAlcNhRBDiKw",
+      "queryId": "6JrmiYt7YNyqdWoiV3zwqg",
       "operationName": "MutedAccounts",
       "operationType": "query",
       "metadata": {
@@ -3858,6 +3877,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -4012,7 +4032,7 @@
   {
     "n": "588524",
     "exports": {
-      "queryId": "ZMYcJPUQ0QIAyWekMdAuDw",
+      "queryId": "qaz5JhPxqI3UqAgkTpsGyQ",
       "operationName": "PinTimeline",
       "operationType": "mutation",
       "metadata": {
@@ -4025,6 +4045,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -4063,7 +4084,7 @@
   {
     "n": "61219",
     "exports": {
-      "queryId": "XUpSmUE_n6ez-U_SdC7G7g",
+      "queryId": "HQ-MFOr09c_gbFjDGPJn-w",
       "operationName": "PinnableTimelines",
       "operationType": "query",
       "metadata": {
@@ -4076,6 +4097,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -4101,7 +4123,7 @@
   {
     "n": "875186",
     "exports": {
-      "queryId": "1C9qXYjxcujNpyJWE6tAeg",
+      "queryId": "8J1r9u3VjUveEdTY4WUTwQ",
       "operationName": "PinnedTimelines",
       "operationType": "query",
       "metadata": {
@@ -4114,6 +4136,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -4139,7 +4162,7 @@
   {
     "n": "918685",
     "exports": {
-      "queryId": "bIYQNt7PiYua6tWDAuTY3Q",
+      "queryId": "l9D2IzxaXsHw8NkTGJS4EQ",
       "operationName": "ProfileFilter",
       "operationType": "query",
       "metadata": {
@@ -4187,6 +4210,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -4359,7 +4383,7 @@
   {
     "n": "447423",
     "exports": {
-      "queryId": "uGB-gNd5HE4TkpO70OcFNw",
+      "queryId": "ph2fARFabkwfxqmSKQ1OPw",
       "operationName": "SearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -4407,6 +4431,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -4553,7 +4578,7 @@
   {
     "n": "583246",
     "exports": {
-      "queryId": "7DS57_pJ2xS39b3yBA6xew",
+      "queryId": "po6kD8aA0SzM3LZM-R43RA",
       "operationName": "SimilarPosts",
       "operationType": "query",
       "metadata": {
@@ -4601,6 +4626,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -4734,7 +4760,7 @@
   {
     "n": "1093",
     "exports": {
-      "queryId": "Gc9oHdW7jb_9tbxHCR5vGA",
+      "queryId": "mRB9ZibAG4xR9YoTw0b8Qw",
       "operationName": "SuperFollowers",
       "operationType": "query",
       "metadata": {
@@ -4782,6 +4808,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -4941,7 +4968,7 @@
   {
     "n": "150989",
     "exports": {
-      "queryId": "Livn0q_jXpeC5EVqxgu4Sg",
+      "queryId": "JEk5qT-_VvhUxGfzZUds0w",
       "operationName": "TrendHistory",
       "operationType": "query",
       "metadata": {
@@ -4989,6 +5016,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -5122,7 +5150,7 @@
   {
     "n": "945516",
     "exports": {
-      "queryId": "dY98yXH0SaJxntCw4Bqrfg",
+      "queryId": "VvSgz_jE0r-T2dQ7AUbHAg",
       "operationName": "TrendRelevantUsers",
       "operationType": "query",
       "metadata": {
@@ -5170,6 +5198,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -5303,7 +5332,7 @@
   {
     "n": "272346",
     "exports": {
-      "queryId": "pj3yJUnDE8vmJu5k-W9OSA",
+      "queryId": "hKVz9px0hixabnnyCRQXEQ",
       "operationName": "TVHomeMixer",
       "operationType": "query",
       "metadata": {
@@ -5351,6 +5380,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -5484,7 +5514,7 @@
   {
     "n": "720832",
     "exports": {
-      "queryId": "blErEeZkos5TDrWmrCp7cw",
+      "queryId": "z-3ZLa-NQ8Sp09diHkJNBg",
       "operationName": "TweetDetail",
       "operationType": "query",
       "metadata": {
@@ -5532,6 +5562,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -5665,7 +5696,7 @@
   {
     "n": "728926",
     "exports": {
-      "queryId": "LbQZrAWyKPvExi8di3-EoA",
+      "queryId": "CxpIrb-Lt2oBpojNjvDatg",
       "operationName": "TweetResultByRestId",
       "operationType": "query",
       "metadata": {
@@ -5717,6 +5748,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -5838,7 +5870,7 @@
   {
     "n": "218312",
     "exports": {
-      "queryId": "RRYnxFsEuhlm9c0lWHDgaQ",
+      "queryId": "pF6RH9M_gT7suFJL2zsJSQ",
       "operationName": "TweetResultsByRestIds",
       "operationType": "query",
       "metadata": {
@@ -5890,6 +5922,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -6063,7 +6096,7 @@
   {
     "n": "285527",
     "exports": {
-      "queryId": "_uu6eZuimGwywEa4qtZxZA",
+      "queryId": "u_Nxpj-y-PoTFHEM9saz2Q",
       "operationName": "UnpinTimeline",
       "operationType": "mutation",
       "metadata": {
@@ -6076,6 +6109,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -6114,7 +6148,7 @@
   {
     "n": "641679",
     "exports": {
-      "queryId": "AtN-0mKI3fXXmxzYYk1Wqw",
+      "queryId": "J6-7gyMkcVWna0u0KkPU7g",
       "operationName": "UpdatePinnedTimelines",
       "operationType": "mutation",
       "metadata": {
@@ -6127,6 +6161,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -6171,7 +6206,7 @@
   {
     "n": "845309",
     "exports": {
-      "queryId": "S1l5Sr3QVIsc2HGWhowrmA",
+      "queryId": "fewVAhhEH_H8TZC-9RgRZQ",
       "operationName": "UrtFixtures",
       "operationType": "query",
       "metadata": {
@@ -6219,6 +6254,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -6352,7 +6388,7 @@
   {
     "n": "869092",
     "exports": {
-      "queryId": "H7U-Vk99Mgbgl1fqS_kHmA",
+      "queryId": "Omk4MtUn835gUIQeMAkDRw",
       "operationName": "UserArticlesTweets",
       "operationType": "query",
       "metadata": {
@@ -6400,6 +6436,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -6533,7 +6570,7 @@
   {
     "n": "365948",
     "exports": {
-      "queryId": "KmCGUSqQhyectU4dXrKABQ",
+      "queryId": "lwb1q-iB3Uw4wT9LYQVoeg",
       "operationName": "UserBusinessProfileTeamTimeline",
       "operationType": "query",
       "metadata": {
@@ -6581,6 +6618,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -6714,7 +6752,7 @@
   {
     "n": "366861",
     "exports": {
-      "queryId": "IdmRdjYxIGI39Hdwkwo5cQ",
+      "queryId": "mxaYWwt52eAb6OAzYHMVzg",
       "operationName": "UserByRestId",
       "operationType": "query",
       "metadata": {
@@ -6732,6 +6770,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -6772,7 +6811,7 @@
   {
     "n": "360985",
     "exports": {
-      "queryId": "KybxDj9RrADIITXlGG8kpw",
+      "queryId": "AMIBMjtxEEATh4z8V9GtRg",
       "operationName": "UserByScreenName",
       "operationType": "query",
       "metadata": {
@@ -6792,6 +6831,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -6851,7 +6891,7 @@
   {
     "n": "766342",
     "exports": {
-      "queryId": "Rq1DG2wcHXZqszcUuI1_UQ",
+      "queryId": "LKlT0FMXFT2KGjKZ7Zct3Q",
       "operationName": "UserCreatorSubscribers",
       "operationType": "query",
       "metadata": {
@@ -6899,6 +6939,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -7032,7 +7073,7 @@
   {
     "n": "53573",
     "exports": {
-      "queryId": "TIP2yqAkV5plyDLkVKYDFw",
+      "queryId": "pnzySyQ-B4IYOOcam6DWkg",
       "operationName": "UserCreatorSubscriptions",
       "operationType": "query",
       "metadata": {
@@ -7080,6 +7121,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -7213,7 +7255,7 @@
   {
     "n": "29650",
     "exports": {
-      "queryId": "kzlhnAZg6za8KVcUlitqBQ",
+      "queryId": "1tnHunbf4YOWBKxe0xT-pQ",
       "operationName": "UserHighlightsTweets",
       "operationType": "query",
       "metadata": {
@@ -7261,6 +7303,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -7394,7 +7437,7 @@
   {
     "n": "617159",
     "exports": {
-      "queryId": "GEs4r5bWKm0P0EIRfo2DGw",
+      "queryId": "6KUGvSJgYSsXxLZstwsjdQ",
       "operationName": "UserMedia",
       "operationType": "query",
       "metadata": {
@@ -7442,6 +7485,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -7575,7 +7619,7 @@
   {
     "n": "502130",
     "exports": {
-      "queryId": "qtvmQffnepvr0oPe4A8MqQ",
+      "queryId": "ty409m9cIpSEnLECl_SqMw",
       "operationName": "UserOriginalsTimeline",
       "operationType": "query",
       "metadata": {
@@ -7623,6 +7667,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -7756,7 +7801,7 @@
   {
     "n": "546302",
     "exports": {
-      "queryId": "YqEBDpaXbWuRPks59hau0g",
+      "queryId": "K2O9SgyLZ4M_kBLwWb2cUA",
       "operationName": "UserPhotoTimeline",
       "operationType": "query",
       "metadata": {
@@ -7804,6 +7849,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -7950,7 +7996,7 @@
   {
     "n": "425462",
     "exports": {
-      "queryId": "90MFDSfkTYifH-Y9uK0RRA",
+      "queryId": "Flptwx-nCiwXqnAS5K1yUQ",
       "operationName": "UserPromotableTweets",
       "operationType": "query",
       "metadata": {
@@ -7998,6 +8044,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -8131,7 +8178,7 @@
   {
     "n": "615269",
     "exports": {
-      "queryId": "LfWVX0LfihfWaO89eTkmmA",
+      "queryId": "89A-2SYFyGRUGj04xNst7w",
       "operationName": "UserPromotedTweets",
       "operationType": "query",
       "metadata": {
@@ -8179,6 +8226,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -8312,7 +8360,7 @@
   {
     "n": "995978",
     "exports": {
-      "queryId": "9FLI4sKKO6rEojPOEHT7BA",
+      "queryId": "iu1q45MgcGAXoi9r9jYvTg",
       "operationName": "UserRepliesTimeline",
       "operationType": "query",
       "metadata": {
@@ -8360,6 +8408,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -8493,7 +8542,7 @@
   {
     "n": "268874",
     "exports": {
-      "queryId": "hkQQA_PMJfzHlRtnUYYXMg",
+      "queryId": "xqXxsWU5PFYzr90dfab6rg",
       "operationName": "UserRepostsTimeline",
       "operationType": "query",
       "metadata": {
@@ -8541,6 +8590,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -8687,7 +8737,7 @@
   {
     "n": "504067",
     "exports": {
-      "queryId": "UAtqQcjjYTU-SOp1ZIoWPw",
+      "queryId": "fxRJhPyZ6HN6C7LRZz1N0Q",
       "operationName": "UserSuperFollowTweets",
       "operationType": "query",
       "metadata": {
@@ -8735,6 +8785,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -8868,7 +8919,7 @@
   {
     "n": "859881",
     "exports": {
-      "queryId": "qJy3MbaNndtzxf9IqUzxMg",
+      "queryId": "P4MigfQQcQgVgHNg1_H5lA",
       "operationName": "UserTweets",
       "operationType": "query",
       "metadata": {
@@ -8916,6 +8967,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -9049,7 +9101,7 @@
   {
     "n": "778276",
     "exports": {
-      "queryId": "Z1m9j8S1leAzQp6yZXuaSg",
+      "queryId": "D6LBfPh1ENcZP2wxliZ9Og",
       "operationName": "UserTweetsAndReplies",
       "operationType": "query",
       "metadata": {
@@ -9097,6 +9149,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -9230,7 +9283,7 @@
   {
     "n": "165039",
     "exports": {
-      "queryId": "5A9PzD08T6PbvC2QlEYxMg",
+      "queryId": "tvrD4GYDO-OsZm_esYfYHg",
       "operationName": "UserVideoTimeline",
       "operationType": "query",
       "metadata": {
@@ -9278,6 +9331,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -9411,7 +9465,7 @@
   {
     "n": "924747",
     "exports": {
-      "queryId": "BuQFwM7wpHl00cfHL-r0rA",
+      "queryId": "ubfbnAM4qTlMTOYleYhXSg",
       "operationName": "UsersByRestIds",
       "operationType": "query",
       "metadata": {
@@ -9424,6 +9478,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -9449,7 +9504,7 @@
   {
     "n": "368707",
     "exports": {
-      "queryId": "8G9O4pAkWTXNv3XQuOGVrw",
+      "queryId": "cACg_kWQkzNQ74lcK5rksQ",
       "operationName": "UsersByScreenNames",
       "operationType": "query",
       "metadata": {
@@ -9469,6 +9524,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -9536,7 +9592,7 @@
   {
     "n": "227618",
     "exports": {
-      "queryId": "9t128XgFic52jPUEkJMf6w",
+      "queryId": "TpQxQtWMTMnIAMPlMGMqNw",
       "operationName": "Viewer",
       "operationType": "query",
       "metadata": {
@@ -9552,6 +9608,7 @@
         "fieldToggles": [
           "isDelegate",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -9664,7 +9721,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -9712,6 +9769,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -9845,7 +9903,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -9893,6 +9951,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -10026,7 +10085,7 @@
   {
     "n": "827921",
     "exports": {
-      "queryId": "lm78Mm3yE7WMdHy1hP0pQA",
+      "queryId": "3BlfPKIaT97a7jngeRIVfg",
       "operationName": "AudioSpaceAddSharing",
       "operationType": "mutation",
       "metadata": {
@@ -10072,6 +10131,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withArticleRichContentState",
           "withArticlePlainText",
           "withArticleSummaryText",
@@ -10199,7 +10259,7 @@
   {
     "n": "993442",
     "exports": {
-      "queryId": "9hlbymytkiwNbMizrq08PA",
+      "queryId": "8XWbTx9vnpRD2UhVI0LEug",
       "operationName": "AudioSpaceById",
       "operationType": "query",
       "metadata": {
@@ -10247,6 +10307,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -10445,7 +10506,7 @@
   {
     "n": "538575",
     "exports": {
-      "queryId": "i3t_WAV3-zf5HugnFsBxSw",
+      "queryId": "MQYhf09J_AoIi6tWq-Bomw",
       "operationName": "CommunitiesExploreTimeline",
       "operationType": "query",
       "metadata": {
@@ -10493,6 +10554,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -10626,7 +10688,7 @@
   {
     "n": "370069",
     "exports": {
-      "queryId": "6pO3hQkZYzq_OPf5lkySag",
+      "queryId": "uU_0cswWitloo1ASyR5rQw",
       "operationName": "CommunitiesMainDiscoveryModule",
       "operationType": "query",
       "metadata": {
@@ -10674,6 +10736,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -10807,7 +10870,7 @@
   {
     "n": "249753",
     "exports": {
-      "queryId": "uqrj3pJ0BuphBgJUcgs4sw",
+      "queryId": "nbRgcUefpi4LyVWDItcXPg",
       "operationName": "CommunitiesMainPageTimeline",
       "operationType": "query",
       "metadata": {
@@ -10855,6 +10918,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -10988,7 +11052,7 @@
   {
     "n": "244744",
     "exports": {
-      "queryId": "njA6yQGGzMux6jgelblxNw",
+      "queryId": "8-kNxc96lbqWqGPNyRkTVA",
       "operationName": "CommunitiesMembershipsSlice",
       "operationType": "query",
       "metadata": {
@@ -11001,6 +11065,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -11026,7 +11091,7 @@
   {
     "n": "833973",
     "exports": {
-      "queryId": "5TuAD02M_iQXC72dibZD9g",
+      "queryId": "wR2AyXq6ZPwNnsy0kK0fHg",
       "operationName": "CommunitiesMembershipsTimeline",
       "operationType": "query",
       "metadata": {
@@ -11074,6 +11139,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -11207,7 +11273,7 @@
   {
     "n": "262529",
     "exports": {
-      "queryId": "FPdS5CPrhjaqblj-oDjAag",
+      "queryId": "eMU3VmVvUQUjE_yWpae0OA",
       "operationName": "CommunityAboutTimeline",
       "operationType": "query",
       "metadata": {
@@ -11255,6 +11321,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -11388,7 +11455,7 @@
   {
     "n": "882335",
     "exports": {
-      "queryId": "KSxZe_5xvTq2UjyFLf4qqA",
+      "queryId": "UmeMHNkWqTAZn_Azz3YhBg",
       "operationName": "CreateCommunity",
       "operationType": "mutation",
       "metadata": {
@@ -11401,6 +11468,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -11426,7 +11494,7 @@
   {
     "n": "96833",
     "exports": {
-      "queryId": "1Di-irtNGY8wjhtNT0nqPQ",
+      "queryId": "bAviGE8lhUdwJmGtYwdhDw",
       "operationName": "CommunityCreateRule",
       "operationType": "mutation",
       "metadata": {
@@ -11439,6 +11507,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -11464,7 +11533,7 @@
   {
     "n": "686032",
     "exports": {
-      "queryId": "UeSwgzlz9Mxj3nm1jDrafw",
+      "queryId": "n3sgEiFXYjVFDUqtmHnXkw",
       "operationName": "CommunityDiscoveryTimeline",
       "operationType": "query",
       "metadata": {
@@ -11512,6 +11581,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -11645,7 +11715,7 @@
   {
     "n": "547201",
     "exports": {
-      "queryId": "wvUOMVAlXf4bnPN3wV-XhA",
+      "queryId": "crsWMaxUlcLPnsylMcNlEw",
       "operationName": "CommunityEditBannerMedia",
       "operationType": "mutation",
       "metadata": {
@@ -11658,6 +11728,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -11683,7 +11754,7 @@
   {
     "n": "66070",
     "exports": {
-      "queryId": "VBg74mGfNwfbCEACJR0EzA",
+      "queryId": "amli-DxLZmf-6plKBJVhTw",
       "operationName": "CommunityEditName",
       "operationType": "mutation",
       "metadata": {
@@ -11696,6 +11767,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -11721,7 +11793,7 @@
   {
     "n": "403429",
     "exports": {
-      "queryId": "_aaxpXD8K1h7l1gr6ogw2A",
+      "queryId": "W0xo3qTwAkn-WMm2_-lIZg",
       "operationName": "CommunityEditPurpose",
       "operationType": "mutation",
       "metadata": {
@@ -11734,6 +11806,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -11759,7 +11832,7 @@
   {
     "n": "866815",
     "exports": {
-      "queryId": "0t10YmA6iGUc4sgaKWxasg",
+      "queryId": "QJqHk5aUDYVU5L_SLloQ7Q",
       "operationName": "CommunityEditQuestion",
       "operationType": "mutation",
       "metadata": {
@@ -11772,6 +11845,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -11797,7 +11871,7 @@
   {
     "n": "146953",
     "exports": {
-      "queryId": "YHNr5ryQCoK1OnRxsfCfrA",
+      "queryId": "oalhYbYkwDSgFsoO9FFc9A",
       "operationName": "CommunityEditRule",
       "operationType": "mutation",
       "metadata": {
@@ -11810,6 +11884,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -11835,7 +11910,7 @@
   {
     "n": "770943",
     "exports": {
-      "queryId": "kbGfpn9QxGj0vp65v6FfKA",
+      "queryId": "iMDyRADcGz4r9ZrJMpxz1A",
       "operationName": "CommunityByRestId",
       "operationType": "query",
       "metadata": {
@@ -11848,6 +11923,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -11873,7 +11949,7 @@
   {
     "n": "610357",
     "exports": {
-      "queryId": "yBQ1yWcXkfsnlYxvujwEHw",
+      "queryId": "iUbaCIcCumf9VGanD1Q-GA",
       "operationName": "CommunityHashtagsTimeline",
       "operationType": "query",
       "metadata": {
@@ -11921,6 +11997,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -12054,7 +12131,7 @@
   {
     "n": "635887",
     "exports": {
-      "queryId": "tas06cdyWKlygZ2ldJ5B4A",
+      "queryId": "3jItWhb1PKC9lute3hWWXA",
       "operationName": "JoinCommunity",
       "operationType": "mutation",
       "metadata": {
@@ -12067,6 +12144,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -12092,7 +12170,7 @@
   {
     "n": "214010",
     "exports": {
-      "queryId": "9F6Fdu6ibMAKEpb9nFjUdQ",
+      "queryId": "0qehtlwzUschfhKTAv0lKQ",
       "operationName": "LeaveCommunity",
       "operationType": "mutation",
       "metadata": {
@@ -12105,6 +12183,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -12130,7 +12209,7 @@
   {
     "n": "69980",
     "exports": {
-      "queryId": "ZzJQA7SdJGiqQ0nRKLergA",
+      "queryId": "fI_40KNzmrjAIO2yw_0x4g",
       "operationName": "CommunityMediaLoggedOutTimeline",
       "operationType": "query",
       "metadata": {
@@ -12178,6 +12257,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -12311,7 +12391,7 @@
   {
     "n": "632642",
     "exports": {
-      "queryId": "t2Q35D4kFTtWXYaAbIwXIA",
+      "queryId": "oXV1XgxBsODGkZg7zJADuA",
       "operationName": "CommunityMediaTimeline",
       "operationType": "query",
       "metadata": {
@@ -12359,6 +12439,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -12492,7 +12573,7 @@
   {
     "n": "469157",
     "exports": {
-      "queryId": "OxfZrTxWOtItFWjFg-Qa7g",
+      "queryId": "guIquIb4YgcIhq-UHXT-mA",
       "operationName": "CommunityModerationKeepTweet",
       "operationType": "mutation",
       "metadata": {
@@ -12505,6 +12586,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -12530,7 +12612,7 @@
   {
     "n": "810235",
     "exports": {
-      "queryId": "t5x_65Irp7j988herqzheg",
+      "queryId": "CP6dWmB_B_sjBY7214mQtw",
       "operationName": "CommunityModerationTweetCasesSlice",
       "operationType": "query",
       "metadata": {
@@ -12582,6 +12664,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -12703,7 +12786,7 @@
   {
     "n": "372441",
     "exports": {
-      "queryId": "MyWoL0Tl-ul4y2jiBAT6uw",
+      "queryId": "ldKQTORuHp6D6cU86gh3FQ",
       "operationName": "CommunityRemoveBannerMedia",
       "operationType": "mutation",
       "metadata": {
@@ -12716,6 +12799,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -12741,7 +12825,7 @@
   {
     "n": "534177",
     "exports": {
-      "queryId": "AuuV8_Hj4I7Z1HA5yfScow",
+      "queryId": "dAVZg1IecFWOftHoNgz9Vg",
       "operationName": "CommunityRemoveRule",
       "operationType": "mutation",
       "metadata": {
@@ -12754,6 +12838,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -12779,7 +12864,7 @@
   {
     "n": "164357",
     "exports": {
-      "queryId": "Ht9R_81jWiJeAe27SFbPEg",
+      "queryId": "BmlTKv5TiVlAnWf1CblX6Q",
       "operationName": "CommunityReorderRules",
       "operationType": "mutation",
       "metadata": {
@@ -12792,6 +12877,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -12817,7 +12903,7 @@
   {
     "n": "318735",
     "exports": {
-      "queryId": "Hq9TxlOEQeB4yvceKWvfXw",
+      "queryId": "QclqoN95uHtO18c5AFihUw",
       "operationName": "RequestToJoinCommunity",
       "operationType": "mutation",
       "metadata": {
@@ -12830,6 +12916,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -12855,7 +12942,7 @@
   {
     "n": "727072",
     "exports": {
-      "queryId": "_s6orOddcA7TtpeflxUN_A",
+      "queryId": "3XRfL30VRHt8dPv2F1Cs9Q",
       "operationName": "CommunityTweetModerationLogSlice",
       "operationType": "query",
       "metadata": {
@@ -12901,6 +12988,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -13028,7 +13116,7 @@
   {
     "n": "967790",
     "exports": {
-      "queryId": "08C-7igbMOcQqyjHKxq_ig",
+      "queryId": "59zzExSplaVKxSvt4RQdAg",
       "operationName": "CommunityTweetsLoggedOutTimeline",
       "operationType": "query",
       "metadata": {
@@ -13076,6 +13164,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -13209,7 +13298,7 @@
   {
     "n": "706245",
     "exports": {
-      "queryId": "3uKehVA2ATYQAO61pEcmtg",
+      "queryId": "x90-EFuYNcqRVO6UBRk-gg",
       "operationName": "CommunityTweetsRankedLoggedOutTimeline",
       "operationType": "query",
       "metadata": {
@@ -13257,6 +13346,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -13390,7 +13480,7 @@
   {
     "n": "231456",
     "exports": {
-      "queryId": "5fs3APeOgfuLT6FQjWh87Q",
+      "queryId": "2OJuMR-hwWiVsXlAdPWdJw",
       "operationName": "CommunityTweetsTimeline",
       "operationType": "query",
       "metadata": {
@@ -13438,6 +13528,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -13571,7 +13662,7 @@
   {
     "n": "182632",
     "exports": {
-      "queryId": "lcG5VEeCjYu9EVbDbY1SQQ",
+      "queryId": "B-hDLcK_UDsjH8mL52z9hw",
       "operationName": "CommunityUpdateRole",
       "operationType": "mutation",
       "metadata": {
@@ -13584,6 +13675,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -13630,7 +13722,7 @@
   {
     "n": "113869",
     "exports": {
-      "queryId": "Y5Dga3mJdqsb84ITiMk_Eg",
+      "queryId": "QcBo1kvCDeo5wh7dX94TaQ",
       "operationName": "CommunitiesRankedTimeline",
       "operationType": "query",
       "metadata": {
@@ -13678,6 +13770,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -13811,7 +13904,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -13859,6 +13952,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -13992,7 +14086,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -14040,6 +14134,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -14277,7 +14372,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -14325,6 +14420,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -14458,7 +14554,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -14506,6 +14602,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -14665,7 +14762,7 @@
   {
     "n": "688665",
     "exports": {
-      "queryId": "Qy6WzDo4D56jtlDteWDpGQ",
+      "queryId": "UR9JvQc4U37xCkFfcna4jQ",
       "operationName": "BroadcastQuery",
       "operationType": "query",
       "metadata": {
@@ -14711,6 +14808,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withArticleRichContentState",
           "withArticlePlainText",
           "withArticleSummaryText",
@@ -14838,7 +14936,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -14886,6 +14984,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -15019,7 +15118,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -15067,6 +15166,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -15213,7 +15313,7 @@
   {
     "n": "157185",
     "exports": {
-      "queryId": "U2atZq4sGJ_onMQ6LiJJOw",
+      "queryId": "nSfzdGU_3kgHIZ0PaxGO6Q",
       "operationName": "AiTrendByRestId",
       "operationType": "query",
       "metadata": {
@@ -15265,6 +15365,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -15503,7 +15604,7 @@
   {
     "n": "800099",
     "exports": {
-      "queryId": "8pLIKp-Khhl_ANf4ZeSgVg",
+      "queryId": "CiBu_xfyiOu_rBNyuBngcQ",
       "operationName": "NFLGameRoster",
       "operationType": "query",
       "metadata": {
@@ -15516,6 +15617,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -15684,7 +15786,7 @@
   {
     "n": "782462",
     "exports": {
-      "queryId": "Qr78I1vK6YiHk_d1dzpfQA",
+      "queryId": "20FQ204XTejCNo_ZXh-ZjQ",
       "operationName": "NflTop100",
       "operationType": "query",
       "metadata": {
@@ -15730,6 +15832,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -15883,7 +15986,7 @@
   {
     "n": "990717",
     "exports": {
-      "queryId": "r5YzYccD25w6C5DeIVYYmQ",
+      "queryId": "dJt5Gumx783ANVEmSZOyjA",
       "operationName": "SportsGameLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -15931,6 +16034,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -16064,7 +16168,7 @@
   {
     "n": "814797",
     "exports": {
-      "queryId": "9wShLlk20vSSxj5uex8dCA",
+      "queryId": "BdzSShWz6KSwREQo1nHX9g",
       "operationName": "SportsGameTopTimeline",
       "operationType": "query",
       "metadata": {
@@ -16112,6 +16216,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -16479,7 +16584,7 @@
   {
     "n": "155689",
     "exports": {
-      "queryId": "oLK4ja2Rj6q21t4ktw8pYA",
+      "queryId": "8hpdcfFniawLzEQ7CD2WMQ",
       "operationName": "ArticleEntitiesSlice",
       "operationType": "query",
       "metadata": {
@@ -16492,6 +16597,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -16530,7 +16636,7 @@
   {
     "n": "153922",
     "exports": {
-      "queryId": "_rbmb_NKLqKVBr5X_MSoMQ",
+      "queryId": "fCkdrI6zrnw_UtVa3WDHhw",
       "operationName": "ArticleEntityDraftCreate",
       "operationType": "mutation",
       "metadata": {
@@ -16543,6 +16649,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -16568,7 +16675,7 @@
   {
     "n": "256026",
     "exports": {
-      "queryId": "872mse3gUSifcgeJBBl4WA",
+      "queryId": "86zqyWZeIoccSyBxmxcd6w",
       "operationName": "ArticleEntityPublish",
       "operationType": "mutation",
       "metadata": {
@@ -16581,6 +16688,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -16606,7 +16714,7 @@
   {
     "n": "62330",
     "exports": {
-      "queryId": "OF2ES8qTOPLFBU_oZWVkQw",
+      "queryId": "eUiP53I_YemhBOI2TMCI3A",
       "operationName": "ArticleEntityResultByRestId",
       "operationType": "query",
       "metadata": {
@@ -16619,6 +16727,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -16644,7 +16753,7 @@
   {
     "n": "120485",
     "exports": {
-      "queryId": "eDeZlB876QVv1TK-RFeLUw",
+      "queryId": "hRtkxfQu7M6mnlP1FRcGgg",
       "operationName": "ArticleEntityUnpublish",
       "operationType": "mutation",
       "metadata": {
@@ -16657,6 +16766,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -16682,7 +16792,7 @@
   {
     "n": "984373",
     "exports": {
-      "queryId": "x4Pz2ifYkOD6uSvzxOIUig",
+      "queryId": "FMC9CKP145f5wgXYCsmtiA",
       "operationName": "ArticleEntityUpdateContent",
       "operationType": "mutation",
       "metadata": {
@@ -16695,6 +16805,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -16720,7 +16831,7 @@
   {
     "n": "88259",
     "exports": {
-      "queryId": "TRcLHwCpNAkBVcxy4FLH1A",
+      "queryId": "Rlvhkuecg1z_7O5vC2G1fQ",
       "operationName": "ArticleEntityUpdateCoverMedia",
       "operationType": "mutation",
       "metadata": {
@@ -16733,6 +16844,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -16758,7 +16870,7 @@
   {
     "n": "213764",
     "exports": {
-      "queryId": "brHFCBTXXg8WOqc7BnXfAw",
+      "queryId": "wTWiDSxOe1ZsImjXyuoiYw",
       "operationName": "ArticleEntityUpdateTitle",
       "operationType": "mutation",
       "metadata": {
@@ -16771,6 +16883,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -16796,7 +16909,7 @@
   {
     "n": "849129",
     "exports": {
-      "queryId": "PPdXqxFIC03rh2eC4_ky2w",
+      "queryId": "m-l149Ldn91x_g4WpjW9DA",
       "operationName": "ImmersiveMedia",
       "operationType": "query",
       "metadata": {
@@ -16844,6 +16957,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -16977,7 +17091,7 @@
   {
     "n": "111634",
     "exports": {
-      "queryId": "BrxFxehFuvbGRkD7FCbhqQ",
+      "queryId": "2LJFrOEJxgj_vtF5FNT8Ug",
       "operationName": "ImmersiveProfile",
       "operationType": "query",
       "metadata": {
@@ -17025,6 +17139,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -17353,7 +17468,7 @@
   {
     "n": "845610",
     "exports": {
-      "queryId": "RLMFeXsUhQaUpBvVyONm4Q",
+      "queryId": "9b4YS91CcOxTVnf9sTAtLA",
       "operationName": "SportsProductLeagueMediaSeries",
       "operationType": "query",
       "metadata": {
@@ -17405,6 +17520,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -17617,7 +17733,7 @@
   {
     "n": "312393",
     "exports": {
-      "queryId": "A0Jwb3KL6wHWyFmc0_lHgw",
+      "queryId": "TUZ0ApqccaHdSfkwmH9aGg",
       "operationName": "QuickPromoteBoostContentCheck",
       "operationType": "query",
       "metadata": {
@@ -17630,6 +17746,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -17824,7 +17941,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -17872,6 +17989,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -18005,7 +18123,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -18053,6 +18171,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -18199,7 +18318,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -18247,6 +18366,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -18380,7 +18500,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -18428,6 +18548,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -18561,7 +18682,7 @@
   {
     "n": "29711",
     "exports": {
-      "queryId": "7cxflqGIowBX_AJyETopRQ",
+      "queryId": "YvOyNvAQVVF8LosXARyRAA",
       "operationName": "BookmarkFolderTimeline",
       "operationType": "query",
       "metadata": {
@@ -18609,6 +18730,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -18768,7 +18890,7 @@
   {
     "n": "842483",
     "exports": {
-      "queryId": "Glt3WAwBvNSPD-n_sqmX_A",
+      "queryId": "OAtFv0SIZt6v3rZsF4gvJA",
       "operationName": "Bookmarks",
       "operationType": "query",
       "metadata": {
@@ -18816,6 +18938,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -19105,7 +19228,7 @@
   {
     "n": "800099",
     "exports": {
-      "queryId": "8pLIKp-Khhl_ANf4ZeSgVg",
+      "queryId": "CiBu_xfyiOu_rBNyuBngcQ",
       "operationName": "NFLGameRoster",
       "operationType": "query",
       "metadata": {
@@ -19118,6 +19241,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -19286,7 +19410,7 @@
   {
     "n": "782462",
     "exports": {
-      "queryId": "Qr78I1vK6YiHk_d1dzpfQA",
+      "queryId": "20FQ204XTejCNo_ZXh-ZjQ",
       "operationName": "NflTop100",
       "operationType": "query",
       "metadata": {
@@ -19332,6 +19456,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -19485,7 +19610,7 @@
   {
     "n": "990717",
     "exports": {
-      "queryId": "r5YzYccD25w6C5DeIVYYmQ",
+      "queryId": "dJt5Gumx783ANVEmSZOyjA",
       "operationName": "SportsGameLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -19533,6 +19658,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -19666,7 +19792,7 @@
   {
     "n": "814797",
     "exports": {
-      "queryId": "9wShLlk20vSSxj5uex8dCA",
+      "queryId": "BdzSShWz6KSwREQo1nHX9g",
       "operationName": "SportsGameTopTimeline",
       "operationType": "query",
       "metadata": {
@@ -19714,6 +19840,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -20120,7 +20247,7 @@
   {
     "n": "535050",
     "exports": {
-      "queryId": "UEzIOOR07dgSDZdL2ipqOg",
+      "queryId": "JwXKDZxDGsUuUoetfMtIIw",
       "operationName": "GrokConversationItemsByRestId",
       "operationType": "query",
       "metadata": {
@@ -20172,6 +20299,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -20358,7 +20486,7 @@
   {
     "n": "366474",
     "exports": {
-      "queryId": "YVvs9TtMrX_snVJv1aqqPA",
+      "queryId": "OCVI7nCnPgW1jHAAA5F6Ww",
       "operationName": "GrokShare",
       "operationType": "query",
       "metadata": {
@@ -20410,6 +20538,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -20570,7 +20699,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -20618,6 +20747,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -20751,7 +20881,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -20799,6 +20929,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -21127,7 +21258,7 @@
   {
     "n": "845610",
     "exports": {
-      "queryId": "RLMFeXsUhQaUpBvVyONm4Q",
+      "queryId": "9b4YS91CcOxTVnf9sTAtLA",
       "operationName": "SportsProductLeagueMediaSeries",
       "operationType": "query",
       "metadata": {
@@ -21179,6 +21310,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -21430,7 +21562,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -21478,6 +21610,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -21611,7 +21744,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -21659,6 +21792,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -21844,7 +21978,7 @@
   {
     "n": "737724",
     "exports": {
-      "queryId": "cLMYjccPKKbEHQ8az4qV0Q",
+      "queryId": "NDp8ERqfst4w88o-JlM0tw",
       "operationName": "BirdwatchFetchAuthenticatedBirdwatchMatchSlice",
       "operationType": "query",
       "metadata": {
@@ -21896,6 +22030,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -22017,7 +22152,7 @@
   {
     "n": "789264",
     "exports": {
-      "queryId": "E7q0zqx25nXQ_mkLCdd58A",
+      "queryId": "jniXwhwEpykW5bXIBASPzw",
       "operationName": "BirdwatchFetchContributorNotesSlice",
       "operationType": "query",
       "metadata": {
@@ -22073,6 +22208,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -22232,7 +22368,7 @@
   {
     "n": "642414",
     "exports": {
-      "queryId": "n572jtiUR1_Sfl8Yw4BKzA",
+      "queryId": "dZ5t9-LyPZD4kGNP5PEQMQ",
       "operationName": "BirdwatchCreateNote",
       "operationType": "mutation",
       "metadata": {
@@ -22252,6 +22388,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -22500,7 +22637,7 @@
   {
     "n": "713860",
     "exports": {
-      "queryId": "LTKGuy07kAwAste1rRexsw",
+      "queryId": "JCIkjyY4axtOG-URL4HCfw",
       "operationName": "BirdwatchFetchGlobalTimeline",
       "operationType": "query",
       "metadata": {
@@ -22548,6 +22685,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -22681,7 +22819,7 @@
   {
     "n": "218493",
     "exports": {
-      "queryId": "HftcuKvOLMoR5aKl6DR1Vw",
+      "queryId": "zyn3X_SlvCDZ_mg6vixp-A",
       "operationName": "BirdwatchFetchMediaMatchSlice",
       "operationType": "query",
       "metadata": {
@@ -22733,6 +22871,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -22854,7 +22993,7 @@
   {
     "n": "657667",
     "exports": {
-      "queryId": "QECo2RdeIpEbTca8Gvn-WA",
+      "queryId": "77CUJOf_U7dZE66MriL3ug",
       "operationName": "BirdwatchFetchNoteTranslation",
       "operationType": "query",
       "metadata": {
@@ -22868,6 +23007,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -22896,7 +23036,7 @@
   {
     "n": "290177",
     "exports": {
-      "queryId": "ugWvda1XqBHuEalxFOp2uQ",
+      "queryId": "3-Hu8dtAKPwjM75WMwtd7w",
       "operationName": "BirdwatchFetchNotes",
       "operationType": "query",
       "metadata": {
@@ -22917,6 +23057,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -22966,7 +23107,7 @@
   {
     "n": "677962",
     "exports": {
-      "queryId": "1lt6XSRik4s93WG0BrEvig",
+      "queryId": "eKB7Azg-Y5Yy0PhXFVDxiQ",
       "operationName": "BirdwatchFetchOneNote",
       "operationType": "query",
       "metadata": {
@@ -22986,6 +23127,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -23032,7 +23174,7 @@
   {
     "n": "544157",
     "exports": {
-      "queryId": "nWBUsoRJTTum3I6lplnctA",
+      "queryId": "ZbVKGklLvBhHHbcDGV9Pqw",
       "operationName": "BirdwatchFetchProminentMediaMatchSlice",
       "operationType": "query",
       "metadata": {
@@ -23084,6 +23226,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -23243,7 +23386,7 @@
   {
     "n": "154786",
     "exports": {
-      "queryId": "nqJ8kcfJrrwHK278dCg9Nw",
+      "queryId": "4fkYPo5msupL5ATNtPC2nQ",
       "operationName": "BirdwatchFetchSimilarMediaMatchSlice",
       "operationType": "query",
       "metadata": {
@@ -23295,6 +23438,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -23416,7 +23560,7 @@
   {
     "n": "962981",
     "exports": {
-      "queryId": "9ewThGCSAXN7c8Cb0hK9vg",
+      "queryId": "dyOzoFVp6ldKVrZAvTmn7g",
       "operationName": "BirdwatchFetchSourceLinkSlice",
       "operationType": "query",
       "metadata": {
@@ -23468,6 +23612,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -23608,7 +23753,7 @@
   {
     "n": "494436",
     "exports": {
-      "queryId": "g7s_ynQ3vpo1eU4hDIcGpw",
+      "queryId": "dnGJ1PDZX_EnSc1Rb7l_Zw",
       "operationName": "BirdwatchFetchSuggestionFeedbackOverview",
       "operationType": "query",
       "metadata": {
@@ -23664,6 +23809,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -23823,7 +23969,7 @@
   {
     "n": "29711",
     "exports": {
-      "queryId": "7cxflqGIowBX_AJyETopRQ",
+      "queryId": "YvOyNvAQVVF8LosXARyRAA",
       "operationName": "BookmarkFolderTimeline",
       "operationType": "query",
       "metadata": {
@@ -23871,6 +24017,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -24030,7 +24177,7 @@
   {
     "n": "842483",
     "exports": {
-      "queryId": "Glt3WAwBvNSPD-n_sqmX_A",
+      "queryId": "OAtFv0SIZt6v3rZsF4gvJA",
       "operationName": "Bookmarks",
       "operationType": "query",
       "metadata": {
@@ -24078,6 +24225,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -24211,7 +24359,7 @@
   {
     "n": "688665",
     "exports": {
-      "queryId": "Qy6WzDo4D56jtlDteWDpGQ",
+      "queryId": "UR9JvQc4U37xCkFfcna4jQ",
       "operationName": "BroadcastQuery",
       "operationType": "query",
       "metadata": {
@@ -24257,6 +24405,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withArticleRichContentState",
           "withArticlePlainText",
           "withArticleSummaryText",
@@ -24644,7 +24793,7 @@
   {
     "n": "800099",
     "exports": {
-      "queryId": "8pLIKp-Khhl_ANf4ZeSgVg",
+      "queryId": "CiBu_xfyiOu_rBNyuBngcQ",
       "operationName": "NFLGameRoster",
       "operationType": "query",
       "metadata": {
@@ -24657,6 +24806,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -24825,7 +24975,7 @@
   {
     "n": "782462",
     "exports": {
-      "queryId": "Qr78I1vK6YiHk_d1dzpfQA",
+      "queryId": "20FQ204XTejCNo_ZXh-ZjQ",
       "operationName": "NflTop100",
       "operationType": "query",
       "metadata": {
@@ -24871,6 +25021,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -25076,7 +25227,7 @@
   {
     "n": "312393",
     "exports": {
-      "queryId": "A0Jwb3KL6wHWyFmc0_lHgw",
+      "queryId": "TUZ0ApqccaHdSfkwmH9aGg",
       "operationName": "QuickPromoteBoostContentCheck",
       "operationType": "query",
       "metadata": {
@@ -25089,6 +25240,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -25218,7 +25370,7 @@
   {
     "n": "990717",
     "exports": {
-      "queryId": "r5YzYccD25w6C5DeIVYYmQ",
+      "queryId": "dJt5Gumx783ANVEmSZOyjA",
       "operationName": "SportsGameLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -25266,6 +25418,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -25399,7 +25552,7 @@
   {
     "n": "814797",
     "exports": {
-      "queryId": "9wShLlk20vSSxj5uex8dCA",
+      "queryId": "BdzSShWz6KSwREQo1nHX9g",
       "operationName": "SportsGameTopTimeline",
       "operationType": "query",
       "metadata": {
@@ -25447,6 +25600,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -25853,7 +26007,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -25901,6 +26055,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -26034,7 +26189,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -26082,6 +26237,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -26293,7 +26449,7 @@
   {
     "n": "800099",
     "exports": {
-      "queryId": "8pLIKp-Khhl_ANf4ZeSgVg",
+      "queryId": "CiBu_xfyiOu_rBNyuBngcQ",
       "operationName": "NFLGameRoster",
       "operationType": "query",
       "metadata": {
@@ -26306,6 +26462,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -26474,7 +26631,7 @@
   {
     "n": "782462",
     "exports": {
-      "queryId": "Qr78I1vK6YiHk_d1dzpfQA",
+      "queryId": "20FQ204XTejCNo_ZXh-ZjQ",
       "operationName": "NflTop100",
       "operationType": "query",
       "metadata": {
@@ -26520,6 +26677,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -26673,7 +26831,7 @@
   {
     "n": "990717",
     "exports": {
-      "queryId": "r5YzYccD25w6C5DeIVYYmQ",
+      "queryId": "dJt5Gumx783ANVEmSZOyjA",
       "operationName": "SportsGameLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -26721,6 +26879,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -26854,7 +27013,7 @@
   {
     "n": "814797",
     "exports": {
-      "queryId": "9wShLlk20vSSxj5uex8dCA",
+      "queryId": "BdzSShWz6KSwREQo1nHX9g",
       "operationName": "SportsGameTopTimeline",
       "operationType": "query",
       "metadata": {
@@ -26902,6 +27061,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -27269,7 +27429,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -27317,6 +27477,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -27450,7 +27611,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -27498,6 +27659,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -27631,7 +27793,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -27679,6 +27841,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -27812,7 +27975,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -27860,6 +28023,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -27993,7 +28157,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -28041,6 +28205,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -28174,7 +28339,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -28222,6 +28387,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -28459,7 +28625,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -28507,6 +28673,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -28640,7 +28807,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -28688,6 +28855,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -28847,7 +29015,7 @@
   {
     "n": "954745",
     "exports": {
-      "queryId": "XFGj2pdlasiM3FndUe1PrQ",
+      "queryId": "BSYrSirC_dVN6R9Q0Mpmvg",
       "operationName": "SidebarUserRecommendations",
       "operationType": "query",
       "metadata": {
@@ -28860,6 +29028,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -28966,7 +29135,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -29014,6 +29183,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -29147,7 +29317,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -29195,6 +29365,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -29328,7 +29499,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -29376,6 +29547,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -29509,7 +29681,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -29557,6 +29729,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -29768,7 +29941,7 @@
   {
     "n": "800099",
     "exports": {
-      "queryId": "8pLIKp-Khhl_ANf4ZeSgVg",
+      "queryId": "CiBu_xfyiOu_rBNyuBngcQ",
       "operationName": "NFLGameRoster",
       "operationType": "query",
       "metadata": {
@@ -29781,6 +29954,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -29949,7 +30123,7 @@
   {
     "n": "782462",
     "exports": {
-      "queryId": "Qr78I1vK6YiHk_d1dzpfQA",
+      "queryId": "20FQ204XTejCNo_ZXh-ZjQ",
       "operationName": "NflTop100",
       "operationType": "query",
       "metadata": {
@@ -29995,6 +30169,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -30148,7 +30323,7 @@
   {
     "n": "990717",
     "exports": {
-      "queryId": "r5YzYccD25w6C5DeIVYYmQ",
+      "queryId": "dJt5Gumx783ANVEmSZOyjA",
       "operationName": "SportsGameLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -30196,6 +30371,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -30329,7 +30505,7 @@
   {
     "n": "814797",
     "exports": {
-      "queryId": "9wShLlk20vSSxj5uex8dCA",
+      "queryId": "BdzSShWz6KSwREQo1nHX9g",
       "operationName": "SportsGameTopTimeline",
       "operationType": "query",
       "metadata": {
@@ -30377,6 +30553,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -30835,7 +31012,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -30883,6 +31060,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -31016,7 +31194,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -31064,6 +31242,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -31223,7 +31402,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -31271,6 +31450,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -31404,7 +31584,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -31452,6 +31632,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -31585,7 +31766,7 @@
   {
     "n": "155689",
     "exports": {
-      "queryId": "oLK4ja2Rj6q21t4ktw8pYA",
+      "queryId": "8hpdcfFniawLzEQ7CD2WMQ",
       "operationName": "ArticleEntitiesSlice",
       "operationType": "query",
       "metadata": {
@@ -31598,6 +31779,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -31636,7 +31818,7 @@
   {
     "n": "153922",
     "exports": {
-      "queryId": "_rbmb_NKLqKVBr5X_MSoMQ",
+      "queryId": "fCkdrI6zrnw_UtVa3WDHhw",
       "operationName": "ArticleEntityDraftCreate",
       "operationType": "mutation",
       "metadata": {
@@ -31649,6 +31831,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -31674,7 +31857,7 @@
   {
     "n": "256026",
     "exports": {
-      "queryId": "872mse3gUSifcgeJBBl4WA",
+      "queryId": "86zqyWZeIoccSyBxmxcd6w",
       "operationName": "ArticleEntityPublish",
       "operationType": "mutation",
       "metadata": {
@@ -31687,6 +31870,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -31712,7 +31896,7 @@
   {
     "n": "62330",
     "exports": {
-      "queryId": "OF2ES8qTOPLFBU_oZWVkQw",
+      "queryId": "eUiP53I_YemhBOI2TMCI3A",
       "operationName": "ArticleEntityResultByRestId",
       "operationType": "query",
       "metadata": {
@@ -31725,6 +31909,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -31750,7 +31935,7 @@
   {
     "n": "120485",
     "exports": {
-      "queryId": "eDeZlB876QVv1TK-RFeLUw",
+      "queryId": "hRtkxfQu7M6mnlP1FRcGgg",
       "operationName": "ArticleEntityUnpublish",
       "operationType": "mutation",
       "metadata": {
@@ -31763,6 +31948,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -31788,7 +31974,7 @@
   {
     "n": "984373",
     "exports": {
-      "queryId": "x4Pz2ifYkOD6uSvzxOIUig",
+      "queryId": "FMC9CKP145f5wgXYCsmtiA",
       "operationName": "ArticleEntityUpdateContent",
       "operationType": "mutation",
       "metadata": {
@@ -31801,6 +31987,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -31826,7 +32013,7 @@
   {
     "n": "88259",
     "exports": {
-      "queryId": "TRcLHwCpNAkBVcxy4FLH1A",
+      "queryId": "Rlvhkuecg1z_7O5vC2G1fQ",
       "operationName": "ArticleEntityUpdateCoverMedia",
       "operationType": "mutation",
       "metadata": {
@@ -31839,6 +32026,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -31864,7 +32052,7 @@
   {
     "n": "213764",
     "exports": {
-      "queryId": "brHFCBTXXg8WOqc7BnXfAw",
+      "queryId": "wTWiDSxOe1ZsImjXyuoiYw",
       "operationName": "ArticleEntityUpdateTitle",
       "operationType": "mutation",
       "metadata": {
@@ -31877,6 +32065,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -31928,7 +32117,7 @@
   {
     "n": "108799",
     "exports": {
-      "queryId": "HaFAhly6sDpoeqGEbFb2Ig",
+      "queryId": "0nWJCraaleFE7YTp4m7ZVw",
       "operationName": "Favoriters",
       "operationType": "query",
       "metadata": {
@@ -31976,6 +32165,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -32109,7 +32299,7 @@
   {
     "n": "752268",
     "exports": {
-      "queryId": "UBCF0EF800cPqREAeu1uuA",
+      "queryId": "ejbN-ncMTOLXFAmhKJjsEg",
       "operationName": "Retweeters",
       "operationType": "query",
       "metadata": {
@@ -32157,6 +32347,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -32290,7 +32481,7 @@
   {
     "n": "947283",
     "exports": {
-      "queryId": "-LbqeA-uDhjSqqlBvRReGg",
+      "queryId": "Te71lTHnr8-UpI5VZxMfYg",
       "operationName": "TweetEditHistory",
       "operationType": "query",
       "metadata": {
@@ -32344,6 +32535,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -32484,7 +32676,7 @@
   {
     "n": "509654",
     "exports": {
-      "queryId": "J7LYJ7HmTd5D3VNMyswW1g",
+      "queryId": "xLl3um_n3_pjVHlJ1yG4Nw",
       "operationName": "DmAllSearchSlice",
       "operationType": "query",
       "metadata": {
@@ -32500,6 +32692,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -32547,7 +32740,7 @@
   {
     "n": "900931",
     "exports": {
-      "queryId": "1G_-g78aFeo80UQAx-gVnw",
+      "queryId": "_n6tMHVIY7vzT0eSAIErTA",
       "operationName": "DmMutedTimeline",
       "operationType": "query",
       "metadata": {
@@ -32595,6 +32788,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -32861,7 +33055,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -32909,6 +33103,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -33042,7 +33237,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -33090,6 +33285,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -33223,7 +33419,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -33271,6 +33467,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -33404,7 +33601,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -33452,6 +33649,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -33676,7 +33874,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -33724,6 +33922,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -33857,7 +34056,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -33905,6 +34104,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -34064,7 +34264,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -34112,6 +34312,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -34245,7 +34446,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -34293,6 +34494,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -34426,7 +34628,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -34474,6 +34676,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -34607,7 +34810,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -34655,6 +34858,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -34788,7 +34992,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -34836,6 +35040,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -34969,7 +35174,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -35017,6 +35222,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -35150,7 +35356,7 @@
   {
     "n": "688665",
     "exports": {
-      "queryId": "Qy6WzDo4D56jtlDteWDpGQ",
+      "queryId": "UR9JvQc4U37xCkFfcna4jQ",
       "operationName": "BroadcastQuery",
       "operationType": "query",
       "metadata": {
@@ -35196,6 +35402,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withArticleRichContentState",
           "withArticlePlainText",
           "withArticleSummaryText",
@@ -35336,7 +35543,7 @@
   {
     "n": "718132",
     "exports": {
-      "queryId": "EyM3HodhGM2rOznX60G64A",
+      "queryId": "mm0OHgfGBMQ1TTy3fusLEQ",
       "operationName": "CombinedLists",
       "operationType": "query",
       "metadata": {
@@ -35384,6 +35591,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -35517,7 +35725,7 @@
   {
     "n": "600639",
     "exports": {
-      "queryId": "F4BvT6Af48GSxTgqNLIdrQ",
+      "queryId": "-Kf1YVC1rNKkPvPFk7YXZw",
       "operationName": "ListAddMember",
       "operationType": "mutation",
       "metadata": {
@@ -35530,6 +35738,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -35555,7 +35764,7 @@
   {
     "n": "908485",
     "exports": {
-      "queryId": "WOYgFH176i6zOy8uXXj6Jg",
+      "queryId": "my6Lh9X_pvMtrK_c3VjfNA",
       "operationName": "DeleteListBanner",
       "operationType": "mutation",
       "metadata": {
@@ -35568,6 +35777,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -35593,7 +35803,7 @@
   {
     "n": "692740",
     "exports": {
-      "queryId": "ae7cJFHLC0_TSXXOpKlPHQ",
+      "queryId": "PSBi0stSrf3-hDy3G_O_0Q",
       "operationName": "EditListBanner",
       "operationType": "mutation",
       "metadata": {
@@ -35606,6 +35816,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -35631,7 +35842,7 @@
   {
     "n": "368198",
     "exports": {
-      "queryId": "-ktNZt6lRPC1skF0gStEvg",
+      "queryId": "ZX5ei7t018bDaDcy4VWBeA",
       "operationName": "ListBySlug",
       "operationType": "query",
       "metadata": {
@@ -35644,6 +35855,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -35669,7 +35881,7 @@
   {
     "n": "980558",
     "exports": {
-      "queryId": "AkWrYT3WjoBVkzbnbvLkhg",
+      "queryId": "zdGzorOEOslDL4XEbe2INw",
       "operationName": "CreateList",
       "operationType": "mutation",
       "metadata": {
@@ -35682,6 +35894,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -35707,7 +35920,7 @@
   {
     "n": "388430",
     "exports": {
-      "queryId": "6RRIoC2--NyBearkeTqq4g",
+      "queryId": "cYMMAxgMxjIjVSi96pa7xA",
       "operationName": "ListCreationRecommendedUsers",
       "operationType": "query",
       "metadata": {
@@ -35755,6 +35968,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -35901,7 +36115,7 @@
   {
     "n": "783609",
     "exports": {
-      "queryId": "ZNBjbqYFL3_yHarBynCvYw",
+      "queryId": "vAxsGt22-d-jlBUvNksVWQ",
       "operationName": "ListEditRecommendedUsers",
       "operationType": "query",
       "metadata": {
@@ -35949,6 +36163,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -36082,7 +36297,7 @@
   {
     "n": "678316",
     "exports": {
-      "queryId": "FJ9uKqUTO7AoDHu1oU-s9w",
+      "queryId": "wD-euF_1WoOc5VygdYIhYA",
       "operationName": "ListLatestTweetsTimeline",
       "operationType": "query",
       "metadata": {
@@ -36130,6 +36345,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -36263,7 +36479,7 @@
   {
     "n": "488153",
     "exports": {
-      "queryId": "20Jb8MSmE01qZ65EY8fyrQ",
+      "queryId": "8UM9eSjS83h36RpcXWDSEg",
       "operationName": "ListMembers",
       "operationType": "query",
       "metadata": {
@@ -36311,6 +36527,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -36444,7 +36661,7 @@
   {
     "n": "351191",
     "exports": {
-      "queryId": "aQry1ImjWW20Zo-aREiyqQ",
+      "queryId": "WadnzGZ8WErxkx75fEckuw",
       "operationName": "ListMemberships",
       "operationType": "query",
       "metadata": {
@@ -36492,6 +36709,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -36638,7 +36856,7 @@
   {
     "n": "564760",
     "exports": {
-      "queryId": "PfISbRGQSECPH9p3eqcd9Q",
+      "queryId": "xcq9Wy_zlLIXaG7VK99Hew",
       "operationName": "ListOwnerships",
       "operationType": "query",
       "metadata": {
@@ -36686,6 +36904,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -36819,7 +37038,7 @@
   {
     "n": "913676",
     "exports": {
-      "queryId": "EAARFZGlY-JHdLJbKZAA5g",
+      "queryId": "T-YE5ZY0cd0UVtWu8AP04Q",
       "operationName": "ListByRestId",
       "operationType": "query",
       "metadata": {
@@ -36832,6 +37051,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -36857,7 +37077,7 @@
   {
     "n": "45428",
     "exports": {
-      "queryId": "EoKZVqTZkPTiwz0XCn2ezQ",
+      "queryId": "YJtUm-1FOvroOe9i1w7_3Q",
       "operationName": "ListRankedTweetsTimeline",
       "operationType": "query",
       "metadata": {
@@ -36905,6 +37125,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -37038,7 +37259,7 @@
   {
     "n": "178756",
     "exports": {
-      "queryId": "llA1p2EP5J3gReAQQsW1vw",
+      "queryId": "_2o1-wSMWGFSi5HUscn1Hw",
       "operationName": "ListRemoveMember",
       "operationType": "mutation",
       "metadata": {
@@ -37051,6 +37272,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -37076,7 +37298,7 @@
   {
     "n": "833084",
     "exports": {
-      "queryId": "1B3FqCK_7uU6W_AHqWBx8A",
+      "queryId": "k5mwUiaPTQ_Hhr8DNXQ5YA",
       "operationName": "ListSubscribe",
       "operationType": "mutation",
       "metadata": {
@@ -37089,6 +37311,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -37114,7 +37337,7 @@
   {
     "n": "932793",
     "exports": {
-      "queryId": "F_iJH5HSVMfHc63dJ-NUVA",
+      "queryId": "1sBuISiV-Obr15XJy2E4hQ",
       "operationName": "ListSubscribers",
       "operationType": "query",
       "metadata": {
@@ -37162,6 +37385,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -37308,7 +37532,7 @@
   {
     "n": "340287",
     "exports": {
-      "queryId": "8gopUa1KU_9afKsxI9Y_Rg",
+      "queryId": "HwX1NRCSksXzmpolnY0Xhw",
       "operationName": "ListUnsubscribe",
       "operationType": "mutation",
       "metadata": {
@@ -37321,6 +37545,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -37346,7 +37571,7 @@
   {
     "n": "966709",
     "exports": {
-      "queryId": "6fJbXehrO7k4iSr_TK1U2Q",
+      "queryId": "oe5s3-_kb6-t8iFv4hLH3A",
       "operationName": "UpdateList",
       "operationType": "mutation",
       "metadata": {
@@ -37359,6 +37584,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -37384,7 +37610,7 @@
   {
     "n": "136117",
     "exports": {
-      "queryId": "GURD5CNcLp_jfsM7kWidtw",
+      "queryId": "Nb6A3fNsf_e0-p2Net-w-Q",
       "operationName": "ListsDiscovery",
       "operationType": "query",
       "metadata": {
@@ -37432,6 +37658,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -37565,7 +37792,7 @@
   {
     "n": "631330",
     "exports": {
-      "queryId": "9_YXgJTdLKNjb2u5TN_WMA",
+      "queryId": "BOY-X3vJGIcTKK4CFIJLYQ",
       "operationName": "ListsManagementPageTimeline",
       "operationType": "query",
       "metadata": {
@@ -37613,6 +37840,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -37811,7 +38039,7 @@
   {
     "n": "478164",
     "exports": {
-      "queryId": "cDOdnzgVAwv6E1rwDVN7AQ",
+      "queryId": "kSr8il8DLKUNpXLEDCPbfQ",
       "operationName": "TopicToFollowSidebar",
       "operationType": "query",
       "metadata": {
@@ -37859,6 +38087,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -38018,7 +38247,7 @@
   {
     "n": "242747",
     "exports": {
-      "queryId": "Fh0y51H8g-iMubH-RmOLGA",
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -38066,6 +38295,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -38199,7 +38429,7 @@
   {
     "n": "617266",
     "exports": {
-      "queryId": "whgGeEQDhEDkPQEJiJvYQw",
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -38247,6 +38477,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -38461,7 +38692,7 @@
   {
     "n": "108799",
     "exports": {
-      "queryId": "HaFAhly6sDpoeqGEbFb2Ig",
+      "queryId": "0nWJCraaleFE7YTp4m7ZVw",
       "operationName": "Favoriters",
       "operationType": "query",
       "metadata": {
@@ -38509,6 +38740,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -38642,7 +38874,7 @@
   {
     "n": "752268",
     "exports": {
-      "queryId": "UBCF0EF800cPqREAeu1uuA",
+      "queryId": "ejbN-ncMTOLXFAmhKJjsEg",
       "operationName": "Retweeters",
       "operationType": "query",
       "metadata": {
@@ -38690,6 +38922,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -38823,7 +39056,7 @@
   {
     "n": "947283",
     "exports": {
-      "queryId": "-LbqeA-uDhjSqqlBvRReGg",
+      "queryId": "Te71lTHnr8-UpI5VZxMfYg",
       "operationName": "TweetEditHistory",
       "operationType": "query",
       "metadata": {
@@ -38877,6 +39110,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -39004,7 +39238,7 @@
   {
     "n": "29711",
     "exports": {
-      "queryId": "7cxflqGIowBX_AJyETopRQ",
+      "queryId": "YvOyNvAQVVF8LosXARyRAA",
       "operationName": "BookmarkFolderTimeline",
       "operationType": "query",
       "metadata": {
@@ -39052,6 +39286,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -39211,7 +39446,7 @@
   {
     "n": "842483",
     "exports": {
-      "queryId": "Glt3WAwBvNSPD-n_sqmX_A",
+      "queryId": "OAtFv0SIZt6v3rZsF4gvJA",
       "operationName": "Bookmarks",
       "operationType": "query",
       "metadata": {
@@ -39259,6 +39494,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -39457,7 +39693,7 @@
   {
     "n": "160841",
     "exports": {
-      "queryId": "b0C9GbXfaAlL2F-dkJ4Gdg",
+      "queryId": "4TuDRWeusve2-BH2IqldBg",
       "operationName": "NotificationsTimeline",
       "operationType": "query",
       "metadata": {
@@ -39505,6 +39741,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -39703,7 +39940,7 @@
   {
     "n": "839423",
     "exports": {
-      "queryId": "17j54yk-VPnOed6s1EdosQ",
+      "queryId": "6rXG9JjNz_sYumZ91slicQ",
       "operationName": "BlockedAccountsAll",
       "operationType": "query",
       "metadata": {
@@ -39751,6 +39988,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -39884,7 +40122,7 @@
   {
     "n": "482004",
     "exports": {
-      "queryId": "NOopxUl-dcnnOI1_zXQyLg",
+      "queryId": "7oPe9QPWh3NcxsLjohRNFA",
       "operationName": "BlockedAccountsImported",
       "operationType": "query",
       "metadata": {
@@ -39932,6 +40170,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -40065,7 +40304,7 @@
   {
     "n": "877500",
     "exports": {
-      "queryId": "ck_SV_kTAlbD2WZiOFNbzw",
+      "queryId": "Qv0-wBcYvGkyVFOqOsQZyg",
       "operationName": "BlueVerifiedFollowers",
       "operationType": "query",
       "metadata": {
@@ -40113,6 +40352,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -40246,7 +40486,7 @@
   {
     "n": "521179",
     "exports": {
-      "queryId": "vqbH512y_Emfr0P4rXJ0Lw",
+      "queryId": "BYZi2BctI_PPWPtVIARwNQ",
       "operationName": "BookmarkSearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -40294,6 +40534,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -40469,7 +40710,7 @@
   {
     "n": "144664",
     "exports": {
-      "queryId": "Chu4A5yjQn8BVizIpzQaQA",
+      "queryId": "lMeej6L3iMbAeEV2t--J4g",
       "operationName": "ConnectTabTimeline",
       "operationType": "query",
       "metadata": {
@@ -40517,6 +40758,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -40702,7 +40944,7 @@
   {
     "n": "384719",
     "exports": {
-      "queryId": "Q-sJyowqllPknxuKDt_pKQ",
+      "queryId": "4ZgEQwT1s_Ztx7oXm2Sxug",
       "operationName": "CreateNoteTweet",
       "operationType": "mutation",
       "metadata": {
@@ -40753,6 +40995,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -40884,7 +41127,7 @@
   {
     "n": "11111",
     "exports": {
-      "queryId": "WNkbkQ_JLIofjdukTXahVA",
+      "queryId": "5pUpVEnRC2yGK7jaguF11w",
       "operationName": "CreateTweet",
       "operationType": "mutation",
       "metadata": {
@@ -40935,6 +41178,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -41222,7 +41466,7 @@
   {
     "n": "274412",
     "exports": {
-      "queryId": "e9FxSelvGhzaVvCyfmd-HA",
+      "queryId": "YUF9RvPginQpy9yj55R2FQ",
       "operationName": "ExplorePage",
       "operationType": "query",
       "metadata": {
@@ -41270,6 +41514,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -41403,7 +41648,7 @@
   {
     "n": "73245",
     "exports": {
-      "queryId": "a_EaOYRmowjytmooCbPRtA",
+      "queryId": "mrDxGGskdmtL9jDw2vjyWA",
       "operationName": "ExploreSidebar",
       "operationType": "query",
       "metadata": {
@@ -41451,6 +41696,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -41610,7 +41856,7 @@
   {
     "n": "810724",
     "exports": {
-      "queryId": "mrqxgX8JzwlL6pvYiC5CPA",
+      "queryId": "NPvSAR1p8XUWh8J6PeP3-g",
       "operationName": "Followers",
       "operationType": "query",
       "metadata": {
@@ -41658,6 +41904,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -41791,7 +42038,7 @@
   {
     "n": "618300",
     "exports": {
-      "queryId": "kSjQs8VV3c9WKxUoutJcrw",
+      "queryId": "-1esnGbXeHMrJabM9z3FCg",
       "operationName": "FollowersYouKnow",
       "operationType": "query",
       "metadata": {
@@ -41839,6 +42086,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -41972,7 +42220,7 @@
   {
     "n": "747136",
     "exports": {
-      "queryId": "uwmIAx89XrXNuGY-Y7WFLg",
+      "queryId": "nyTOiXy603sofPjdrXYL9Q",
       "operationName": "Following",
       "operationType": "query",
       "metadata": {
@@ -42020,6 +42268,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -42153,7 +42402,7 @@
   {
     "n": "107530",
     "exports": {
-      "queryId": "S_hzVUv1trgZ_5ruDe2IoA",
+      "queryId": "yXgbfagsvlYI3tUiju1_tA",
       "operationName": "GenericTimelineById",
       "operationType": "query",
       "metadata": {
@@ -42201,6 +42450,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -42347,7 +42597,7 @@
   {
     "n": "584558",
     "exports": {
-      "queryId": "c2zrxcOVSiQFzV1LvnKYXg",
+      "queryId": "jQEhWNvLuOJt6Q4V5CIKuA",
       "operationName": "GlobalCommunitiesLatestPostSearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -42395,6 +42645,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -42528,7 +42779,7 @@
   {
     "n": "39383",
     "exports": {
-      "queryId": "vcCW9agd-RJnwBZrxVkzFg",
+      "queryId": "6tOMHf1gbEUX607xV94Fzg",
       "operationName": "GlobalCommunitiesPostSearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -42576,6 +42827,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -42709,7 +42961,7 @@
   {
     "n": "837876",
     "exports": {
-      "queryId": "PgAssYGsPMMF1vVox5ysPg",
+      "queryId": "RQ7C2mINUB7QZE_0cjWojg",
       "operationName": "Likes",
       "operationType": "query",
       "metadata": {
@@ -42757,6 +43009,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -42890,7 +43143,7 @@
   {
     "n": "740403",
     "exports": {
-      "queryId": "6RIvCXM8i3HnC2_Rshgb_w",
+      "queryId": "c0yisjFInR0q6U4BQzmZ8Q",
       "operationName": "ListSearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -42938,6 +43191,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -43071,7 +43325,7 @@
   {
     "n": "507459",
     "exports": {
-      "queryId": "SJlH7KNABwCu-8BxJGIqzw",
+      "queryId": "pGjfYkkmpERoNXlSkG_JVw",
       "operationName": "MediaTabVideoMixer",
       "operationType": "query",
       "metadata": {
@@ -43119,6 +43373,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -43265,7 +43520,7 @@
   {
     "n": "881236",
     "exports": {
-      "queryId": "Q51KPb_uAJZDWhsvRcKToQ",
+      "queryId": "ubfJzUyBYxZrkX0uy3Phxw",
       "operationName": "ModeratedTimeline",
       "operationType": "query",
       "metadata": {
@@ -43313,6 +43568,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -43446,7 +43702,7 @@
   {
     "n": "198777",
     "exports": {
-      "queryId": "SkK3NXvsAGlAlcNhRBDiKw",
+      "queryId": "6JrmiYt7YNyqdWoiV3zwqg",
       "operationName": "MutedAccounts",
       "operationType": "query",
       "metadata": {
@@ -43494,6 +43750,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -43648,7 +43905,7 @@
   {
     "n": "588524",
     "exports": {
-      "queryId": "ZMYcJPUQ0QIAyWekMdAuDw",
+      "queryId": "qaz5JhPxqI3UqAgkTpsGyQ",
       "operationName": "PinTimeline",
       "operationType": "mutation",
       "metadata": {
@@ -43661,6 +43918,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -43699,7 +43957,7 @@
   {
     "n": "61219",
     "exports": {
-      "queryId": "XUpSmUE_n6ez-U_SdC7G7g",
+      "queryId": "HQ-MFOr09c_gbFjDGPJn-w",
       "operationName": "PinnableTimelines",
       "operationType": "query",
       "metadata": {
@@ -43712,6 +43970,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -43737,7 +43996,7 @@
   {
     "n": "875186",
     "exports": {
-      "queryId": "1C9qXYjxcujNpyJWE6tAeg",
+      "queryId": "8J1r9u3VjUveEdTY4WUTwQ",
       "operationName": "PinnedTimelines",
       "operationType": "query",
       "metadata": {
@@ -43750,6 +44009,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -43775,7 +44035,7 @@
   {
     "n": "918685",
     "exports": {
-      "queryId": "bIYQNt7PiYua6tWDAuTY3Q",
+      "queryId": "l9D2IzxaXsHw8NkTGJS4EQ",
       "operationName": "ProfileFilter",
       "operationType": "query",
       "metadata": {
@@ -43823,6 +44083,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -43995,7 +44256,7 @@
   {
     "n": "447423",
     "exports": {
-      "queryId": "uGB-gNd5HE4TkpO70OcFNw",
+      "queryId": "ph2fARFabkwfxqmSKQ1OPw",
       "operationName": "SearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -44043,6 +44304,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -44189,7 +44451,7 @@
   {
     "n": "583246",
     "exports": {
-      "queryId": "7DS57_pJ2xS39b3yBA6xew",
+      "queryId": "po6kD8aA0SzM3LZM-R43RA",
       "operationName": "SimilarPosts",
       "operationType": "query",
       "metadata": {
@@ -44237,6 +44499,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -44370,7 +44633,7 @@
   {
     "n": "1093",
     "exports": {
-      "queryId": "Gc9oHdW7jb_9tbxHCR5vGA",
+      "queryId": "mRB9ZibAG4xR9YoTw0b8Qw",
       "operationName": "SuperFollowers",
       "operationType": "query",
       "metadata": {
@@ -44418,6 +44681,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -44577,7 +44841,7 @@
   {
     "n": "150989",
     "exports": {
-      "queryId": "Livn0q_jXpeC5EVqxgu4Sg",
+      "queryId": "JEk5qT-_VvhUxGfzZUds0w",
       "operationName": "TrendHistory",
       "operationType": "query",
       "metadata": {
@@ -44625,6 +44889,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -44758,7 +45023,7 @@
   {
     "n": "945516",
     "exports": {
-      "queryId": "dY98yXH0SaJxntCw4Bqrfg",
+      "queryId": "VvSgz_jE0r-T2dQ7AUbHAg",
       "operationName": "TrendRelevantUsers",
       "operationType": "query",
       "metadata": {
@@ -44806,6 +45071,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -44939,7 +45205,7 @@
   {
     "n": "272346",
     "exports": {
-      "queryId": "pj3yJUnDE8vmJu5k-W9OSA",
+      "queryId": "hKVz9px0hixabnnyCRQXEQ",
       "operationName": "TVHomeMixer",
       "operationType": "query",
       "metadata": {
@@ -44987,6 +45253,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -45120,7 +45387,7 @@
   {
     "n": "720832",
     "exports": {
-      "queryId": "blErEeZkos5TDrWmrCp7cw",
+      "queryId": "z-3ZLa-NQ8Sp09diHkJNBg",
       "operationName": "TweetDetail",
       "operationType": "query",
       "metadata": {
@@ -45168,6 +45435,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -45301,7 +45569,7 @@
   {
     "n": "728926",
     "exports": {
-      "queryId": "LbQZrAWyKPvExi8di3-EoA",
+      "queryId": "CxpIrb-Lt2oBpojNjvDatg",
       "operationName": "TweetResultByRestId",
       "operationType": "query",
       "metadata": {
@@ -45353,6 +45621,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -45474,7 +45743,7 @@
   {
     "n": "218312",
     "exports": {
-      "queryId": "RRYnxFsEuhlm9c0lWHDgaQ",
+      "queryId": "pF6RH9M_gT7suFJL2zsJSQ",
       "operationName": "TweetResultsByRestIds",
       "operationType": "query",
       "metadata": {
@@ -45526,6 +45795,7 @@
           "withGrokAnalyze",
           "withDisallowedReplyControls",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -45699,7 +45969,7 @@
   {
     "n": "285527",
     "exports": {
-      "queryId": "_uu6eZuimGwywEa4qtZxZA",
+      "queryId": "u_Nxpj-y-PoTFHEM9saz2Q",
       "operationName": "UnpinTimeline",
       "operationType": "mutation",
       "metadata": {
@@ -45712,6 +45982,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -45750,7 +46021,7 @@
   {
     "n": "641679",
     "exports": {
-      "queryId": "AtN-0mKI3fXXmxzYYk1Wqw",
+      "queryId": "J6-7gyMkcVWna0u0KkPU7g",
       "operationName": "UpdatePinnedTimelines",
       "operationType": "mutation",
       "metadata": {
@@ -45763,6 +46034,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -45807,7 +46079,7 @@
   {
     "n": "845309",
     "exports": {
-      "queryId": "S1l5Sr3QVIsc2HGWhowrmA",
+      "queryId": "fewVAhhEH_H8TZC-9RgRZQ",
       "operationName": "UrtFixtures",
       "operationType": "query",
       "metadata": {
@@ -45855,6 +46127,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -45988,7 +46261,7 @@
   {
     "n": "869092",
     "exports": {
-      "queryId": "H7U-Vk99Mgbgl1fqS_kHmA",
+      "queryId": "Omk4MtUn835gUIQeMAkDRw",
       "operationName": "UserArticlesTweets",
       "operationType": "query",
       "metadata": {
@@ -46036,6 +46309,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -46169,7 +46443,7 @@
   {
     "n": "365948",
     "exports": {
-      "queryId": "KmCGUSqQhyectU4dXrKABQ",
+      "queryId": "lwb1q-iB3Uw4wT9LYQVoeg",
       "operationName": "UserBusinessProfileTeamTimeline",
       "operationType": "query",
       "metadata": {
@@ -46217,6 +46491,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -46350,7 +46625,7 @@
   {
     "n": "366861",
     "exports": {
-      "queryId": "IdmRdjYxIGI39Hdwkwo5cQ",
+      "queryId": "mxaYWwt52eAb6OAzYHMVzg",
       "operationName": "UserByRestId",
       "operationType": "query",
       "metadata": {
@@ -46368,6 +46643,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -46408,7 +46684,7 @@
   {
     "n": "360985",
     "exports": {
-      "queryId": "KybxDj9RrADIITXlGG8kpw",
+      "queryId": "AMIBMjtxEEATh4z8V9GtRg",
       "operationName": "UserByScreenName",
       "operationType": "query",
       "metadata": {
@@ -46428,6 +46704,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -46487,7 +46764,7 @@
   {
     "n": "766342",
     "exports": {
-      "queryId": "Rq1DG2wcHXZqszcUuI1_UQ",
+      "queryId": "LKlT0FMXFT2KGjKZ7Zct3Q",
       "operationName": "UserCreatorSubscribers",
       "operationType": "query",
       "metadata": {
@@ -46535,6 +46812,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -46668,7 +46946,7 @@
   {
     "n": "53573",
     "exports": {
-      "queryId": "TIP2yqAkV5plyDLkVKYDFw",
+      "queryId": "pnzySyQ-B4IYOOcam6DWkg",
       "operationName": "UserCreatorSubscriptions",
       "operationType": "query",
       "metadata": {
@@ -46716,6 +46994,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -46849,7 +47128,7 @@
   {
     "n": "29650",
     "exports": {
-      "queryId": "kzlhnAZg6za8KVcUlitqBQ",
+      "queryId": "1tnHunbf4YOWBKxe0xT-pQ",
       "operationName": "UserHighlightsTweets",
       "operationType": "query",
       "metadata": {
@@ -46897,6 +47176,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -47030,7 +47310,7 @@
   {
     "n": "617159",
     "exports": {
-      "queryId": "GEs4r5bWKm0P0EIRfo2DGw",
+      "queryId": "6KUGvSJgYSsXxLZstwsjdQ",
       "operationName": "UserMedia",
       "operationType": "query",
       "metadata": {
@@ -47078,6 +47358,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -47211,7 +47492,7 @@
   {
     "n": "502130",
     "exports": {
-      "queryId": "qtvmQffnepvr0oPe4A8MqQ",
+      "queryId": "ty409m9cIpSEnLECl_SqMw",
       "operationName": "UserOriginalsTimeline",
       "operationType": "query",
       "metadata": {
@@ -47259,6 +47540,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -47392,7 +47674,7 @@
   {
     "n": "546302",
     "exports": {
-      "queryId": "YqEBDpaXbWuRPks59hau0g",
+      "queryId": "K2O9SgyLZ4M_kBLwWb2cUA",
       "operationName": "UserPhotoTimeline",
       "operationType": "query",
       "metadata": {
@@ -47440,6 +47722,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -47586,7 +47869,7 @@
   {
     "n": "425462",
     "exports": {
-      "queryId": "90MFDSfkTYifH-Y9uK0RRA",
+      "queryId": "Flptwx-nCiwXqnAS5K1yUQ",
       "operationName": "UserPromotableTweets",
       "operationType": "query",
       "metadata": {
@@ -47634,6 +47917,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -47767,7 +48051,7 @@
   {
     "n": "615269",
     "exports": {
-      "queryId": "LfWVX0LfihfWaO89eTkmmA",
+      "queryId": "89A-2SYFyGRUGj04xNst7w",
       "operationName": "UserPromotedTweets",
       "operationType": "query",
       "metadata": {
@@ -47815,6 +48099,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -47948,7 +48233,7 @@
   {
     "n": "995978",
     "exports": {
-      "queryId": "9FLI4sKKO6rEojPOEHT7BA",
+      "queryId": "iu1q45MgcGAXoi9r9jYvTg",
       "operationName": "UserRepliesTimeline",
       "operationType": "query",
       "metadata": {
@@ -47996,6 +48281,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -48129,7 +48415,7 @@
   {
     "n": "268874",
     "exports": {
-      "queryId": "hkQQA_PMJfzHlRtnUYYXMg",
+      "queryId": "xqXxsWU5PFYzr90dfab6rg",
       "operationName": "UserRepostsTimeline",
       "operationType": "query",
       "metadata": {
@@ -48177,6 +48463,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -48323,7 +48610,7 @@
   {
     "n": "504067",
     "exports": {
-      "queryId": "UAtqQcjjYTU-SOp1ZIoWPw",
+      "queryId": "fxRJhPyZ6HN6C7LRZz1N0Q",
       "operationName": "UserSuperFollowTweets",
       "operationType": "query",
       "metadata": {
@@ -48371,6 +48658,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -48504,7 +48792,7 @@
   {
     "n": "859881",
     "exports": {
-      "queryId": "qJy3MbaNndtzxf9IqUzxMg",
+      "queryId": "P4MigfQQcQgVgHNg1_H5lA",
       "operationName": "UserTweets",
       "operationType": "query",
       "metadata": {
@@ -48552,6 +48840,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -48685,7 +48974,7 @@
   {
     "n": "778276",
     "exports": {
-      "queryId": "Z1m9j8S1leAzQp6yZXuaSg",
+      "queryId": "D6LBfPh1ENcZP2wxliZ9Og",
       "operationName": "UserTweetsAndReplies",
       "operationType": "query",
       "metadata": {
@@ -48733,6 +49022,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -48866,7 +49156,7 @@
   {
     "n": "165039",
     "exports": {
-      "queryId": "5A9PzD08T6PbvC2QlEYxMg",
+      "queryId": "tvrD4GYDO-OsZm_esYfYHg",
       "operationName": "UserVideoTimeline",
       "operationType": "query",
       "metadata": {
@@ -48914,6 +49204,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels",
           "withArticleRichContentState",
           "withArticlePlainText",
@@ -49047,7 +49338,7 @@
   {
     "n": "924747",
     "exports": {
-      "queryId": "BuQFwM7wpHl00cfHL-r0rA",
+      "queryId": "ubfbnAM4qTlMTOYleYhXSg",
       "operationName": "UsersByRestIds",
       "operationType": "query",
       "metadata": {
@@ -49060,6 +49351,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -49085,7 +49377,7 @@
   {
     "n": "368707",
     "exports": {
-      "queryId": "8G9O4pAkWTXNv3XQuOGVrw",
+      "queryId": "cACg_kWQkzNQ74lcK5rksQ",
       "operationName": "UsersByScreenNames",
       "operationType": "query",
       "metadata": {
@@ -49105,6 +49397,7 @@
         ],
         "fieldToggles": [
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
@@ -49172,7 +49465,7 @@
   {
     "n": "227618",
     "exports": {
-      "queryId": "9t128XgFic52jPUEkJMf6w",
+      "queryId": "TpQxQtWMTMnIAMPlMGMqNw",
       "operationName": "Viewer",
       "operationType": "query",
       "metadata": {
@@ -49188,6 +49481,7 @@
         "fieldToggles": [
           "isDelegate",
           "withPayments",
+          "withDmBlocks",
           "withAuxiliaryUserLabels"
         ],
         "featureSwitch": {
