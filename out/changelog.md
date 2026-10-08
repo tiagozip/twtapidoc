@@ -1,3 +1,21 @@
+## 2026-10-08
+### GraphQL API
+#### add
+- NCAAFBGameHydrate
+- NCAAFBGameOdds
+- NCAAFBLiveGame
+- NCAAFBSchedule
+- NCAAFBSeasonStats
+- NCAAFBStandings
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-10-03
 ### GraphQL API
 #### add
