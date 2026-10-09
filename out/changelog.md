@@ -1,3 +1,20 @@
+## 2026-10-09
+### GraphQL API
+#### add
+- NFLMatchupSeason
+- NFLWeeklyInjuries
+- NFLMatchupSeason
+- NFLWeeklyInjuries
+- MLBGamePlayerProps
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-10-08
 ### GraphQL API
 #### add

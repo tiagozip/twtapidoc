@@ -6878,7 +6878,7 @@
   {
     "n": "689244",
     "exports": {
-      "queryId": "aQ-b88K_Lp7dgHX53MqNQQ",
+      "queryId": "AqTNiqohgRK_0DarLzqUvg",
       "operationName": "GetUserClaims",
       "operationType": "query",
       "metadata": {
@@ -16889,370 +16889,6 @@
     }
   },
   {
-    "n": "242747",
-    "exports": {
-      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
-      "operationName": "HomeLatestTimeline",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [
-          "rweb_video_screen_enabled",
-          "rweb_cashtags_enabled",
-          "profile_label_improvements_pcf_label_in_post_enabled",
-          "responsive_web_profile_redirect_enabled",
-          "rweb_tipjar_consumption_enabled",
-          "verified_phone_label_enabled",
-          "creator_subscriptions_tweet_preview_api_enabled",
-          "responsive_web_graphql_timeline_navigation_enabled",
-          "premium_content_api_read_enabled",
-          "communities_web_enable_tweet_community_results_fetch",
-          "c9s_tweet_anatomy_moderator_badge_enabled",
-          "responsive_web_grok_analyze_button_fetch_trends_enabled",
-          "responsive_web_grok_analyze_post_followups_enabled",
-          "rweb_cashtags_composer_attachment_enabled",
-          "responsive_web_jetfuel_frame",
-          "rweb_sports_post_context_enabled",
-          "responsive_web_grok_share_attachment_enabled",
-          "responsive_web_grok_annotations_enabled",
-          "articles_preview_enabled",
-          "responsive_web_edit_tweet_api_enabled",
-          "rweb_conversational_replies_downvote_enabled",
-          "graphql_is_translatable_rweb_tweet_is_translatable_enabled",
-          "view_counts_everywhere_api_enabled",
-          "longform_notetweets_consumption_enabled",
-          "responsive_web_twitter_article_tweet_consumption_enabled",
-          "content_disclosure_indicator_enabled",
-          "content_disclosure_ai_generated_indicator_enabled",
-          "responsive_web_grok_show_grok_translated_post",
-          "responsive_web_grok_analysis_button_from_backend",
-          "post_ctas_fetch_enabled",
-          "freedom_of_speech_not_reach_fetch_enabled",
-          "standardized_nudges_misinfo",
-          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled",
-          "longform_notetweets_rich_text_read_enabled",
-          "longform_notetweets_inline_media_enabled",
-          "responsive_web_nested_quote_preview_enabled",
-          "responsive_web_grok_image_annotation_enabled",
-          "responsive_web_grok_imagine_annotation_enabled",
-          "responsive_web_grok_community_note_auto_translation_is_enabled",
-          "responsive_web_enhance_cards_enabled"
-        ],
-        "fieldToggles": [
-          "withPayments",
-          "withDmBlocks",
-          "withAuxiliaryUserLabels",
-          "withArticleRichContentState",
-          "withArticlePlainText",
-          "withArticleSummaryText",
-          "withArticleVoiceOver",
-          "withGrokAnalyze",
-          "withDisallowedReplyControls"
-        ],
-        "featureSwitch": {
-          "rweb_video_screen_enabled": {
-            "value": false
-          },
-          "rweb_cashtags_enabled": {
-            "value": true
-          },
-          "profile_label_improvements_pcf_label_in_post_enabled": {
-            "value": true
-          },
-          "responsive_web_profile_redirect_enabled": {
-            "value": true
-          },
-          "rweb_tipjar_consumption_enabled": {
-            "value": false
-          },
-          "verified_phone_label_enabled": {
-            "value": false
-          },
-          "creator_subscriptions_tweet_preview_api_enabled": {
-            "value": true
-          },
-          "responsive_web_graphql_timeline_navigation_enabled": {
-            "value": true
-          },
-          "premium_content_api_read_enabled": {
-            "value": false
-          },
-          "communities_web_enable_tweet_community_results_fetch": {
-            "value": true
-          },
-          "c9s_tweet_anatomy_moderator_badge_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_analyze_button_fetch_trends_enabled": {
-            "value": false
-          },
-          "responsive_web_grok_analyze_post_followups_enabled": {
-            "value": false
-          },
-          "rweb_cashtags_composer_attachment_enabled": {
-            "value": true
-          },
-          "responsive_web_jetfuel_frame": {
-            "value": true
-          },
-          "rweb_sports_post_context_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_share_attachment_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_annotations_enabled": {
-            "value": true
-          },
-          "articles_preview_enabled": {
-            "value": true
-          },
-          "responsive_web_edit_tweet_api_enabled": {
-            "value": true
-          },
-          "graphql_is_translatable_rweb_tweet_is_translatable_enabled": {
-            "value": true
-          },
-          "view_counts_everywhere_api_enabled": {
-            "value": true
-          },
-          "longform_notetweets_consumption_enabled": {
-            "value": true
-          },
-          "responsive_web_twitter_article_tweet_consumption_enabled": {
-            "value": true
-          },
-          "content_disclosure_indicator_enabled": {
-            "value": true
-          },
-          "content_disclosure_ai_generated_indicator_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_show_grok_translated_post": {
-            "value": true
-          },
-          "responsive_web_grok_analysis_button_from_backend": {
-            "value": true
-          },
-          "post_ctas_fetch_enabled": {
-            "value": false
-          },
-          "freedom_of_speech_not_reach_fetch_enabled": {
-            "value": true
-          },
-          "standardized_nudges_misinfo": {
-            "value": true
-          },
-          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled": {
-            "value": true
-          },
-          "longform_notetweets_rich_text_read_enabled": {
-            "value": true
-          },
-          "longform_notetweets_inline_media_enabled": {
-            "value": false
-          },
-          "responsive_web_nested_quote_preview_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_image_annotation_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_imagine_annotation_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_community_note_auto_translation_is_enabled": {
-            "value": true
-          },
-          "responsive_web_enhance_cards_enabled": {
-            "value": false
-          }
-        }
-      }
-    }
-  },
-  {
-    "n": "617266",
-    "exports": {
-      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
-      "operationName": "HomeTimeline",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [
-          "rweb_video_screen_enabled",
-          "rweb_cashtags_enabled",
-          "profile_label_improvements_pcf_label_in_post_enabled",
-          "responsive_web_profile_redirect_enabled",
-          "rweb_tipjar_consumption_enabled",
-          "verified_phone_label_enabled",
-          "creator_subscriptions_tweet_preview_api_enabled",
-          "responsive_web_graphql_timeline_navigation_enabled",
-          "premium_content_api_read_enabled",
-          "communities_web_enable_tweet_community_results_fetch",
-          "c9s_tweet_anatomy_moderator_badge_enabled",
-          "responsive_web_grok_analyze_button_fetch_trends_enabled",
-          "responsive_web_grok_analyze_post_followups_enabled",
-          "rweb_cashtags_composer_attachment_enabled",
-          "responsive_web_jetfuel_frame",
-          "rweb_sports_post_context_enabled",
-          "responsive_web_grok_share_attachment_enabled",
-          "responsive_web_grok_annotations_enabled",
-          "articles_preview_enabled",
-          "responsive_web_edit_tweet_api_enabled",
-          "rweb_conversational_replies_downvote_enabled",
-          "graphql_is_translatable_rweb_tweet_is_translatable_enabled",
-          "view_counts_everywhere_api_enabled",
-          "longform_notetweets_consumption_enabled",
-          "responsive_web_twitter_article_tweet_consumption_enabled",
-          "content_disclosure_indicator_enabled",
-          "content_disclosure_ai_generated_indicator_enabled",
-          "responsive_web_grok_show_grok_translated_post",
-          "responsive_web_grok_analysis_button_from_backend",
-          "post_ctas_fetch_enabled",
-          "freedom_of_speech_not_reach_fetch_enabled",
-          "standardized_nudges_misinfo",
-          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled",
-          "longform_notetweets_rich_text_read_enabled",
-          "longform_notetweets_inline_media_enabled",
-          "responsive_web_nested_quote_preview_enabled",
-          "responsive_web_grok_image_annotation_enabled",
-          "responsive_web_grok_imagine_annotation_enabled",
-          "responsive_web_grok_community_note_auto_translation_is_enabled",
-          "responsive_web_enhance_cards_enabled"
-        ],
-        "fieldToggles": [
-          "withPayments",
-          "withDmBlocks",
-          "withAuxiliaryUserLabels",
-          "withArticleRichContentState",
-          "withArticlePlainText",
-          "withArticleSummaryText",
-          "withArticleVoiceOver",
-          "withGrokAnalyze",
-          "withDisallowedReplyControls"
-        ],
-        "featureSwitch": {
-          "rweb_video_screen_enabled": {
-            "value": false
-          },
-          "rweb_cashtags_enabled": {
-            "value": true
-          },
-          "profile_label_improvements_pcf_label_in_post_enabled": {
-            "value": true
-          },
-          "responsive_web_profile_redirect_enabled": {
-            "value": true
-          },
-          "rweb_tipjar_consumption_enabled": {
-            "value": false
-          },
-          "verified_phone_label_enabled": {
-            "value": false
-          },
-          "creator_subscriptions_tweet_preview_api_enabled": {
-            "value": true
-          },
-          "responsive_web_graphql_timeline_navigation_enabled": {
-            "value": true
-          },
-          "premium_content_api_read_enabled": {
-            "value": false
-          },
-          "communities_web_enable_tweet_community_results_fetch": {
-            "value": true
-          },
-          "c9s_tweet_anatomy_moderator_badge_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_analyze_button_fetch_trends_enabled": {
-            "value": false
-          },
-          "responsive_web_grok_analyze_post_followups_enabled": {
-            "value": false
-          },
-          "rweb_cashtags_composer_attachment_enabled": {
-            "value": true
-          },
-          "responsive_web_jetfuel_frame": {
-            "value": true
-          },
-          "rweb_sports_post_context_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_share_attachment_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_annotations_enabled": {
-            "value": true
-          },
-          "articles_preview_enabled": {
-            "value": true
-          },
-          "responsive_web_edit_tweet_api_enabled": {
-            "value": true
-          },
-          "graphql_is_translatable_rweb_tweet_is_translatable_enabled": {
-            "value": true
-          },
-          "view_counts_everywhere_api_enabled": {
-            "value": true
-          },
-          "longform_notetweets_consumption_enabled": {
-            "value": true
-          },
-          "responsive_web_twitter_article_tweet_consumption_enabled": {
-            "value": true
-          },
-          "content_disclosure_indicator_enabled": {
-            "value": true
-          },
-          "content_disclosure_ai_generated_indicator_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_show_grok_translated_post": {
-            "value": true
-          },
-          "responsive_web_grok_analysis_button_from_backend": {
-            "value": true
-          },
-          "post_ctas_fetch_enabled": {
-            "value": false
-          },
-          "freedom_of_speech_not_reach_fetch_enabled": {
-            "value": true
-          },
-          "standardized_nudges_misinfo": {
-            "value": true
-          },
-          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled": {
-            "value": true
-          },
-          "longform_notetweets_rich_text_read_enabled": {
-            "value": true
-          },
-          "longform_notetweets_inline_media_enabled": {
-            "value": false
-          },
-          "responsive_web_nested_quote_preview_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_image_annotation_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_imagine_annotation_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_community_note_auto_translation_is_enabled": {
-            "value": true
-          },
-          "responsive_web_enhance_cards_enabled": {
-            "value": false
-          }
-        }
-      }
-    }
-  },
-  {
     "n": "29711",
     "exports": {
       "queryId": "YvOyNvAQVVF8LosXARyRAA",
@@ -20182,7 +19818,7 @@
   {
     "n": "290177",
     "exports": {
-      "queryId": "3-Hu8dtAKPwjM75WMwtd7w",
+      "queryId": "FXliMyVVZbAxaiRcs9USqA",
       "operationName": "BirdwatchFetchNotes",
       "operationType": "query",
       "metadata": {
@@ -22212,7 +21848,7 @@
   {
     "n": "796433",
     "exports": {
-      "queryId": "XtriwVR_hoq5nQhz8Q-dZg",
+      "queryId": "CN2G3v-dUfNQe3NNv-Lxqw",
       "operationName": "NFLGameHydrate",
       "operationType": "query",
       "metadata": {
@@ -22238,7 +21874,7 @@
   {
     "n": "475663",
     "exports": {
-      "queryId": "sdnp1Oz1pRRCxzBlqB_zBQ",
+      "queryId": "Bjp0zCvdw41fzm_Mgo8AWw",
       "operationName": "NFLGamePlayerProps",
       "operationType": "query",
       "metadata": {
@@ -22292,6 +21928,19 @@
     "exports": {
       "queryId": "1ssBFzuY0MFqgTl9h6a3hw",
       "operationName": "NFLLiveGame",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "397569",
+    "exports": {
+      "queryId": "ZgAomd4chOrVRid_l06NGw",
+      "operationName": "NFLMatchupSeason",
       "operationType": "query",
       "metadata": {
         "featureSwitches": [],
@@ -22601,6 +22250,19 @@
             "value": true
           }
         }
+      }
+    }
+  },
+  {
+    "n": "667312",
+    "exports": {
+      "queryId": "2poNqI6fpHMh4K3ibcBC3g",
+      "operationName": "NFLWeeklyInjuries",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
       }
     }
   },
@@ -23953,739 +23615,6 @@
             "value": false
           }
         }
-      }
-    }
-  },
-  {
-    "n": "242747",
-    "exports": {
-      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
-      "operationName": "HomeLatestTimeline",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [
-          "rweb_video_screen_enabled",
-          "rweb_cashtags_enabled",
-          "profile_label_improvements_pcf_label_in_post_enabled",
-          "responsive_web_profile_redirect_enabled",
-          "rweb_tipjar_consumption_enabled",
-          "verified_phone_label_enabled",
-          "creator_subscriptions_tweet_preview_api_enabled",
-          "responsive_web_graphql_timeline_navigation_enabled",
-          "premium_content_api_read_enabled",
-          "communities_web_enable_tweet_community_results_fetch",
-          "c9s_tweet_anatomy_moderator_badge_enabled",
-          "responsive_web_grok_analyze_button_fetch_trends_enabled",
-          "responsive_web_grok_analyze_post_followups_enabled",
-          "rweb_cashtags_composer_attachment_enabled",
-          "responsive_web_jetfuel_frame",
-          "rweb_sports_post_context_enabled",
-          "responsive_web_grok_share_attachment_enabled",
-          "responsive_web_grok_annotations_enabled",
-          "articles_preview_enabled",
-          "responsive_web_edit_tweet_api_enabled",
-          "rweb_conversational_replies_downvote_enabled",
-          "graphql_is_translatable_rweb_tweet_is_translatable_enabled",
-          "view_counts_everywhere_api_enabled",
-          "longform_notetweets_consumption_enabled",
-          "responsive_web_twitter_article_tweet_consumption_enabled",
-          "content_disclosure_indicator_enabled",
-          "content_disclosure_ai_generated_indicator_enabled",
-          "responsive_web_grok_show_grok_translated_post",
-          "responsive_web_grok_analysis_button_from_backend",
-          "post_ctas_fetch_enabled",
-          "freedom_of_speech_not_reach_fetch_enabled",
-          "standardized_nudges_misinfo",
-          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled",
-          "longform_notetweets_rich_text_read_enabled",
-          "longform_notetweets_inline_media_enabled",
-          "responsive_web_nested_quote_preview_enabled",
-          "responsive_web_grok_image_annotation_enabled",
-          "responsive_web_grok_imagine_annotation_enabled",
-          "responsive_web_grok_community_note_auto_translation_is_enabled",
-          "responsive_web_enhance_cards_enabled"
-        ],
-        "fieldToggles": [
-          "withPayments",
-          "withDmBlocks",
-          "withAuxiliaryUserLabels",
-          "withArticleRichContentState",
-          "withArticlePlainText",
-          "withArticleSummaryText",
-          "withArticleVoiceOver",
-          "withGrokAnalyze",
-          "withDisallowedReplyControls"
-        ],
-        "featureSwitch": {
-          "rweb_video_screen_enabled": {
-            "value": false
-          },
-          "rweb_cashtags_enabled": {
-            "value": true
-          },
-          "profile_label_improvements_pcf_label_in_post_enabled": {
-            "value": true
-          },
-          "responsive_web_profile_redirect_enabled": {
-            "value": true
-          },
-          "rweb_tipjar_consumption_enabled": {
-            "value": false
-          },
-          "verified_phone_label_enabled": {
-            "value": false
-          },
-          "creator_subscriptions_tweet_preview_api_enabled": {
-            "value": true
-          },
-          "responsive_web_graphql_timeline_navigation_enabled": {
-            "value": true
-          },
-          "premium_content_api_read_enabled": {
-            "value": false
-          },
-          "communities_web_enable_tweet_community_results_fetch": {
-            "value": true
-          },
-          "c9s_tweet_anatomy_moderator_badge_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_analyze_button_fetch_trends_enabled": {
-            "value": false
-          },
-          "responsive_web_grok_analyze_post_followups_enabled": {
-            "value": false
-          },
-          "rweb_cashtags_composer_attachment_enabled": {
-            "value": true
-          },
-          "responsive_web_jetfuel_frame": {
-            "value": true
-          },
-          "rweb_sports_post_context_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_share_attachment_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_annotations_enabled": {
-            "value": true
-          },
-          "articles_preview_enabled": {
-            "value": true
-          },
-          "responsive_web_edit_tweet_api_enabled": {
-            "value": true
-          },
-          "graphql_is_translatable_rweb_tweet_is_translatable_enabled": {
-            "value": true
-          },
-          "view_counts_everywhere_api_enabled": {
-            "value": true
-          },
-          "longform_notetweets_consumption_enabled": {
-            "value": true
-          },
-          "responsive_web_twitter_article_tweet_consumption_enabled": {
-            "value": true
-          },
-          "content_disclosure_indicator_enabled": {
-            "value": true
-          },
-          "content_disclosure_ai_generated_indicator_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_show_grok_translated_post": {
-            "value": true
-          },
-          "responsive_web_grok_analysis_button_from_backend": {
-            "value": true
-          },
-          "post_ctas_fetch_enabled": {
-            "value": false
-          },
-          "freedom_of_speech_not_reach_fetch_enabled": {
-            "value": true
-          },
-          "standardized_nudges_misinfo": {
-            "value": true
-          },
-          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled": {
-            "value": true
-          },
-          "longform_notetweets_rich_text_read_enabled": {
-            "value": true
-          },
-          "longform_notetweets_inline_media_enabled": {
-            "value": false
-          },
-          "responsive_web_nested_quote_preview_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_image_annotation_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_imagine_annotation_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_community_note_auto_translation_is_enabled": {
-            "value": true
-          },
-          "responsive_web_enhance_cards_enabled": {
-            "value": false
-          }
-        }
-      }
-    }
-  },
-  {
-    "n": "617266",
-    "exports": {
-      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
-      "operationName": "HomeTimeline",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [
-          "rweb_video_screen_enabled",
-          "rweb_cashtags_enabled",
-          "profile_label_improvements_pcf_label_in_post_enabled",
-          "responsive_web_profile_redirect_enabled",
-          "rweb_tipjar_consumption_enabled",
-          "verified_phone_label_enabled",
-          "creator_subscriptions_tweet_preview_api_enabled",
-          "responsive_web_graphql_timeline_navigation_enabled",
-          "premium_content_api_read_enabled",
-          "communities_web_enable_tweet_community_results_fetch",
-          "c9s_tweet_anatomy_moderator_badge_enabled",
-          "responsive_web_grok_analyze_button_fetch_trends_enabled",
-          "responsive_web_grok_analyze_post_followups_enabled",
-          "rweb_cashtags_composer_attachment_enabled",
-          "responsive_web_jetfuel_frame",
-          "rweb_sports_post_context_enabled",
-          "responsive_web_grok_share_attachment_enabled",
-          "responsive_web_grok_annotations_enabled",
-          "articles_preview_enabled",
-          "responsive_web_edit_tweet_api_enabled",
-          "rweb_conversational_replies_downvote_enabled",
-          "graphql_is_translatable_rweb_tweet_is_translatable_enabled",
-          "view_counts_everywhere_api_enabled",
-          "longform_notetweets_consumption_enabled",
-          "responsive_web_twitter_article_tweet_consumption_enabled",
-          "content_disclosure_indicator_enabled",
-          "content_disclosure_ai_generated_indicator_enabled",
-          "responsive_web_grok_show_grok_translated_post",
-          "responsive_web_grok_analysis_button_from_backend",
-          "post_ctas_fetch_enabled",
-          "freedom_of_speech_not_reach_fetch_enabled",
-          "standardized_nudges_misinfo",
-          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled",
-          "longform_notetweets_rich_text_read_enabled",
-          "longform_notetweets_inline_media_enabled",
-          "responsive_web_nested_quote_preview_enabled",
-          "responsive_web_grok_image_annotation_enabled",
-          "responsive_web_grok_imagine_annotation_enabled",
-          "responsive_web_grok_community_note_auto_translation_is_enabled",
-          "responsive_web_enhance_cards_enabled"
-        ],
-        "fieldToggles": [
-          "withPayments",
-          "withDmBlocks",
-          "withAuxiliaryUserLabels",
-          "withArticleRichContentState",
-          "withArticlePlainText",
-          "withArticleSummaryText",
-          "withArticleVoiceOver",
-          "withGrokAnalyze",
-          "withDisallowedReplyControls"
-        ],
-        "featureSwitch": {
-          "rweb_video_screen_enabled": {
-            "value": false
-          },
-          "rweb_cashtags_enabled": {
-            "value": true
-          },
-          "profile_label_improvements_pcf_label_in_post_enabled": {
-            "value": true
-          },
-          "responsive_web_profile_redirect_enabled": {
-            "value": true
-          },
-          "rweb_tipjar_consumption_enabled": {
-            "value": false
-          },
-          "verified_phone_label_enabled": {
-            "value": false
-          },
-          "creator_subscriptions_tweet_preview_api_enabled": {
-            "value": true
-          },
-          "responsive_web_graphql_timeline_navigation_enabled": {
-            "value": true
-          },
-          "premium_content_api_read_enabled": {
-            "value": false
-          },
-          "communities_web_enable_tweet_community_results_fetch": {
-            "value": true
-          },
-          "c9s_tweet_anatomy_moderator_badge_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_analyze_button_fetch_trends_enabled": {
-            "value": false
-          },
-          "responsive_web_grok_analyze_post_followups_enabled": {
-            "value": false
-          },
-          "rweb_cashtags_composer_attachment_enabled": {
-            "value": true
-          },
-          "responsive_web_jetfuel_frame": {
-            "value": true
-          },
-          "rweb_sports_post_context_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_share_attachment_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_annotations_enabled": {
-            "value": true
-          },
-          "articles_preview_enabled": {
-            "value": true
-          },
-          "responsive_web_edit_tweet_api_enabled": {
-            "value": true
-          },
-          "graphql_is_translatable_rweb_tweet_is_translatable_enabled": {
-            "value": true
-          },
-          "view_counts_everywhere_api_enabled": {
-            "value": true
-          },
-          "longform_notetweets_consumption_enabled": {
-            "value": true
-          },
-          "responsive_web_twitter_article_tweet_consumption_enabled": {
-            "value": true
-          },
-          "content_disclosure_indicator_enabled": {
-            "value": true
-          },
-          "content_disclosure_ai_generated_indicator_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_show_grok_translated_post": {
-            "value": true
-          },
-          "responsive_web_grok_analysis_button_from_backend": {
-            "value": true
-          },
-          "post_ctas_fetch_enabled": {
-            "value": false
-          },
-          "freedom_of_speech_not_reach_fetch_enabled": {
-            "value": true
-          },
-          "standardized_nudges_misinfo": {
-            "value": true
-          },
-          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled": {
-            "value": true
-          },
-          "longform_notetweets_rich_text_read_enabled": {
-            "value": true
-          },
-          "longform_notetweets_inline_media_enabled": {
-            "value": false
-          },
-          "responsive_web_nested_quote_preview_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_image_annotation_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_imagine_annotation_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_community_note_auto_translation_is_enabled": {
-            "value": true
-          },
-          "responsive_web_enhance_cards_enabled": {
-            "value": false
-          }
-        }
-      }
-    }
-  },
-  {
-    "n": "313348",
-    "exports": {
-      "queryId": "phsne54Bfd6Yx0jJLS5s_A",
-      "operationName": "MLBGameHydrate",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "549367",
-    "exports": {
-      "queryId": "ROiXANCNUoqr28usraFW-Q",
-      "operationName": "MLBGameOdds",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "659913",
-    "exports": {
-      "queryId": "QIU6Qc5Bdwd-zcls7jtCwA",
-      "operationName": "MLBLeaders",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "19623",
-    "exports": {
-      "queryId": "GoxG0CgTKkUQtEdbm42COg",
-      "operationName": "MLBLiveGame",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "953555",
-    "exports": {
-      "queryId": "h-qGvM4sZDshcH8R2epuXA",
-      "operationName": "MLBMatchup",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "465073",
-    "exports": {
-      "queryId": "C6sGvj7Qq3J4MZWHmxa2pA",
-      "operationName": "MLBPlayerProfile",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "366393",
-    "exports": {
-      "queryId": "thgZnfjQjxqkh0hmoVvGew",
-      "operationName": "MLBPostseasonRounds",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "659972",
-    "exports": {
-      "queryId": "LF20hIABrq6kjc7fhInf7Q",
-      "operationName": "MLBSchedule",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "816397",
-    "exports": {
-      "queryId": "iFzaptv3YWPZEHn0msgOXA",
-      "operationName": "MLBScheduleDays",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "246048",
-    "exports": {
-      "queryId": "vSoV7RqhrtJTMFUheOH1uQ",
-      "operationName": "MlbScoresSidebarLiveGame",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "455496",
-    "exports": {
-      "queryId": "o_Gw2WYhPTFqKKhMR_udrQ",
-      "operationName": "MLBStandings",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "209917",
-    "exports": {
-      "queryId": "bSzG6BGhJO0it5IPuYnniw",
-      "operationName": "MLBTeams",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "980447",
-    "exports": {
-      "queryId": "jn8sGMIC8-f2CzSZw2L6Rw",
-      "operationName": "SportsHubBySport",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "153734",
-    "exports": {
-      "queryId": "anze-HOj0RlxxNJ3-wMJKA",
-      "operationName": "SportsProductFollowedTeamsV2",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "845610",
-    "exports": {
-      "queryId": "9b4YS91CcOxTVnf9sTAtLA",
-      "operationName": "SportsProductLeagueMediaSeries",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [
-          "creator_subscriptions_tweet_preview_api_enabled",
-          "premium_content_api_read_enabled",
-          "communities_web_enable_tweet_community_results_fetch",
-          "c9s_tweet_anatomy_moderator_badge_enabled",
-          "responsive_web_grok_analyze_button_fetch_trends_enabled",
-          "responsive_web_grok_analyze_post_followups_enabled",
-          "rweb_cashtags_composer_attachment_enabled",
-          "responsive_web_jetfuel_frame",
-          "rweb_sports_post_context_enabled",
-          "responsive_web_grok_share_attachment_enabled",
-          "responsive_web_grok_annotations_enabled",
-          "articles_preview_enabled",
-          "responsive_web_edit_tweet_api_enabled",
-          "rweb_conversational_replies_downvote_enabled",
-          "graphql_is_translatable_rweb_tweet_is_translatable_enabled",
-          "view_counts_everywhere_api_enabled",
-          "longform_notetweets_consumption_enabled",
-          "responsive_web_twitter_article_tweet_consumption_enabled",
-          "content_disclosure_indicator_enabled",
-          "content_disclosure_ai_generated_indicator_enabled",
-          "responsive_web_grok_show_grok_translated_post",
-          "responsive_web_grok_analysis_button_from_backend",
-          "post_ctas_fetch_enabled",
-          "rweb_cashtags_enabled",
-          "freedom_of_speech_not_reach_fetch_enabled",
-          "standardized_nudges_misinfo",
-          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled",
-          "longform_notetweets_rich_text_read_enabled",
-          "longform_notetweets_inline_media_enabled",
-          "profile_label_improvements_pcf_label_in_post_enabled",
-          "responsive_web_profile_redirect_enabled",
-          "rweb_tipjar_consumption_enabled",
-          "verified_phone_label_enabled",
-          "responsive_web_nested_quote_preview_enabled",
-          "responsive_web_grok_image_annotation_enabled",
-          "responsive_web_grok_imagine_annotation_enabled",
-          "responsive_web_grok_community_note_auto_translation_is_enabled",
-          "responsive_web_graphql_timeline_navigation_enabled"
-        ],
-        "fieldToggles": [
-          "withArticleRichContentState",
-          "withArticlePlainText",
-          "withArticleSummaryText",
-          "withArticleVoiceOver",
-          "withGrokAnalyze",
-          "withDisallowedReplyControls",
-          "withPayments",
-          "withDmBlocks",
-          "withAuxiliaryUserLabels"
-        ],
-        "featureSwitch": {
-          "creator_subscriptions_tweet_preview_api_enabled": {
-            "value": true
-          },
-          "premium_content_api_read_enabled": {
-            "value": false
-          },
-          "communities_web_enable_tweet_community_results_fetch": {
-            "value": true
-          },
-          "c9s_tweet_anatomy_moderator_badge_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_analyze_button_fetch_trends_enabled": {
-            "value": false
-          },
-          "responsive_web_grok_analyze_post_followups_enabled": {
-            "value": false
-          },
-          "rweb_cashtags_composer_attachment_enabled": {
-            "value": true
-          },
-          "responsive_web_jetfuel_frame": {
-            "value": true
-          },
-          "rweb_sports_post_context_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_share_attachment_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_annotations_enabled": {
-            "value": true
-          },
-          "articles_preview_enabled": {
-            "value": true
-          },
-          "responsive_web_edit_tweet_api_enabled": {
-            "value": true
-          },
-          "graphql_is_translatable_rweb_tweet_is_translatable_enabled": {
-            "value": true
-          },
-          "view_counts_everywhere_api_enabled": {
-            "value": true
-          },
-          "longform_notetweets_consumption_enabled": {
-            "value": true
-          },
-          "responsive_web_twitter_article_tweet_consumption_enabled": {
-            "value": true
-          },
-          "content_disclosure_indicator_enabled": {
-            "value": true
-          },
-          "content_disclosure_ai_generated_indicator_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_show_grok_translated_post": {
-            "value": true
-          },
-          "responsive_web_grok_analysis_button_from_backend": {
-            "value": true
-          },
-          "post_ctas_fetch_enabled": {
-            "value": false
-          },
-          "rweb_cashtags_enabled": {
-            "value": true
-          },
-          "freedom_of_speech_not_reach_fetch_enabled": {
-            "value": true
-          },
-          "standardized_nudges_misinfo": {
-            "value": true
-          },
-          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled": {
-            "value": true
-          },
-          "longform_notetweets_rich_text_read_enabled": {
-            "value": true
-          },
-          "longform_notetweets_inline_media_enabled": {
-            "value": false
-          },
-          "profile_label_improvements_pcf_label_in_post_enabled": {
-            "value": true
-          },
-          "responsive_web_profile_redirect_enabled": {
-            "value": true
-          },
-          "rweb_tipjar_consumption_enabled": {
-            "value": false
-          },
-          "verified_phone_label_enabled": {
-            "value": false
-          },
-          "responsive_web_nested_quote_preview_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_image_annotation_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_imagine_annotation_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_community_note_auto_translation_is_enabled": {
-            "value": true
-          },
-          "responsive_web_graphql_timeline_navigation_enabled": {
-            "value": true
-          }
-        }
-      }
-    }
-  },
-  {
-    "n": "517855",
-    "exports": {
-      "queryId": "SuJhAYUuVr3K8SbhcQlWMw",
-      "operationName": "SportsProductLeagueTeams",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
       }
     }
   },
@@ -26437,7 +25366,7 @@
   {
     "n": "796433",
     "exports": {
-      "queryId": "XtriwVR_hoq5nQhz8Q-dZg",
+      "queryId": "CN2G3v-dUfNQe3NNv-Lxqw",
       "operationName": "NFLGameHydrate",
       "operationType": "query",
       "metadata": {
@@ -26463,7 +25392,7 @@
   {
     "n": "475663",
     "exports": {
-      "queryId": "sdnp1Oz1pRRCxzBlqB_zBQ",
+      "queryId": "Bjp0zCvdw41fzm_Mgo8AWw",
       "operationName": "NFLGamePlayerProps",
       "operationType": "query",
       "metadata": {
@@ -26517,6 +25446,19 @@
     "exports": {
       "queryId": "1ssBFzuY0MFqgTl9h6a3hw",
       "operationName": "NFLLiveGame",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "397569",
+    "exports": {
+      "queryId": "ZgAomd4chOrVRid_l06NGw",
+      "operationName": "NFLMatchupSeason",
       "operationType": "query",
       "metadata": {
         "featureSwitches": [],
@@ -26826,6 +25768,19 @@
             "value": true
           }
         }
+      }
+    }
+  },
+  {
+    "n": "667312",
+    "exports": {
+      "queryId": "2poNqI6fpHMh4K3ibcBC3g",
+      "operationName": "NFLWeeklyInjuries",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
       }
     }
   },
@@ -35144,375 +34099,6 @@
     }
   },
   {
-    "n": "313348",
-    "exports": {
-      "queryId": "phsne54Bfd6Yx0jJLS5s_A",
-      "operationName": "MLBGameHydrate",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "549367",
-    "exports": {
-      "queryId": "ROiXANCNUoqr28usraFW-Q",
-      "operationName": "MLBGameOdds",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "659913",
-    "exports": {
-      "queryId": "QIU6Qc5Bdwd-zcls7jtCwA",
-      "operationName": "MLBLeaders",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "19623",
-    "exports": {
-      "queryId": "GoxG0CgTKkUQtEdbm42COg",
-      "operationName": "MLBLiveGame",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "953555",
-    "exports": {
-      "queryId": "h-qGvM4sZDshcH8R2epuXA",
-      "operationName": "MLBMatchup",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "465073",
-    "exports": {
-      "queryId": "C6sGvj7Qq3J4MZWHmxa2pA",
-      "operationName": "MLBPlayerProfile",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "366393",
-    "exports": {
-      "queryId": "thgZnfjQjxqkh0hmoVvGew",
-      "operationName": "MLBPostseasonRounds",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "659972",
-    "exports": {
-      "queryId": "LF20hIABrq6kjc7fhInf7Q",
-      "operationName": "MLBSchedule",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "816397",
-    "exports": {
-      "queryId": "iFzaptv3YWPZEHn0msgOXA",
-      "operationName": "MLBScheduleDays",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "246048",
-    "exports": {
-      "queryId": "vSoV7RqhrtJTMFUheOH1uQ",
-      "operationName": "MlbScoresSidebarLiveGame",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "455496",
-    "exports": {
-      "queryId": "o_Gw2WYhPTFqKKhMR_udrQ",
-      "operationName": "MLBStandings",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "209917",
-    "exports": {
-      "queryId": "bSzG6BGhJO0it5IPuYnniw",
-      "operationName": "MLBTeams",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "980447",
-    "exports": {
-      "queryId": "jn8sGMIC8-f2CzSZw2L6Rw",
-      "operationName": "SportsHubBySport",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "153734",
-    "exports": {
-      "queryId": "anze-HOj0RlxxNJ3-wMJKA",
-      "operationName": "SportsProductFollowedTeamsV2",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "845610",
-    "exports": {
-      "queryId": "9b4YS91CcOxTVnf9sTAtLA",
-      "operationName": "SportsProductLeagueMediaSeries",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [
-          "creator_subscriptions_tweet_preview_api_enabled",
-          "premium_content_api_read_enabled",
-          "communities_web_enable_tweet_community_results_fetch",
-          "c9s_tweet_anatomy_moderator_badge_enabled",
-          "responsive_web_grok_analyze_button_fetch_trends_enabled",
-          "responsive_web_grok_analyze_post_followups_enabled",
-          "rweb_cashtags_composer_attachment_enabled",
-          "responsive_web_jetfuel_frame",
-          "rweb_sports_post_context_enabled",
-          "responsive_web_grok_share_attachment_enabled",
-          "responsive_web_grok_annotations_enabled",
-          "articles_preview_enabled",
-          "responsive_web_edit_tweet_api_enabled",
-          "rweb_conversational_replies_downvote_enabled",
-          "graphql_is_translatable_rweb_tweet_is_translatable_enabled",
-          "view_counts_everywhere_api_enabled",
-          "longform_notetweets_consumption_enabled",
-          "responsive_web_twitter_article_tweet_consumption_enabled",
-          "content_disclosure_indicator_enabled",
-          "content_disclosure_ai_generated_indicator_enabled",
-          "responsive_web_grok_show_grok_translated_post",
-          "responsive_web_grok_analysis_button_from_backend",
-          "post_ctas_fetch_enabled",
-          "rweb_cashtags_enabled",
-          "freedom_of_speech_not_reach_fetch_enabled",
-          "standardized_nudges_misinfo",
-          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled",
-          "longform_notetweets_rich_text_read_enabled",
-          "longform_notetweets_inline_media_enabled",
-          "profile_label_improvements_pcf_label_in_post_enabled",
-          "responsive_web_profile_redirect_enabled",
-          "rweb_tipjar_consumption_enabled",
-          "verified_phone_label_enabled",
-          "responsive_web_nested_quote_preview_enabled",
-          "responsive_web_grok_image_annotation_enabled",
-          "responsive_web_grok_imagine_annotation_enabled",
-          "responsive_web_grok_community_note_auto_translation_is_enabled",
-          "responsive_web_graphql_timeline_navigation_enabled"
-        ],
-        "fieldToggles": [
-          "withArticleRichContentState",
-          "withArticlePlainText",
-          "withArticleSummaryText",
-          "withArticleVoiceOver",
-          "withGrokAnalyze",
-          "withDisallowedReplyControls",
-          "withPayments",
-          "withDmBlocks",
-          "withAuxiliaryUserLabels"
-        ],
-        "featureSwitch": {
-          "creator_subscriptions_tweet_preview_api_enabled": {
-            "value": true
-          },
-          "premium_content_api_read_enabled": {
-            "value": false
-          },
-          "communities_web_enable_tweet_community_results_fetch": {
-            "value": true
-          },
-          "c9s_tweet_anatomy_moderator_badge_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_analyze_button_fetch_trends_enabled": {
-            "value": false
-          },
-          "responsive_web_grok_analyze_post_followups_enabled": {
-            "value": false
-          },
-          "rweb_cashtags_composer_attachment_enabled": {
-            "value": true
-          },
-          "responsive_web_jetfuel_frame": {
-            "value": true
-          },
-          "rweb_sports_post_context_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_share_attachment_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_annotations_enabled": {
-            "value": true
-          },
-          "articles_preview_enabled": {
-            "value": true
-          },
-          "responsive_web_edit_tweet_api_enabled": {
-            "value": true
-          },
-          "graphql_is_translatable_rweb_tweet_is_translatable_enabled": {
-            "value": true
-          },
-          "view_counts_everywhere_api_enabled": {
-            "value": true
-          },
-          "longform_notetweets_consumption_enabled": {
-            "value": true
-          },
-          "responsive_web_twitter_article_tweet_consumption_enabled": {
-            "value": true
-          },
-          "content_disclosure_indicator_enabled": {
-            "value": true
-          },
-          "content_disclosure_ai_generated_indicator_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_show_grok_translated_post": {
-            "value": true
-          },
-          "responsive_web_grok_analysis_button_from_backend": {
-            "value": true
-          },
-          "post_ctas_fetch_enabled": {
-            "value": false
-          },
-          "rweb_cashtags_enabled": {
-            "value": true
-          },
-          "freedom_of_speech_not_reach_fetch_enabled": {
-            "value": true
-          },
-          "standardized_nudges_misinfo": {
-            "value": true
-          },
-          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled": {
-            "value": true
-          },
-          "longform_notetweets_rich_text_read_enabled": {
-            "value": true
-          },
-          "longform_notetweets_inline_media_enabled": {
-            "value": false
-          },
-          "profile_label_improvements_pcf_label_in_post_enabled": {
-            "value": true
-          },
-          "responsive_web_profile_redirect_enabled": {
-            "value": true
-          },
-          "rweb_tipjar_consumption_enabled": {
-            "value": false
-          },
-          "verified_phone_label_enabled": {
-            "value": false
-          },
-          "responsive_web_nested_quote_preview_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_image_annotation_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_imagine_annotation_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_community_note_auto_translation_is_enabled": {
-            "value": true
-          },
-          "responsive_web_graphql_timeline_navigation_enabled": {
-            "value": true
-          }
-        }
-      }
-    }
-  },
-  {
-    "n": "517855",
-    "exports": {
-      "queryId": "SuJhAYUuVr3K8SbhcQlWMw",
-      "operationName": "SportsProductLeagueTeams",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
     "n": "43395",
     "exports": {
       "queryId": "V8-RP7SxlI4qzRmpCmEqgw",
@@ -35586,375 +34172,6 @@
       "queryId": "73t92vAzJ9DI1WygCcD7WQ",
       "operationName": "SwitchTier",
       "operationType": "mutation",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "313348",
-    "exports": {
-      "queryId": "phsne54Bfd6Yx0jJLS5s_A",
-      "operationName": "MLBGameHydrate",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "549367",
-    "exports": {
-      "queryId": "ROiXANCNUoqr28usraFW-Q",
-      "operationName": "MLBGameOdds",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "659913",
-    "exports": {
-      "queryId": "QIU6Qc5Bdwd-zcls7jtCwA",
-      "operationName": "MLBLeaders",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "19623",
-    "exports": {
-      "queryId": "GoxG0CgTKkUQtEdbm42COg",
-      "operationName": "MLBLiveGame",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "953555",
-    "exports": {
-      "queryId": "h-qGvM4sZDshcH8R2epuXA",
-      "operationName": "MLBMatchup",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "465073",
-    "exports": {
-      "queryId": "C6sGvj7Qq3J4MZWHmxa2pA",
-      "operationName": "MLBPlayerProfile",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "366393",
-    "exports": {
-      "queryId": "thgZnfjQjxqkh0hmoVvGew",
-      "operationName": "MLBPostseasonRounds",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "659972",
-    "exports": {
-      "queryId": "LF20hIABrq6kjc7fhInf7Q",
-      "operationName": "MLBSchedule",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "816397",
-    "exports": {
-      "queryId": "iFzaptv3YWPZEHn0msgOXA",
-      "operationName": "MLBScheduleDays",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "246048",
-    "exports": {
-      "queryId": "vSoV7RqhrtJTMFUheOH1uQ",
-      "operationName": "MlbScoresSidebarLiveGame",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "455496",
-    "exports": {
-      "queryId": "o_Gw2WYhPTFqKKhMR_udrQ",
-      "operationName": "MLBStandings",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "209917",
-    "exports": {
-      "queryId": "bSzG6BGhJO0it5IPuYnniw",
-      "operationName": "MLBTeams",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "980447",
-    "exports": {
-      "queryId": "jn8sGMIC8-f2CzSZw2L6Rw",
-      "operationName": "SportsHubBySport",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "153734",
-    "exports": {
-      "queryId": "anze-HOj0RlxxNJ3-wMJKA",
-      "operationName": "SportsProductFollowedTeamsV2",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "845610",
-    "exports": {
-      "queryId": "9b4YS91CcOxTVnf9sTAtLA",
-      "operationName": "SportsProductLeagueMediaSeries",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [
-          "creator_subscriptions_tweet_preview_api_enabled",
-          "premium_content_api_read_enabled",
-          "communities_web_enable_tweet_community_results_fetch",
-          "c9s_tweet_anatomy_moderator_badge_enabled",
-          "responsive_web_grok_analyze_button_fetch_trends_enabled",
-          "responsive_web_grok_analyze_post_followups_enabled",
-          "rweb_cashtags_composer_attachment_enabled",
-          "responsive_web_jetfuel_frame",
-          "rweb_sports_post_context_enabled",
-          "responsive_web_grok_share_attachment_enabled",
-          "responsive_web_grok_annotations_enabled",
-          "articles_preview_enabled",
-          "responsive_web_edit_tweet_api_enabled",
-          "rweb_conversational_replies_downvote_enabled",
-          "graphql_is_translatable_rweb_tweet_is_translatable_enabled",
-          "view_counts_everywhere_api_enabled",
-          "longform_notetweets_consumption_enabled",
-          "responsive_web_twitter_article_tweet_consumption_enabled",
-          "content_disclosure_indicator_enabled",
-          "content_disclosure_ai_generated_indicator_enabled",
-          "responsive_web_grok_show_grok_translated_post",
-          "responsive_web_grok_analysis_button_from_backend",
-          "post_ctas_fetch_enabled",
-          "rweb_cashtags_enabled",
-          "freedom_of_speech_not_reach_fetch_enabled",
-          "standardized_nudges_misinfo",
-          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled",
-          "longform_notetweets_rich_text_read_enabled",
-          "longform_notetweets_inline_media_enabled",
-          "profile_label_improvements_pcf_label_in_post_enabled",
-          "responsive_web_profile_redirect_enabled",
-          "rweb_tipjar_consumption_enabled",
-          "verified_phone_label_enabled",
-          "responsive_web_nested_quote_preview_enabled",
-          "responsive_web_grok_image_annotation_enabled",
-          "responsive_web_grok_imagine_annotation_enabled",
-          "responsive_web_grok_community_note_auto_translation_is_enabled",
-          "responsive_web_graphql_timeline_navigation_enabled"
-        ],
-        "fieldToggles": [
-          "withArticleRichContentState",
-          "withArticlePlainText",
-          "withArticleSummaryText",
-          "withArticleVoiceOver",
-          "withGrokAnalyze",
-          "withDisallowedReplyControls",
-          "withPayments",
-          "withDmBlocks",
-          "withAuxiliaryUserLabels"
-        ],
-        "featureSwitch": {
-          "creator_subscriptions_tweet_preview_api_enabled": {
-            "value": true
-          },
-          "premium_content_api_read_enabled": {
-            "value": false
-          },
-          "communities_web_enable_tweet_community_results_fetch": {
-            "value": true
-          },
-          "c9s_tweet_anatomy_moderator_badge_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_analyze_button_fetch_trends_enabled": {
-            "value": false
-          },
-          "responsive_web_grok_analyze_post_followups_enabled": {
-            "value": false
-          },
-          "rweb_cashtags_composer_attachment_enabled": {
-            "value": true
-          },
-          "responsive_web_jetfuel_frame": {
-            "value": true
-          },
-          "rweb_sports_post_context_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_share_attachment_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_annotations_enabled": {
-            "value": true
-          },
-          "articles_preview_enabled": {
-            "value": true
-          },
-          "responsive_web_edit_tweet_api_enabled": {
-            "value": true
-          },
-          "graphql_is_translatable_rweb_tweet_is_translatable_enabled": {
-            "value": true
-          },
-          "view_counts_everywhere_api_enabled": {
-            "value": true
-          },
-          "longform_notetweets_consumption_enabled": {
-            "value": true
-          },
-          "responsive_web_twitter_article_tweet_consumption_enabled": {
-            "value": true
-          },
-          "content_disclosure_indicator_enabled": {
-            "value": true
-          },
-          "content_disclosure_ai_generated_indicator_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_show_grok_translated_post": {
-            "value": true
-          },
-          "responsive_web_grok_analysis_button_from_backend": {
-            "value": true
-          },
-          "post_ctas_fetch_enabled": {
-            "value": false
-          },
-          "rweb_cashtags_enabled": {
-            "value": true
-          },
-          "freedom_of_speech_not_reach_fetch_enabled": {
-            "value": true
-          },
-          "standardized_nudges_misinfo": {
-            "value": true
-          },
-          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled": {
-            "value": true
-          },
-          "longform_notetweets_rich_text_read_enabled": {
-            "value": true
-          },
-          "longform_notetweets_inline_media_enabled": {
-            "value": false
-          },
-          "profile_label_improvements_pcf_label_in_post_enabled": {
-            "value": true
-          },
-          "responsive_web_profile_redirect_enabled": {
-            "value": true
-          },
-          "rweb_tipjar_consumption_enabled": {
-            "value": false
-          },
-          "verified_phone_label_enabled": {
-            "value": false
-          },
-          "responsive_web_nested_quote_preview_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_image_annotation_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_imagine_annotation_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_community_note_auto_translation_is_enabled": {
-            "value": true
-          },
-          "responsive_web_graphql_timeline_navigation_enabled": {
-            "value": true
-          }
-        }
-      }
-    }
-  },
-  {
-    "n": "517855",
-    "exports": {
-      "queryId": "SuJhAYUuVr3K8SbhcQlWMw",
-      "operationName": "SportsProductLeagueTeams",
-      "operationType": "query",
       "metadata": {
         "featureSwitches": [],
         "fieldToggles": [],
@@ -36509,375 +34726,6 @@
     }
   },
   {
-    "n": "313348",
-    "exports": {
-      "queryId": "phsne54Bfd6Yx0jJLS5s_A",
-      "operationName": "MLBGameHydrate",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "549367",
-    "exports": {
-      "queryId": "ROiXANCNUoqr28usraFW-Q",
-      "operationName": "MLBGameOdds",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "659913",
-    "exports": {
-      "queryId": "QIU6Qc5Bdwd-zcls7jtCwA",
-      "operationName": "MLBLeaders",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "19623",
-    "exports": {
-      "queryId": "GoxG0CgTKkUQtEdbm42COg",
-      "operationName": "MLBLiveGame",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "953555",
-    "exports": {
-      "queryId": "h-qGvM4sZDshcH8R2epuXA",
-      "operationName": "MLBMatchup",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "465073",
-    "exports": {
-      "queryId": "C6sGvj7Qq3J4MZWHmxa2pA",
-      "operationName": "MLBPlayerProfile",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "366393",
-    "exports": {
-      "queryId": "thgZnfjQjxqkh0hmoVvGew",
-      "operationName": "MLBPostseasonRounds",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "659972",
-    "exports": {
-      "queryId": "LF20hIABrq6kjc7fhInf7Q",
-      "operationName": "MLBSchedule",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "816397",
-    "exports": {
-      "queryId": "iFzaptv3YWPZEHn0msgOXA",
-      "operationName": "MLBScheduleDays",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "246048",
-    "exports": {
-      "queryId": "vSoV7RqhrtJTMFUheOH1uQ",
-      "operationName": "MlbScoresSidebarLiveGame",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "455496",
-    "exports": {
-      "queryId": "o_Gw2WYhPTFqKKhMR_udrQ",
-      "operationName": "MLBStandings",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "209917",
-    "exports": {
-      "queryId": "bSzG6BGhJO0it5IPuYnniw",
-      "operationName": "MLBTeams",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "980447",
-    "exports": {
-      "queryId": "jn8sGMIC8-f2CzSZw2L6Rw",
-      "operationName": "SportsHubBySport",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "153734",
-    "exports": {
-      "queryId": "anze-HOj0RlxxNJ3-wMJKA",
-      "operationName": "SportsProductFollowedTeamsV2",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
-    "n": "845610",
-    "exports": {
-      "queryId": "9b4YS91CcOxTVnf9sTAtLA",
-      "operationName": "SportsProductLeagueMediaSeries",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [
-          "creator_subscriptions_tweet_preview_api_enabled",
-          "premium_content_api_read_enabled",
-          "communities_web_enable_tweet_community_results_fetch",
-          "c9s_tweet_anatomy_moderator_badge_enabled",
-          "responsive_web_grok_analyze_button_fetch_trends_enabled",
-          "responsive_web_grok_analyze_post_followups_enabled",
-          "rweb_cashtags_composer_attachment_enabled",
-          "responsive_web_jetfuel_frame",
-          "rweb_sports_post_context_enabled",
-          "responsive_web_grok_share_attachment_enabled",
-          "responsive_web_grok_annotations_enabled",
-          "articles_preview_enabled",
-          "responsive_web_edit_tweet_api_enabled",
-          "rweb_conversational_replies_downvote_enabled",
-          "graphql_is_translatable_rweb_tweet_is_translatable_enabled",
-          "view_counts_everywhere_api_enabled",
-          "longform_notetweets_consumption_enabled",
-          "responsive_web_twitter_article_tweet_consumption_enabled",
-          "content_disclosure_indicator_enabled",
-          "content_disclosure_ai_generated_indicator_enabled",
-          "responsive_web_grok_show_grok_translated_post",
-          "responsive_web_grok_analysis_button_from_backend",
-          "post_ctas_fetch_enabled",
-          "rweb_cashtags_enabled",
-          "freedom_of_speech_not_reach_fetch_enabled",
-          "standardized_nudges_misinfo",
-          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled",
-          "longform_notetweets_rich_text_read_enabled",
-          "longform_notetweets_inline_media_enabled",
-          "profile_label_improvements_pcf_label_in_post_enabled",
-          "responsive_web_profile_redirect_enabled",
-          "rweb_tipjar_consumption_enabled",
-          "verified_phone_label_enabled",
-          "responsive_web_nested_quote_preview_enabled",
-          "responsive_web_grok_image_annotation_enabled",
-          "responsive_web_grok_imagine_annotation_enabled",
-          "responsive_web_grok_community_note_auto_translation_is_enabled",
-          "responsive_web_graphql_timeline_navigation_enabled"
-        ],
-        "fieldToggles": [
-          "withArticleRichContentState",
-          "withArticlePlainText",
-          "withArticleSummaryText",
-          "withArticleVoiceOver",
-          "withGrokAnalyze",
-          "withDisallowedReplyControls",
-          "withPayments",
-          "withDmBlocks",
-          "withAuxiliaryUserLabels"
-        ],
-        "featureSwitch": {
-          "creator_subscriptions_tweet_preview_api_enabled": {
-            "value": true
-          },
-          "premium_content_api_read_enabled": {
-            "value": false
-          },
-          "communities_web_enable_tweet_community_results_fetch": {
-            "value": true
-          },
-          "c9s_tweet_anatomy_moderator_badge_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_analyze_button_fetch_trends_enabled": {
-            "value": false
-          },
-          "responsive_web_grok_analyze_post_followups_enabled": {
-            "value": false
-          },
-          "rweb_cashtags_composer_attachment_enabled": {
-            "value": true
-          },
-          "responsive_web_jetfuel_frame": {
-            "value": true
-          },
-          "rweb_sports_post_context_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_share_attachment_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_annotations_enabled": {
-            "value": true
-          },
-          "articles_preview_enabled": {
-            "value": true
-          },
-          "responsive_web_edit_tweet_api_enabled": {
-            "value": true
-          },
-          "graphql_is_translatable_rweb_tweet_is_translatable_enabled": {
-            "value": true
-          },
-          "view_counts_everywhere_api_enabled": {
-            "value": true
-          },
-          "longform_notetweets_consumption_enabled": {
-            "value": true
-          },
-          "responsive_web_twitter_article_tweet_consumption_enabled": {
-            "value": true
-          },
-          "content_disclosure_indicator_enabled": {
-            "value": true
-          },
-          "content_disclosure_ai_generated_indicator_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_show_grok_translated_post": {
-            "value": true
-          },
-          "responsive_web_grok_analysis_button_from_backend": {
-            "value": true
-          },
-          "post_ctas_fetch_enabled": {
-            "value": false
-          },
-          "rweb_cashtags_enabled": {
-            "value": true
-          },
-          "freedom_of_speech_not_reach_fetch_enabled": {
-            "value": true
-          },
-          "standardized_nudges_misinfo": {
-            "value": true
-          },
-          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled": {
-            "value": true
-          },
-          "longform_notetweets_rich_text_read_enabled": {
-            "value": true
-          },
-          "longform_notetweets_inline_media_enabled": {
-            "value": false
-          },
-          "profile_label_improvements_pcf_label_in_post_enabled": {
-            "value": true
-          },
-          "responsive_web_profile_redirect_enabled": {
-            "value": true
-          },
-          "rweb_tipjar_consumption_enabled": {
-            "value": false
-          },
-          "verified_phone_label_enabled": {
-            "value": false
-          },
-          "responsive_web_nested_quote_preview_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_image_annotation_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_imagine_annotation_enabled": {
-            "value": true
-          },
-          "responsive_web_grok_community_note_auto_translation_is_enabled": {
-            "value": true
-          },
-          "responsive_web_graphql_timeline_navigation_enabled": {
-            "value": true
-          }
-        }
-      }
-    }
-  },
-  {
-    "n": "517855",
-    "exports": {
-      "queryId": "SuJhAYUuVr3K8SbhcQlWMw",
-      "operationName": "SportsProductLeagueTeams",
-      "operationType": "query",
-      "metadata": {
-        "featureSwitches": [],
-        "fieldToggles": [],
-        "featureSwitch": {}
-      }
-    }
-  },
-  {
     "n": "29711",
     "exports": {
       "queryId": "YvOyNvAQVVF8LosXARyRAA",
@@ -37325,6 +35173,752 @@
       "queryId": "2Qbj9XZvtUvyJB4gFwWfaA",
       "operationName": "RemoveTweetFromBookmarkFolder",
       "operationType": "mutation",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "242747",
+    "exports": {
+      "queryId": "5URyiXQyz6_8NZnoV37OVQ",
+      "operationName": "HomeLatestTimeline",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [
+          "rweb_video_screen_enabled",
+          "rweb_cashtags_enabled",
+          "profile_label_improvements_pcf_label_in_post_enabled",
+          "responsive_web_profile_redirect_enabled",
+          "rweb_tipjar_consumption_enabled",
+          "verified_phone_label_enabled",
+          "creator_subscriptions_tweet_preview_api_enabled",
+          "responsive_web_graphql_timeline_navigation_enabled",
+          "premium_content_api_read_enabled",
+          "communities_web_enable_tweet_community_results_fetch",
+          "c9s_tweet_anatomy_moderator_badge_enabled",
+          "responsive_web_grok_analyze_button_fetch_trends_enabled",
+          "responsive_web_grok_analyze_post_followups_enabled",
+          "rweb_cashtags_composer_attachment_enabled",
+          "responsive_web_jetfuel_frame",
+          "rweb_sports_post_context_enabled",
+          "responsive_web_grok_share_attachment_enabled",
+          "responsive_web_grok_annotations_enabled",
+          "articles_preview_enabled",
+          "responsive_web_edit_tweet_api_enabled",
+          "rweb_conversational_replies_downvote_enabled",
+          "graphql_is_translatable_rweb_tweet_is_translatable_enabled",
+          "view_counts_everywhere_api_enabled",
+          "longform_notetweets_consumption_enabled",
+          "responsive_web_twitter_article_tweet_consumption_enabled",
+          "content_disclosure_indicator_enabled",
+          "content_disclosure_ai_generated_indicator_enabled",
+          "responsive_web_grok_show_grok_translated_post",
+          "responsive_web_grok_analysis_button_from_backend",
+          "post_ctas_fetch_enabled",
+          "freedom_of_speech_not_reach_fetch_enabled",
+          "standardized_nudges_misinfo",
+          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled",
+          "longform_notetweets_rich_text_read_enabled",
+          "longform_notetweets_inline_media_enabled",
+          "responsive_web_nested_quote_preview_enabled",
+          "responsive_web_grok_image_annotation_enabled",
+          "responsive_web_grok_imagine_annotation_enabled",
+          "responsive_web_grok_community_note_auto_translation_is_enabled",
+          "responsive_web_enhance_cards_enabled"
+        ],
+        "fieldToggles": [
+          "withPayments",
+          "withDmBlocks",
+          "withAuxiliaryUserLabels",
+          "withArticleRichContentState",
+          "withArticlePlainText",
+          "withArticleSummaryText",
+          "withArticleVoiceOver",
+          "withGrokAnalyze",
+          "withDisallowedReplyControls"
+        ],
+        "featureSwitch": {
+          "rweb_video_screen_enabled": {
+            "value": false
+          },
+          "rweb_cashtags_enabled": {
+            "value": true
+          },
+          "profile_label_improvements_pcf_label_in_post_enabled": {
+            "value": true
+          },
+          "responsive_web_profile_redirect_enabled": {
+            "value": true
+          },
+          "rweb_tipjar_consumption_enabled": {
+            "value": false
+          },
+          "verified_phone_label_enabled": {
+            "value": false
+          },
+          "creator_subscriptions_tweet_preview_api_enabled": {
+            "value": true
+          },
+          "responsive_web_graphql_timeline_navigation_enabled": {
+            "value": true
+          },
+          "premium_content_api_read_enabled": {
+            "value": false
+          },
+          "communities_web_enable_tweet_community_results_fetch": {
+            "value": true
+          },
+          "c9s_tweet_anatomy_moderator_badge_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_analyze_button_fetch_trends_enabled": {
+            "value": false
+          },
+          "responsive_web_grok_analyze_post_followups_enabled": {
+            "value": false
+          },
+          "rweb_cashtags_composer_attachment_enabled": {
+            "value": true
+          },
+          "responsive_web_jetfuel_frame": {
+            "value": true
+          },
+          "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_share_attachment_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_annotations_enabled": {
+            "value": true
+          },
+          "articles_preview_enabled": {
+            "value": true
+          },
+          "responsive_web_edit_tweet_api_enabled": {
+            "value": true
+          },
+          "graphql_is_translatable_rweb_tweet_is_translatable_enabled": {
+            "value": true
+          },
+          "view_counts_everywhere_api_enabled": {
+            "value": true
+          },
+          "longform_notetweets_consumption_enabled": {
+            "value": true
+          },
+          "responsive_web_twitter_article_tweet_consumption_enabled": {
+            "value": true
+          },
+          "content_disclosure_indicator_enabled": {
+            "value": true
+          },
+          "content_disclosure_ai_generated_indicator_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_show_grok_translated_post": {
+            "value": true
+          },
+          "responsive_web_grok_analysis_button_from_backend": {
+            "value": true
+          },
+          "post_ctas_fetch_enabled": {
+            "value": false
+          },
+          "freedom_of_speech_not_reach_fetch_enabled": {
+            "value": true
+          },
+          "standardized_nudges_misinfo": {
+            "value": true
+          },
+          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled": {
+            "value": true
+          },
+          "longform_notetweets_rich_text_read_enabled": {
+            "value": true
+          },
+          "longform_notetweets_inline_media_enabled": {
+            "value": false
+          },
+          "responsive_web_nested_quote_preview_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_image_annotation_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_imagine_annotation_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_community_note_auto_translation_is_enabled": {
+            "value": true
+          },
+          "responsive_web_enhance_cards_enabled": {
+            "value": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "n": "617266",
+    "exports": {
+      "queryId": "V0wMxbYBxdrkfmV3kJSyRQ",
+      "operationName": "HomeTimeline",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [
+          "rweb_video_screen_enabled",
+          "rweb_cashtags_enabled",
+          "profile_label_improvements_pcf_label_in_post_enabled",
+          "responsive_web_profile_redirect_enabled",
+          "rweb_tipjar_consumption_enabled",
+          "verified_phone_label_enabled",
+          "creator_subscriptions_tweet_preview_api_enabled",
+          "responsive_web_graphql_timeline_navigation_enabled",
+          "premium_content_api_read_enabled",
+          "communities_web_enable_tweet_community_results_fetch",
+          "c9s_tweet_anatomy_moderator_badge_enabled",
+          "responsive_web_grok_analyze_button_fetch_trends_enabled",
+          "responsive_web_grok_analyze_post_followups_enabled",
+          "rweb_cashtags_composer_attachment_enabled",
+          "responsive_web_jetfuel_frame",
+          "rweb_sports_post_context_enabled",
+          "responsive_web_grok_share_attachment_enabled",
+          "responsive_web_grok_annotations_enabled",
+          "articles_preview_enabled",
+          "responsive_web_edit_tweet_api_enabled",
+          "rweb_conversational_replies_downvote_enabled",
+          "graphql_is_translatable_rweb_tweet_is_translatable_enabled",
+          "view_counts_everywhere_api_enabled",
+          "longform_notetweets_consumption_enabled",
+          "responsive_web_twitter_article_tweet_consumption_enabled",
+          "content_disclosure_indicator_enabled",
+          "content_disclosure_ai_generated_indicator_enabled",
+          "responsive_web_grok_show_grok_translated_post",
+          "responsive_web_grok_analysis_button_from_backend",
+          "post_ctas_fetch_enabled",
+          "freedom_of_speech_not_reach_fetch_enabled",
+          "standardized_nudges_misinfo",
+          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled",
+          "longform_notetweets_rich_text_read_enabled",
+          "longform_notetweets_inline_media_enabled",
+          "responsive_web_nested_quote_preview_enabled",
+          "responsive_web_grok_image_annotation_enabled",
+          "responsive_web_grok_imagine_annotation_enabled",
+          "responsive_web_grok_community_note_auto_translation_is_enabled",
+          "responsive_web_enhance_cards_enabled"
+        ],
+        "fieldToggles": [
+          "withPayments",
+          "withDmBlocks",
+          "withAuxiliaryUserLabels",
+          "withArticleRichContentState",
+          "withArticlePlainText",
+          "withArticleSummaryText",
+          "withArticleVoiceOver",
+          "withGrokAnalyze",
+          "withDisallowedReplyControls"
+        ],
+        "featureSwitch": {
+          "rweb_video_screen_enabled": {
+            "value": false
+          },
+          "rweb_cashtags_enabled": {
+            "value": true
+          },
+          "profile_label_improvements_pcf_label_in_post_enabled": {
+            "value": true
+          },
+          "responsive_web_profile_redirect_enabled": {
+            "value": true
+          },
+          "rweb_tipjar_consumption_enabled": {
+            "value": false
+          },
+          "verified_phone_label_enabled": {
+            "value": false
+          },
+          "creator_subscriptions_tweet_preview_api_enabled": {
+            "value": true
+          },
+          "responsive_web_graphql_timeline_navigation_enabled": {
+            "value": true
+          },
+          "premium_content_api_read_enabled": {
+            "value": false
+          },
+          "communities_web_enable_tweet_community_results_fetch": {
+            "value": true
+          },
+          "c9s_tweet_anatomy_moderator_badge_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_analyze_button_fetch_trends_enabled": {
+            "value": false
+          },
+          "responsive_web_grok_analyze_post_followups_enabled": {
+            "value": false
+          },
+          "rweb_cashtags_composer_attachment_enabled": {
+            "value": true
+          },
+          "responsive_web_jetfuel_frame": {
+            "value": true
+          },
+          "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_share_attachment_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_annotations_enabled": {
+            "value": true
+          },
+          "articles_preview_enabled": {
+            "value": true
+          },
+          "responsive_web_edit_tweet_api_enabled": {
+            "value": true
+          },
+          "graphql_is_translatable_rweb_tweet_is_translatable_enabled": {
+            "value": true
+          },
+          "view_counts_everywhere_api_enabled": {
+            "value": true
+          },
+          "longform_notetweets_consumption_enabled": {
+            "value": true
+          },
+          "responsive_web_twitter_article_tweet_consumption_enabled": {
+            "value": true
+          },
+          "content_disclosure_indicator_enabled": {
+            "value": true
+          },
+          "content_disclosure_ai_generated_indicator_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_show_grok_translated_post": {
+            "value": true
+          },
+          "responsive_web_grok_analysis_button_from_backend": {
+            "value": true
+          },
+          "post_ctas_fetch_enabled": {
+            "value": false
+          },
+          "freedom_of_speech_not_reach_fetch_enabled": {
+            "value": true
+          },
+          "standardized_nudges_misinfo": {
+            "value": true
+          },
+          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled": {
+            "value": true
+          },
+          "longform_notetweets_rich_text_read_enabled": {
+            "value": true
+          },
+          "longform_notetweets_inline_media_enabled": {
+            "value": false
+          },
+          "responsive_web_nested_quote_preview_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_image_annotation_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_imagine_annotation_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_community_note_auto_translation_is_enabled": {
+            "value": true
+          },
+          "responsive_web_enhance_cards_enabled": {
+            "value": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "n": "313348",
+    "exports": {
+      "queryId": "Lj3UyfijNawe_Nov84F7-w",
+      "operationName": "MLBGameHydrate",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "549367",
+    "exports": {
+      "queryId": "ROiXANCNUoqr28usraFW-Q",
+      "operationName": "MLBGameOdds",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "549270",
+    "exports": {
+      "queryId": "U2niAYPZ3GDoQphnZuVRBQ",
+      "operationName": "MLBGamePlayerProps",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "659913",
+    "exports": {
+      "queryId": "QIU6Qc5Bdwd-zcls7jtCwA",
+      "operationName": "MLBLeaders",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "19623",
+    "exports": {
+      "queryId": "Y48JDK9LNvh1IAuRAVOJjQ",
+      "operationName": "MLBLiveGame",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "953555",
+    "exports": {
+      "queryId": "h-qGvM4sZDshcH8R2epuXA",
+      "operationName": "MLBMatchup",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "465073",
+    "exports": {
+      "queryId": "C6sGvj7Qq3J4MZWHmxa2pA",
+      "operationName": "MLBPlayerProfile",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "366393",
+    "exports": {
+      "queryId": "thgZnfjQjxqkh0hmoVvGew",
+      "operationName": "MLBPostseasonRounds",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "659972",
+    "exports": {
+      "queryId": "LF20hIABrq6kjc7fhInf7Q",
+      "operationName": "MLBSchedule",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "816397",
+    "exports": {
+      "queryId": "iFzaptv3YWPZEHn0msgOXA",
+      "operationName": "MLBScheduleDays",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "246048",
+    "exports": {
+      "queryId": "vSoV7RqhrtJTMFUheOH1uQ",
+      "operationName": "MlbScoresSidebarLiveGame",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "455496",
+    "exports": {
+      "queryId": "o_Gw2WYhPTFqKKhMR_udrQ",
+      "operationName": "MLBStandings",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "209917",
+    "exports": {
+      "queryId": "bSzG6BGhJO0it5IPuYnniw",
+      "operationName": "MLBTeams",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "980447",
+    "exports": {
+      "queryId": "jn8sGMIC8-f2CzSZw2L6Rw",
+      "operationName": "SportsHubBySport",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "153734",
+    "exports": {
+      "queryId": "anze-HOj0RlxxNJ3-wMJKA",
+      "operationName": "SportsProductFollowedTeamsV2",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "845610",
+    "exports": {
+      "queryId": "DdkqocdOr_wDTCJHQ_lfcw",
+      "operationName": "SportsProductLeagueMediaSeries",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [
+          "creator_subscriptions_tweet_preview_api_enabled",
+          "premium_content_api_read_enabled",
+          "communities_web_enable_tweet_community_results_fetch",
+          "c9s_tweet_anatomy_moderator_badge_enabled",
+          "responsive_web_grok_analyze_button_fetch_trends_enabled",
+          "responsive_web_grok_analyze_post_followups_enabled",
+          "rweb_cashtags_composer_attachment_enabled",
+          "responsive_web_jetfuel_frame",
+          "rweb_sports_post_context_enabled",
+          "responsive_web_grok_share_attachment_enabled",
+          "responsive_web_grok_annotations_enabled",
+          "articles_preview_enabled",
+          "responsive_web_edit_tweet_api_enabled",
+          "rweb_conversational_replies_downvote_enabled",
+          "graphql_is_translatable_rweb_tweet_is_translatable_enabled",
+          "view_counts_everywhere_api_enabled",
+          "longform_notetweets_consumption_enabled",
+          "responsive_web_twitter_article_tweet_consumption_enabled",
+          "content_disclosure_indicator_enabled",
+          "content_disclosure_ai_generated_indicator_enabled",
+          "responsive_web_grok_show_grok_translated_post",
+          "responsive_web_grok_analysis_button_from_backend",
+          "post_ctas_fetch_enabled",
+          "rweb_cashtags_enabled",
+          "freedom_of_speech_not_reach_fetch_enabled",
+          "standardized_nudges_misinfo",
+          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled",
+          "longform_notetweets_rich_text_read_enabled",
+          "longform_notetweets_inline_media_enabled",
+          "profile_label_improvements_pcf_label_in_post_enabled",
+          "responsive_web_profile_redirect_enabled",
+          "rweb_tipjar_consumption_enabled",
+          "verified_phone_label_enabled",
+          "responsive_web_nested_quote_preview_enabled",
+          "responsive_web_grok_image_annotation_enabled",
+          "responsive_web_grok_imagine_annotation_enabled",
+          "responsive_web_grok_community_note_auto_translation_is_enabled",
+          "responsive_web_graphql_timeline_navigation_enabled"
+        ],
+        "fieldToggles": [
+          "withArticleRichContentState",
+          "withArticlePlainText",
+          "withArticleSummaryText",
+          "withArticleVoiceOver",
+          "withGrokAnalyze",
+          "withDisallowedReplyControls",
+          "withPayments",
+          "withDmBlocks",
+          "withAuxiliaryUserLabels"
+        ],
+        "featureSwitch": {
+          "creator_subscriptions_tweet_preview_api_enabled": {
+            "value": true
+          },
+          "premium_content_api_read_enabled": {
+            "value": false
+          },
+          "communities_web_enable_tweet_community_results_fetch": {
+            "value": true
+          },
+          "c9s_tweet_anatomy_moderator_badge_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_analyze_button_fetch_trends_enabled": {
+            "value": false
+          },
+          "responsive_web_grok_analyze_post_followups_enabled": {
+            "value": false
+          },
+          "rweb_cashtags_composer_attachment_enabled": {
+            "value": true
+          },
+          "responsive_web_jetfuel_frame": {
+            "value": true
+          },
+          "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_share_attachment_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_annotations_enabled": {
+            "value": true
+          },
+          "articles_preview_enabled": {
+            "value": true
+          },
+          "responsive_web_edit_tweet_api_enabled": {
+            "value": true
+          },
+          "graphql_is_translatable_rweb_tweet_is_translatable_enabled": {
+            "value": true
+          },
+          "view_counts_everywhere_api_enabled": {
+            "value": true
+          },
+          "longform_notetweets_consumption_enabled": {
+            "value": true
+          },
+          "responsive_web_twitter_article_tweet_consumption_enabled": {
+            "value": true
+          },
+          "content_disclosure_indicator_enabled": {
+            "value": true
+          },
+          "content_disclosure_ai_generated_indicator_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_show_grok_translated_post": {
+            "value": true
+          },
+          "responsive_web_grok_analysis_button_from_backend": {
+            "value": true
+          },
+          "post_ctas_fetch_enabled": {
+            "value": false
+          },
+          "rweb_cashtags_enabled": {
+            "value": true
+          },
+          "freedom_of_speech_not_reach_fetch_enabled": {
+            "value": true
+          },
+          "standardized_nudges_misinfo": {
+            "value": true
+          },
+          "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled": {
+            "value": true
+          },
+          "longform_notetweets_rich_text_read_enabled": {
+            "value": true
+          },
+          "longform_notetweets_inline_media_enabled": {
+            "value": false
+          },
+          "profile_label_improvements_pcf_label_in_post_enabled": {
+            "value": true
+          },
+          "responsive_web_profile_redirect_enabled": {
+            "value": true
+          },
+          "rweb_tipjar_consumption_enabled": {
+            "value": false
+          },
+          "verified_phone_label_enabled": {
+            "value": false
+          },
+          "responsive_web_nested_quote_preview_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_image_annotation_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_imagine_annotation_enabled": {
+            "value": true
+          },
+          "responsive_web_grok_community_note_auto_translation_is_enabled": {
+            "value": true
+          },
+          "responsive_web_graphql_timeline_navigation_enabled": {
+            "value": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "n": "517855",
+    "exports": {
+      "queryId": "SuJhAYUuVr3K8SbhcQlWMw",
+      "operationName": "SportsProductLeagueTeams",
+      "operationType": "query",
       "metadata": {
         "featureSwitches": [],
         "fieldToggles": [],
@@ -44393,7 +42987,7 @@
   {
     "n": "689244",
     "exports": {
-      "queryId": "aQ-b88K_Lp7dgHX53MqNQQ",
+      "queryId": "AqTNiqohgRK_0DarLzqUvg",
       "operationName": "GetUserClaims",
       "operationType": "query",
       "metadata": {
