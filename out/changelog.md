@@ -1,3 +1,16 @@
+## 2026-10-11
+### GraphQL API
+#### add
+- BroadcastReplayEdit
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-10-09
 ### GraphQL API
 #### add
