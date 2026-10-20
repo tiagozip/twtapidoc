@@ -1,3 +1,48 @@
+## 2026-10-20
+### GraphQL API
+#### add
+- NBAGameHydrate
+- NBAGameOdds
+- NBALeaders
+- NBALiveGame
+- NBAMatchup
+- NBAMatchupSeason
+- NBAPlayerProfile
+- NBASchedule
+- NBAScheduleDays
+- NBAStandings
+- NBATeams
+- NBAGameHydrate
+- NBAGameOdds
+- NBALeaders
+- NBALiveGame
+- NBAMatchup
+- NBAMatchupSeason
+- NBAPlayerProfile
+- NBASchedule
+- NBAScheduleDays
+- NBAStandings
+- NBATeams
+- NBAGameHydrate
+- NBAGameOdds
+- NBALeaders
+- NBALiveGame
+- NBAMatchup
+- NBAMatchupSeason
+- NBAPlayerProfile
+- NBASchedule
+- NBAScheduleDays
+- NBAStandings
+- NBATeams
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-10-11
 ### GraphQL API
 #### add
