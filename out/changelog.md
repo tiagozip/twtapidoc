@@ -1,3 +1,23 @@
+## 2026-10-21
+### GraphQL API
+#### add
+- NbaScoresSidebarLiveGame
+- NbaScoresSidebarSchedule
+- NbaScoresSidebarLiveGame
+- NbaScoresSidebarSchedule
+- NbaScoresSidebarLiveGame
+- NbaScoresSidebarSchedule
+- NbaScoresSidebarLiveGame
+- NbaScoresSidebarSchedule
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-10-20
 ### GraphQL API
 #### add
