@@ -1,3 +1,55 @@
+## 2026-10-23
+### GraphQL API
+#### add
+- NHLGameHydrate
+- NHLGameOdds
+- NHLLeaders
+- NHLLiveGame
+- NHLMatchup
+- NHLMatchupSeason
+- NHLPlayerProfile
+- NHLSchedule
+- NHLScheduleDays
+- NhlScoresSidebarLiveGame
+- NhlScoresSidebarSchedule
+- NHLStandings
+- NHLTeams
+- CreateShareLink
+- NHLGameHydrate
+- NHLGameOdds
+- NHLLeaders
+- NHLLiveGame
+- NHLMatchup
+- NHLMatchupSeason
+- NHLPlayerProfile
+- NHLSchedule
+- NHLScheduleDays
+- NhlScoresSidebarLiveGame
+- NhlScoresSidebarSchedule
+- NHLStandings
+- NHLTeams
+- NHLGameHydrate
+- NHLGameOdds
+- NHLLeaders
+- NHLLiveGame
+- NHLMatchup
+- NHLMatchupSeason
+- NHLPlayerProfile
+- NHLSchedule
+- NHLScheduleDays
+- NhlScoresSidebarLiveGame
+- NhlScoresSidebarSchedule
+- NHLStandings
+- NHLTeams
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-10-21
 ### GraphQL API
 #### add

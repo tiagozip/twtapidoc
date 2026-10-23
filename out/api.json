@@ -2713,8 +2713,8 @@
       }
     },
     "NBAGameHydrate": {
-      "url": "https://x.com/i/api/graphql/UIEF6rkvVm7Lqm5F_i8EjA/NBAGameHydrate",
-      "queryId": "UIEF6rkvVm7Lqm5F_i8EjA",
+      "url": "https://x.com/i/api/graphql/_OwS8C_PTBRufp3MmL1LHg/NBAGameHydrate",
+      "queryId": "_OwS8C_PTBRufp3MmL1LHg",
       "method": "GET",
       "features": {}
     },
@@ -2731,8 +2731,8 @@
       "features": {}
     },
     "NBALiveGame": {
-      "url": "https://x.com/i/api/graphql/_lKDjzrzrBNm2tBeY1Q6Xg/NBALiveGame",
-      "queryId": "_lKDjzrzrBNm2tBeY1Q6Xg",
+      "url": "https://x.com/i/api/graphql/wxe4oebQjqixEFFwX3X-cg/NBALiveGame",
+      "queryId": "wxe4oebQjqixEFFwX3X-cg",
       "method": "GET",
       "features": {}
     },
@@ -4559,8 +4559,86 @@
       "features": {}
     },
     "UserSportsProfile": {
-      "url": "https://x.com/i/api/graphql/9-4tRP2b14zSuznClxQxFw/UserSportsProfile",
-      "queryId": "9-4tRP2b14zSuznClxQxFw",
+      "url": "https://x.com/i/api/graphql/59Zl1Tu5_LVZDmIw6GYO8A/UserSportsProfile",
+      "queryId": "59Zl1Tu5_LVZDmIw6GYO8A",
+      "method": "GET",
+      "features": {}
+    },
+    "NHLGameHydrate": {
+      "url": "https://x.com/i/api/graphql/CZmroSaRbcBJ47uHySscQA/NHLGameHydrate",
+      "queryId": "CZmroSaRbcBJ47uHySscQA",
+      "method": "GET",
+      "features": {}
+    },
+    "NHLGameOdds": {
+      "url": "https://x.com/i/api/graphql/XP2l_9mnJQ6lpzzcjvW23A/NHLGameOdds",
+      "queryId": "XP2l_9mnJQ6lpzzcjvW23A",
+      "method": "GET",
+      "features": {}
+    },
+    "NHLLeaders": {
+      "url": "https://x.com/i/api/graphql/bP7XAEEu6c2zmTIJAonjTw/NHLLeaders",
+      "queryId": "bP7XAEEu6c2zmTIJAonjTw",
+      "method": "GET",
+      "features": {}
+    },
+    "NHLLiveGame": {
+      "url": "https://x.com/i/api/graphql/f6yGemoG7HgzooklbNBXBg/NHLLiveGame",
+      "queryId": "f6yGemoG7HgzooklbNBXBg",
+      "method": "GET",
+      "features": {}
+    },
+    "NHLMatchup": {
+      "url": "https://x.com/i/api/graphql/pEa2kJfT4-xiCYZDGLCltQ/NHLMatchup",
+      "queryId": "pEa2kJfT4-xiCYZDGLCltQ",
+      "method": "GET",
+      "features": {}
+    },
+    "NHLMatchupSeason": {
+      "url": "https://x.com/i/api/graphql/_gHQs3TaecHtHyyxE3SyrQ/NHLMatchupSeason",
+      "queryId": "_gHQs3TaecHtHyyxE3SyrQ",
+      "method": "GET",
+      "features": {}
+    },
+    "NHLPlayerProfile": {
+      "url": "https://x.com/i/api/graphql/nP96L3rZHDqr_5BrOT2t4Q/NHLPlayerProfile",
+      "queryId": "nP96L3rZHDqr_5BrOT2t4Q",
+      "method": "GET",
+      "features": {}
+    },
+    "NHLSchedule": {
+      "url": "https://x.com/i/api/graphql/boveFhwzKCvPaTymCzp5PA/NHLSchedule",
+      "queryId": "boveFhwzKCvPaTymCzp5PA",
+      "method": "GET",
+      "features": {}
+    },
+    "NHLScheduleDays": {
+      "url": "https://x.com/i/api/graphql/yB7TdSWKSlnpNekFGbXf1Q/NHLScheduleDays",
+      "queryId": "yB7TdSWKSlnpNekFGbXf1Q",
+      "method": "GET",
+      "features": {}
+    },
+    "NhlScoresSidebarLiveGame": {
+      "url": "https://x.com/i/api/graphql/2snRYWh1sR0N4EiJHEIHdQ/NhlScoresSidebarLiveGame",
+      "queryId": "2snRYWh1sR0N4EiJHEIHdQ",
+      "method": "GET",
+      "features": {}
+    },
+    "NhlScoresSidebarSchedule": {
+      "url": "https://x.com/i/api/graphql/J9WzdMoFi6DjYKOxKhqA1Q/NhlScoresSidebarSchedule",
+      "queryId": "J9WzdMoFi6DjYKOxKhqA1Q",
+      "method": "GET",
+      "features": {}
+    },
+    "NHLStandings": {
+      "url": "https://x.com/i/api/graphql/A2sgUwGOU43kMNh0dXIvAg/NHLStandings",
+      "queryId": "A2sgUwGOU43kMNh0dXIvAg",
+      "method": "GET",
+      "features": {}
+    },
+    "NHLTeams": {
+      "url": "https://x.com/i/api/graphql/HabSdrOugMP1Jj_BUifKgw/NHLTeams",
+      "queryId": "HabSdrOugMP1Jj_BUifKgw",
       "method": "GET",
       "features": {}
     },
@@ -4649,14 +4727,14 @@
       "features": {}
     },
     "SportsProductFollowedTeamsV2": {
-      "url": "https://x.com/i/api/graphql/zrXuw_5UfX1DTB1tpGm8MQ/SportsProductFollowedTeamsV2",
-      "queryId": "zrXuw_5UfX1DTB1tpGm8MQ",
+      "url": "https://x.com/i/api/graphql/hxmcWMm6grgAS9WLqAANfA/SportsProductFollowedTeamsV2",
+      "queryId": "hxmcWMm6grgAS9WLqAANfA",
       "method": "GET",
       "features": {}
     },
     "SportsProductLeagueMediaSeries": {
-      "url": "https://x.com/i/api/graphql/rqdcI0F6-wbjGZ26O5PE7g/SportsProductLeagueMediaSeries",
-      "queryId": "rqdcI0F6-wbjGZ26O5PE7g",
+      "url": "https://x.com/i/api/graphql/o2eCHYw35bVoyRXhU_-4iA/SportsProductLeagueMediaSeries",
+      "queryId": "o2eCHYw35bVoyRXhU_-4iA",
       "method": "GET",
       "features": {
         "creator_subscriptions_tweet_preview_api_enabled": true,
@@ -4699,8 +4777,8 @@
       }
     },
     "SportsProductLeagueTeams": {
-      "url": "https://x.com/i/api/graphql/pmeLSj9IKZtIWWVGhVAhDg/SportsProductLeagueTeams",
-      "queryId": "pmeLSj9IKZtIWWVGhVAhDg",
+      "url": "https://x.com/i/api/graphql/oqWOTP-w8yXpcMJXlvBWeA/SportsProductLeagueTeams",
+      "queryId": "oqWOTP-w8yXpcMJXlvBWeA",
       "method": "GET",
       "features": {}
     },
@@ -5294,6 +5372,12 @@
     "BirdwatchRemoveUser": {
       "url": "https://x.com/i/api/graphql/6ZEO6UxqjlK4nefrhotZHw/BirdwatchRemoveUser",
       "queryId": "6ZEO6UxqjlK4nefrhotZHw",
+      "method": "POST",
+      "features": {}
+    },
+    "CreateShareLink": {
+      "url": "https://x.com/i/api/graphql/HEXyjS9m5F2kJsx8FnqRJQ/CreateShareLink",
+      "queryId": "HEXyjS9m5F2kJsx8FnqRJQ",
       "method": "POST",
       "features": {}
     },
@@ -6653,14 +6737,14 @@
       "features": {}
     },
     "SportsProductCreateGameReminder": {
-      "url": "https://x.com/i/api/graphql/8qpEAAI1N7Plx3bzLWxqmg/SportsProductCreateGameReminder",
-      "queryId": "8qpEAAI1N7Plx3bzLWxqmg",
+      "url": "https://x.com/i/api/graphql/ZyWLAyQ_WsLedy-JBkIROg/SportsProductCreateGameReminder",
+      "queryId": "ZyWLAyQ_WsLedy-JBkIROg",
       "method": "POST",
       "features": {}
     },
     "SportsProductDeleteGameReminder": {
-      "url": "https://x.com/i/api/graphql/Rr2CBoryuNVo7Xd6SKcvwQ/SportsProductDeleteGameReminder",
-      "queryId": "Rr2CBoryuNVo7Xd6SKcvwQ",
+      "url": "https://x.com/i/api/graphql/zD6qMrNX_BPjXZ8fLPXuiQ/SportsProductDeleteGameReminder",
+      "queryId": "zD6qMrNX_BPjXZ8fLPXuiQ",
       "method": "POST",
       "features": {}
     },
@@ -6677,8 +6761,8 @@
       "features": {}
     },
     "SportsProductGameReminders": {
-      "url": "https://x.com/i/api/graphql/MD4siCCayu_H30qU7J6Kug/SportsProductGameReminders",
-      "queryId": "MD4siCCayu_H30qU7J6Kug",
+      "url": "https://x.com/i/api/graphql/4T5v2sJ-8kOvk53OgBaLkQ/SportsProductGameReminders",
+      "queryId": "4T5v2sJ-8kOvk53OgBaLkQ",
       "method": "GET",
       "features": {}
     },
@@ -6713,8 +6797,8 @@
       "features": {}
     },
     "SportsProductSnoozeGameReminder": {
-      "url": "https://x.com/i/api/graphql/7h3TEl-AMb5PqAUU3QM4eQ/SportsProductSnoozeGameReminder",
-      "queryId": "7h3TEl-AMb5PqAUU3QM4eQ",
+      "url": "https://x.com/i/api/graphql/9LCYq2VYYvKE--NhmJk8pg/SportsProductSnoozeGameReminder",
+      "queryId": "9LCYq2VYYvKE--NhmJk8pg",
       "method": "POST",
       "features": {}
     },
@@ -6725,8 +6809,8 @@
       "features": {}
     },
     "SportsProductTeamPicker": {
-      "url": "https://x.com/i/api/graphql/YPgVzBwiaXemSlPN3rplgw/SportsProductTeamPicker",
-      "queryId": "YPgVzBwiaXemSlPN3rplgw",
+      "url": "https://x.com/i/api/graphql/DsAAAAGGJXoSQ2v6TrkaAw/SportsProductTeamPicker",
+      "queryId": "DsAAAAGGJXoSQ2v6TrkaAw",
       "method": "GET",
       "features": {}
     },
