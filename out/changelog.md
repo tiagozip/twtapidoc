@@ -1,3 +1,16 @@
+## 2026-10-29
+### GraphQL API
+#### add
+- None
+#### remove
+- None
+
+### Feature Switch
+#### add
+- x_elections_post_context_enabled
+#### remove
+- None
+
 ## 2026-10-23
 ### GraphQL API
 #### add

@@ -67,7 +67,7 @@
   {
     "n": "936070",
     "exports": {
-      "queryId": "jNDoO-7f4EPnrF3PvSy2XQ",
+      "queryId": "vSD6QsvM22S5ETx0clKXjg",
       "operationName": "BlockedAccountsAll",
       "operationType": "query",
       "metadata": {
@@ -88,6 +88,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -172,6 +173,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -250,7 +254,7 @@
   {
     "n": "191299",
     "exports": {
-      "queryId": "MxMurcDirtxTD7netaRPgA",
+      "queryId": "yWSWMLYDdRCZTijsNSkuTQ",
       "operationName": "BlockedAccountsImported",
       "operationType": "query",
       "metadata": {
@@ -271,6 +275,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -355,6 +360,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -433,7 +441,7 @@
   {
     "n": "839071",
     "exports": {
-      "queryId": "-pOjzI1JgeIcxgiojstEMA",
+      "queryId": "yeHz6Pbno-kijajOobPLNg",
       "operationName": "BlueVerifiedFollowers",
       "operationType": "query",
       "metadata": {
@@ -454,6 +462,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -538,6 +547,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -616,7 +628,7 @@
   {
     "n": "252474",
     "exports": {
-      "queryId": "08huCIPW4ShnTtTDYyUTgA",
+      "queryId": "3sreNJCdPWiqkUE9eoE92g",
       "operationName": "BookmarkSearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -637,6 +649,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -721,6 +734,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -841,7 +857,7 @@
   {
     "n": "913205",
     "exports": {
-      "queryId": "G2bOvMxw7fcLJep4_GPpdw",
+      "queryId": "l8W_aoK20ZnDerU_sxx7tA",
       "operationName": "ConnectTabTimeline",
       "operationType": "query",
       "metadata": {
@@ -862,6 +878,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -946,6 +963,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -1076,7 +1096,7 @@
   {
     "n": "262744",
     "exports": {
-      "queryId": "VtI_DWMLTJzkPVbTsOXMYw",
+      "queryId": "seOZkIS8AysCGfPo6yYPVA",
       "operationName": "CreateNoteTweet",
       "operationType": "mutation",
       "metadata": {
@@ -1089,6 +1109,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "responsive_web_edit_tweet_api_enabled",
@@ -1154,6 +1175,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -1260,7 +1284,7 @@
   {
     "n": "369932",
     "exports": {
-      "queryId": "5CVj-J0FZWyGgJpcjeBJEA",
+      "queryId": "l4hk8uVGvR-a8kzQ4nOhPA",
       "operationName": "CreateTweet",
       "operationType": "mutation",
       "metadata": {
@@ -1273,6 +1297,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "responsive_web_edit_tweet_api_enabled",
@@ -1338,6 +1363,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -1600,7 +1628,7 @@
   {
     "n": "874775",
     "exports": {
-      "queryId": "8AOU8kcEUKciZ1LZN1z8gw",
+      "queryId": "48W-AbOlM55_eQT_rzUECA",
       "operationName": "ExplorePage",
       "operationType": "query",
       "metadata": {
@@ -1621,6 +1649,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -1705,6 +1734,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -1783,7 +1815,7 @@
   {
     "n": "305200",
     "exports": {
-      "queryId": "hzDjjdgn35qR0usbsro8YQ",
+      "queryId": "GVGJ2AHQjQLkIPlIZ9LiSw",
       "operationName": "ExploreSidebar",
       "operationType": "query",
       "metadata": {
@@ -1804,6 +1836,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -1888,6 +1921,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -1992,7 +2028,7 @@
   {
     "n": "884311",
     "exports": {
-      "queryId": "KLLQR3852iPAj8J32VMdXQ",
+      "queryId": "QgDRdL1wGs4vS0mZ0qKHkA",
       "operationName": "Followers",
       "operationType": "query",
       "metadata": {
@@ -2013,6 +2049,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -2097,6 +2134,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -2175,7 +2215,7 @@
   {
     "n": "547053",
     "exports": {
-      "queryId": "85KIcL0KntSKE-fEbKEV3w",
+      "queryId": "84Pvhd0CoG9mTIHy5DxrdA",
       "operationName": "FollowersYouKnow",
       "operationType": "query",
       "metadata": {
@@ -2196,6 +2236,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -2280,6 +2321,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -2358,7 +2402,7 @@
   {
     "n": "505267",
     "exports": {
-      "queryId": "nxiL6UwEf7B1K1JNGPx-Jw",
+      "queryId": "QPaR5ONQTW_KyiEXQCHP4g",
       "operationName": "Following",
       "operationType": "query",
       "metadata": {
@@ -2379,6 +2423,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -2463,6 +2508,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -2541,7 +2589,7 @@
   {
     "n": "408473",
     "exports": {
-      "queryId": "Hf-EsSfAki8uY9Q5ura6zQ",
+      "queryId": "jGftuM3PU3SFT3MUzwLopw",
       "operationName": "GenericTimelineById",
       "operationType": "query",
       "metadata": {
@@ -2562,6 +2610,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -2646,6 +2695,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -2737,7 +2789,7 @@
   {
     "n": "751221",
     "exports": {
-      "queryId": "FKZDGcCLNwXpHAIaOLcsvQ",
+      "queryId": "rOLZrEBkGfx9WIb0-cx4GA",
       "operationName": "GlobalCommunitiesLatestPostSearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -2758,6 +2810,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -2842,6 +2895,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -2920,7 +2976,7 @@
   {
     "n": "748568",
     "exports": {
-      "queryId": "aOUgbX4tYaikWFX45ZwZ6A",
+      "queryId": "VTpTM1R7_HJKUMFcZkoedQ",
       "operationName": "GlobalCommunitiesPostSearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -2941,6 +2997,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -3025,6 +3082,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -3103,7 +3163,7 @@
   {
     "n": "964295",
     "exports": {
-      "queryId": "mzOgReEsktOIIXzWkqf0ig",
+      "queryId": "a6ZbplAY_XzbVt5jy_Ko_Q",
       "operationName": "Likes",
       "operationType": "query",
       "metadata": {
@@ -3124,6 +3184,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -3208,6 +3269,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -3286,7 +3350,7 @@
   {
     "n": "273046",
     "exports": {
-      "queryId": "1bXNAT3HsIXiq5XlQnSEtQ",
+      "queryId": "AUuFRTs_uR18jkZRequlMA",
       "operationName": "ListSearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -3307,6 +3371,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -3391,6 +3456,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -3469,7 +3537,7 @@
   {
     "n": "104954",
     "exports": {
-      "queryId": "bTRC_abNxXLW9WvzxdcHfA",
+      "queryId": "lGYUZ1Gj5KGywQUQSjj1UA",
       "operationName": "MediaTabVideoMixer",
       "operationType": "query",
       "metadata": {
@@ -3490,6 +3558,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -3574,6 +3643,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -3665,7 +3737,7 @@
   {
     "n": "631519",
     "exports": {
-      "queryId": "J-8wfzVZqoGRVXZwTs5eVg",
+      "queryId": "pDlVzU1xvHlo44smuXoSfA",
       "operationName": "ModeratedTimeline",
       "operationType": "query",
       "metadata": {
@@ -3686,6 +3758,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -3770,6 +3843,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -3848,7 +3924,7 @@
   {
     "n": "125046",
     "exports": {
-      "queryId": "Sc8HpW2C7W_mOM0rvJJNhg",
+      "queryId": "PucELk--jP6MJKFau2cMdw",
       "operationName": "MutedAccounts",
       "operationType": "query",
       "metadata": {
@@ -3869,6 +3945,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -3953,6 +4030,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -4182,7 +4262,7 @@
   {
     "n": "851898",
     "exports": {
-      "queryId": "ZIJfrkFfzkFjidu6ALqDWA",
+      "queryId": "aRgl-9Adc394l9ZBJsQgzw",
       "operationName": "ProfileFilter",
       "operationType": "query",
       "metadata": {
@@ -4203,6 +4283,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -4287,6 +4368,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -4404,7 +4488,7 @@
   {
     "n": "808098",
     "exports": {
-      "queryId": "f7SuGIm11eLbQs7c0K9X9w",
+      "queryId": "3fEctOs2-FvTB7_mvm1hrQ",
       "operationName": "SearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -4425,6 +4509,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -4509,6 +4594,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -4600,7 +4688,7 @@
   {
     "n": "890399",
     "exports": {
-      "queryId": "i96iNduNVk-saIWV_2IJUA",
+      "queryId": "6qZwgybvYhr1butftFQFvQ",
       "operationName": "SimilarPosts",
       "operationType": "query",
       "metadata": {
@@ -4621,6 +4709,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -4705,6 +4794,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -4783,7 +4875,7 @@
   {
     "n": "792052",
     "exports": {
-      "queryId": "-9tU4WNpxG9uQisKiDGSLA",
+      "queryId": "F6tnKJ7Ef7922S3n7WSAzg",
       "operationName": "SuperFollowers",
       "operationType": "query",
       "metadata": {
@@ -4804,6 +4896,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -4888,6 +4981,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -4992,7 +5088,7 @@
   {
     "n": "32256",
     "exports": {
-      "queryId": "Bc0wCcEy-e0EkCfwf8t8rg",
+      "queryId": "Wz35KKrqS12H2RR8s0ZxRg",
       "operationName": "TrendHistory",
       "operationType": "query",
       "metadata": {
@@ -5013,6 +5109,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -5097,6 +5194,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -5175,7 +5275,7 @@
   {
     "n": "122121",
     "exports": {
-      "queryId": "UPgjT1PCj-iiCMMG4E7bkw",
+      "queryId": "T6JJ8goxRn2KxcvG7f3ODg",
       "operationName": "TrendRelevantUsers",
       "operationType": "query",
       "metadata": {
@@ -5196,6 +5296,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -5280,6 +5381,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -5358,7 +5462,7 @@
   {
     "n": "947977",
     "exports": {
-      "queryId": "eEYOARdQCgQaUZ7XKou1AA",
+      "queryId": "TNClKdJwIBhfhmrlp_TPjg",
       "operationName": "TVHomeMixer",
       "operationType": "query",
       "metadata": {
@@ -5379,6 +5483,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -5463,6 +5568,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -5541,7 +5649,7 @@
   {
     "n": "683103",
     "exports": {
-      "queryId": "gJoREC4Bspo4kJ0ax9C3sQ",
+      "queryId": "qpemjmVMoTWDvcRT43JIVQ",
       "operationName": "TweetDetail",
       "operationType": "query",
       "metadata": {
@@ -5562,6 +5670,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -5648,6 +5757,9 @@
           "rweb_sports_post_context_enabled": {
             "value": true
           },
+          "x_elections_post_context_enabled": {
+            "value": true
+          },
           "responsive_web_grok_share_attachment_enabled": {
             "value": true
           },
@@ -5724,7 +5836,7 @@
   {
     "n": "209421",
     "exports": {
-      "queryId": "a-Xpq8PjX9K6U5cmc1f05A",
+      "queryId": "U8lc5aomF5krJzZ9vJ9wxg",
       "operationName": "TweetResultByRestId",
       "operationType": "query",
       "metadata": {
@@ -5738,6 +5850,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -5806,6 +5919,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -5899,7 +6015,7 @@
   {
     "n": "389259",
     "exports": {
-      "queryId": "yicqPSziST_OYCvXJH4JbA",
+      "queryId": "yW_CmYWEKwaOpAEHpNSReg",
       "operationName": "TweetResultsByRestIds",
       "operationType": "query",
       "metadata": {
@@ -5913,6 +6029,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -5981,6 +6098,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -6236,7 +6356,7 @@
   {
     "n": "349814",
     "exports": {
-      "queryId": "o76T5_oZU_nUXyXVJ7PHpw",
+      "queryId": "hF0kVfH1hJReXpYmzCQ6dw",
       "operationName": "UrtFixtures",
       "operationType": "query",
       "metadata": {
@@ -6257,6 +6377,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -6341,6 +6462,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -6419,7 +6543,7 @@
   {
     "n": "129849",
     "exports": {
-      "queryId": "px0ZuoJAreztxT8_nJr9Xg",
+      "queryId": "9Yf6bKYpvNL8ungvkqMlTw",
       "operationName": "UserArticlesTweets",
       "operationType": "query",
       "metadata": {
@@ -6440,6 +6564,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -6524,6 +6649,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -6602,7 +6730,7 @@
   {
     "n": "709455",
     "exports": {
-      "queryId": "Wl8kTEsAVWsFGl48bDvqjw",
+      "queryId": "mXLQrlZZyZVlBJR3oQVlCQ",
       "operationName": "UserBusinessProfileTeamTimeline",
       "operationType": "query",
       "metadata": {
@@ -6623,6 +6751,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -6707,6 +6836,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -6924,7 +7056,7 @@
   {
     "n": "667615",
     "exports": {
-      "queryId": "uAU_-MxXHQOJDdeDe1BhyA",
+      "queryId": "jja4Eiy-hXmx5bAyAMgLgA",
       "operationName": "UserCreatorSubscribers",
       "operationType": "query",
       "metadata": {
@@ -6945,6 +7077,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -7029,6 +7162,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -7107,7 +7243,7 @@
   {
     "n": "371780",
     "exports": {
-      "queryId": "ptJNspERa_duq2G64dUX1Q",
+      "queryId": "bhWKl0HMSkj-v2Sr8KBD9A",
       "operationName": "UserCreatorSubscriptions",
       "operationType": "query",
       "metadata": {
@@ -7128,6 +7264,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -7212,6 +7349,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -7290,7 +7430,7 @@
   {
     "n": "20631",
     "exports": {
-      "queryId": "2vCerAWrlID9W2wM0pmuaA",
+      "queryId": "clDqp0dS11B6eNOEF6oYhQ",
       "operationName": "UserHighlightsTweets",
       "operationType": "query",
       "metadata": {
@@ -7311,6 +7451,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -7395,6 +7536,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -7473,7 +7617,7 @@
   {
     "n": "300468",
     "exports": {
-      "queryId": "eF8kYZ4r9zFLqcYno3I17A",
+      "queryId": "frYNjZhGZmtrgXmi_tIMkA",
       "operationName": "UserMedia",
       "operationType": "query",
       "metadata": {
@@ -7494,6 +7638,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -7578,6 +7723,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -7656,7 +7804,7 @@
   {
     "n": "882353",
     "exports": {
-      "queryId": "GMxl7_rXoC4G0o-kiH0oLA",
+      "queryId": "0L_XictlTdXhxJyxhMDxQA",
       "operationName": "UserOriginalsTimeline",
       "operationType": "query",
       "metadata": {
@@ -7677,6 +7825,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -7761,6 +7910,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -7839,7 +7991,7 @@
   {
     "n": "747993",
     "exports": {
-      "queryId": "kc23mh5ZZHOao1q8hzZ1LQ",
+      "queryId": "9SiNhJMRCvjdE957jGo3aQ",
       "operationName": "UserPhotoTimeline",
       "operationType": "query",
       "metadata": {
@@ -7860,6 +8012,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -7944,6 +8097,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -8035,7 +8191,7 @@
   {
     "n": "687183",
     "exports": {
-      "queryId": "1m5dbhDqEhyF60Ff0May-A",
+      "queryId": "01IUBEduknS0m7tUhKLUcA",
       "operationName": "UserPromotableTweets",
       "operationType": "query",
       "metadata": {
@@ -8056,6 +8212,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -8140,6 +8297,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -8218,7 +8378,7 @@
   {
     "n": "459324",
     "exports": {
-      "queryId": "aUIFI_JBQeHHB-ZzRHW4hw",
+      "queryId": "Cs1XFTP4fMW4aYwbsxoBdg",
       "operationName": "UserPromotedTweets",
       "operationType": "query",
       "metadata": {
@@ -8239,6 +8399,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -8323,6 +8484,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -8401,7 +8565,7 @@
   {
     "n": "259717",
     "exports": {
-      "queryId": "RFZCQszlYjo2RQYM-4vrTQ",
+      "queryId": "e2U1WlALwVhjkDBJnkcLnA",
       "operationName": "UserRepliesTimeline",
       "operationType": "query",
       "metadata": {
@@ -8422,6 +8586,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -8506,6 +8671,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -8584,7 +8752,7 @@
   {
     "n": "590065",
     "exports": {
-      "queryId": "o1Yp3gwGQgUne5ll61VWrg",
+      "queryId": "q5tCz6UCo5FOK8DSqsjS2A",
       "operationName": "UserRepostsTimeline",
       "operationType": "query",
       "metadata": {
@@ -8605,6 +8773,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -8689,6 +8858,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -8780,7 +8952,7 @@
   {
     "n": "34624",
     "exports": {
-      "queryId": "e4NJhyN0lS0npnVU7oFt9g",
+      "queryId": "lsccw_JwPlNPMP26U3y-0g",
       "operationName": "UserSuperFollowTweets",
       "operationType": "query",
       "metadata": {
@@ -8801,6 +8973,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -8885,6 +9058,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -8963,7 +9139,7 @@
   {
     "n": "566500",
     "exports": {
-      "queryId": "YHYMZsaMvzJvb5D2UVVjgw",
+      "queryId": "Rf0Oc_XSVYjASOj-Jbz3Xg",
       "operationName": "UserTweets",
       "operationType": "query",
       "metadata": {
@@ -8984,6 +9160,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -9068,6 +9245,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -9146,7 +9326,7 @@
   {
     "n": "307357",
     "exports": {
-      "queryId": "MbxTcSWPt8RWRFMwenOtyQ",
+      "queryId": "a6fye5SJAFWPUhE2BzoxBQ",
       "operationName": "UserTweetsAndReplies",
       "operationType": "query",
       "metadata": {
@@ -9167,6 +9347,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -9251,6 +9432,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -9329,7 +9513,7 @@
   {
     "n": "485624",
     "exports": {
-      "queryId": "kt4pT9MO7MSCJdizksKJkA",
+      "queryId": "pPxk1XFyAcJJ28hNFCLjTA",
       "operationName": "UserVideoTimeline",
       "operationType": "query",
       "metadata": {
@@ -9350,6 +9534,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -9434,6 +9619,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -9768,7 +9956,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -9789,6 +9977,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -9873,6 +10062,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -9951,7 +10143,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -9972,6 +10164,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -10056,6 +10249,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -10303,7 +10499,7 @@
   {
     "n": "216816",
     "exports": {
-      "queryId": "WEiyFCDAYoj3XDLOfhbbBQ",
+      "queryId": "0CrTevh0Oxx1-M0px0-0cw",
       "operationName": "AudioSpaceAddSharing",
       "operationType": "mutation",
       "metadata": {
@@ -10317,6 +10513,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -10385,6 +10582,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -10478,7 +10678,7 @@
   {
     "n": "395839",
     "exports": {
-      "queryId": "Zi-Z2ucwAJGWcFmtsj4cvw",
+      "queryId": "zm3JmUpYWDXIUsf_33-ZrA",
       "operationName": "AudioSpaceById",
       "operationType": "query",
       "metadata": {
@@ -10498,6 +10698,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -10580,6 +10781,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -10726,7 +10930,7 @@
   {
     "n": "858538",
     "exports": {
-      "queryId": "ghm7PM9MWlqP7vi1evEjmg",
+      "queryId": "ot4AXooStqwG7WVNBCWewQ",
       "operationName": "CommunitiesExploreTimeline",
       "operationType": "query",
       "metadata": {
@@ -10747,6 +10951,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -10831,6 +11036,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -10909,7 +11117,7 @@
   {
     "n": "834508",
     "exports": {
-      "queryId": "b9msF28vNjVEZewKz7hcBw",
+      "queryId": "WlIpj0Xwe2pQw6iFZiJkNQ",
       "operationName": "CommunitiesMainDiscoveryModule",
       "operationType": "query",
       "metadata": {
@@ -10930,6 +11138,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -11014,6 +11223,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -11092,7 +11304,7 @@
   {
     "n": "153342",
     "exports": {
-      "queryId": "p7TlyP0bFd8mZXE6VDmiRA",
+      "queryId": "5h54Ox8jmJ7Y2vu8xVkCww",
       "operationName": "CommunitiesMainPageTimeline",
       "operationType": "query",
       "metadata": {
@@ -11113,6 +11325,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -11197,6 +11410,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -11314,7 +11530,7 @@
   {
     "n": "350344",
     "exports": {
-      "queryId": "Wo81TofAlD4brlGJYVKJ3w",
+      "queryId": "mMY5WpaWFeqMGG8ndJyvtA",
       "operationName": "CommunitiesMembershipsTimeline",
       "operationType": "query",
       "metadata": {
@@ -11335,6 +11551,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -11419,6 +11636,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -11497,7 +11717,7 @@
   {
     "n": "554352",
     "exports": {
-      "queryId": "pTW_q9H6rsvS4OmdATf5wA",
+      "queryId": "DCvD6yLzBhMnu0k4GXyc9g",
       "operationName": "CommunityAboutTimeline",
       "operationType": "query",
       "metadata": {
@@ -11518,6 +11738,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -11602,6 +11823,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -11758,7 +11982,7 @@
   {
     "n": "920461",
     "exports": {
-      "queryId": "NgLhLZohRvOMgUWZ5xzGWQ",
+      "queryId": "aFpvv7GZ1Z0fVIPLjzeWHg",
       "operationName": "CommunityDiscoveryTimeline",
       "operationType": "query",
       "metadata": {
@@ -11779,6 +12003,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -11863,6 +12088,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -12175,7 +12403,7 @@
   {
     "n": "292882",
     "exports": {
-      "queryId": "WYGulFo3wIVwaKsgCCEwfw",
+      "queryId": "JRi87EJaiygw3ublY2jfwA",
       "operationName": "CommunityHashtagsTimeline",
       "operationType": "query",
       "metadata": {
@@ -12196,6 +12424,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -12280,6 +12509,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -12436,7 +12668,7 @@
   {
     "n": "569059",
     "exports": {
-      "queryId": "r74zocYRmqt5vrYbCKuXlA",
+      "queryId": "RpvepYR_IYhhtLEK7jrsug",
       "operationName": "CommunityMediaLoggedOutTimeline",
       "operationType": "query",
       "metadata": {
@@ -12457,6 +12689,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -12541,6 +12774,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -12619,7 +12855,7 @@
   {
     "n": "580515",
     "exports": {
-      "queryId": "CKT3RiotkhAcpxDqX8rI0A",
+      "queryId": "J40ERczeKx9pcsGDOy4RUw",
       "operationName": "CommunityMediaTimeline",
       "operationType": "query",
       "metadata": {
@@ -12640,6 +12876,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -12724,6 +12961,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -12841,7 +13081,7 @@
   {
     "n": "820806",
     "exports": {
-      "queryId": "x98fLvgX4br33dZzxFJ9Wg",
+      "queryId": "ONXUz2ra-UOc4Inc59gTaA",
       "operationName": "CommunityModerationTweetCasesSlice",
       "operationType": "query",
       "metadata": {
@@ -12855,6 +13095,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -12923,6 +13164,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -13172,7 +13416,7 @@
   {
     "n": "622461",
     "exports": {
-      "queryId": "nOuZfI3rQeMB172rtmxHCg",
+      "queryId": "KyDUss7g2i7xDRPRa4ImZQ",
       "operationName": "CommunityTweetModerationLogSlice",
       "operationType": "query",
       "metadata": {
@@ -13190,6 +13434,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -13266,6 +13511,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -13347,7 +13595,7 @@
   {
     "n": "584327",
     "exports": {
-      "queryId": "xB3gSXITcDwtWeEJxl0Fhg",
+      "queryId": "l_2r49zj5MdTWK3zQlpn_A",
       "operationName": "CommunityTweetsLoggedOutTimeline",
       "operationType": "query",
       "metadata": {
@@ -13368,6 +13616,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -13452,6 +13701,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -13530,7 +13782,7 @@
   {
     "n": "350728",
     "exports": {
-      "queryId": "c6VMy7E8tRgn9BMUHKgB-g",
+      "queryId": "cNpJgtDx0uS0gtH2jvcCJA",
       "operationName": "CommunityTweetsRankedLoggedOutTimeline",
       "operationType": "query",
       "metadata": {
@@ -13551,6 +13803,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -13635,6 +13888,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -13713,7 +13969,7 @@
   {
     "n": "831079",
     "exports": {
-      "queryId": "hCOraernAPut--lAHDdBtw",
+      "queryId": "jegGVG9ZRxfsKgRH8TGCKw",
       "operationName": "CommunityTweetsTimeline",
       "operationType": "query",
       "metadata": {
@@ -13734,6 +13990,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -13818,6 +14075,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -13956,7 +14216,7 @@
   {
     "n": "398046",
     "exports": {
-      "queryId": "2OiEnr4hLL3wWz2aznJxVA",
+      "queryId": "CEsWtx3L2Wc-g_v1ADmSpg",
       "operationName": "CommunitiesRankedTimeline",
       "operationType": "query",
       "metadata": {
@@ -13977,6 +14237,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -14061,6 +14322,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -14139,7 +14403,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -14160,6 +14424,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -14244,6 +14509,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -14322,7 +14590,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -14343,6 +14611,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -14427,6 +14696,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -14518,7 +14790,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -14539,6 +14811,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -14623,6 +14896,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -14701,7 +14977,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -14722,6 +14998,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -14806,6 +15083,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -14897,7 +15177,7 @@
   {
     "n": "914494",
     "exports": {
-      "queryId": "4WKYXdEzzMHZbjRsXvVrJg",
+      "queryId": "zov7jwKdTlWkL1pfblnigA",
       "operationName": "BroadcastQuery",
       "operationType": "query",
       "metadata": {
@@ -14911,6 +15191,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -14979,6 +15260,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -15241,7 +15525,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -15262,6 +15546,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -15346,6 +15631,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -15424,7 +15712,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -15445,6 +15733,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -15529,6 +15818,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -15789,7 +16081,7 @@
   {
     "n": "245782",
     "exports": {
-      "queryId": "FmahumT8m4NFbhjEv1dfiA",
+      "queryId": "qrhDEwcC6kB5TIalxd-4XA",
       "operationName": "AiTrendByRestId",
       "operationType": "query",
       "metadata": {
@@ -15804,6 +16096,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -15874,6 +16167,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -16328,7 +16624,7 @@
   {
     "n": "89932",
     "exports": {
-      "queryId": "J3ZSkTudD2bwzm5TV4SCzw",
+      "queryId": "knKMRvWHvFkNPnuaEfjEvw",
       "operationName": "ImmersiveMedia",
       "operationType": "query",
       "metadata": {
@@ -16349,6 +16645,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -16433,6 +16730,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -16511,7 +16811,7 @@
   {
     "n": "366495",
     "exports": {
-      "queryId": "ewGWFSaVIe_Qu3nDlZ8M3w",
+      "queryId": "NOB8YOZSkXpdFrEXWp_g6w",
       "operationName": "ImmersiveProfile",
       "operationType": "query",
       "metadata": {
@@ -16532,6 +16832,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -16616,6 +16917,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -16733,7 +17037,7 @@
   {
     "n": "606189",
     "exports": {
-      "queryId": "CgeOKwaUXGtdwLyqWX1lyw",
+      "queryId": "LXb-pfaedDsQKHE_rCJhcQ",
       "operationName": "GrokConversationItemsByRestId",
       "operationType": "query",
       "metadata": {
@@ -16747,6 +17051,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -16815,6 +17120,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -16973,7 +17281,7 @@
   {
     "n": "624797",
     "exports": {
-      "queryId": "iWO2AVUVMz-Pl03psY1qRg",
+      "queryId": "ntxBSOBXeC8lxsdwrjbTHA",
       "operationName": "GrokShare",
       "operationType": "query",
       "metadata": {
@@ -16987,6 +17295,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -17055,6 +17364,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -17473,7 +17785,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -17494,6 +17806,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -17578,6 +17891,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -17656,7 +17972,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -17677,6 +17993,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -17761,6 +18078,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -17865,7 +18185,7 @@
   {
     "n": "92602",
     "exports": {
-      "queryId": "k2AATRe7SeS92C5NwWQbsw",
+      "queryId": "kyDH93mj6x8S0Goe7AF3QA",
       "operationName": "BookmarkFolderTimeline",
       "operationType": "query",
       "metadata": {
@@ -17886,6 +18206,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -17970,6 +18291,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -18074,7 +18398,7 @@
   {
     "n": "999252",
     "exports": {
-      "queryId": "zFGFGLIm1akEv8PE3uut8w",
+      "queryId": "jbqsfdzI0EMFHAtpEC6vyA",
       "operationName": "Bookmarks",
       "operationType": "query",
       "metadata": {
@@ -18095,6 +18419,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -18179,6 +18504,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -18361,7 +18689,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -18382,6 +18710,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -18466,6 +18795,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -18544,7 +18876,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -18565,6 +18897,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -18649,6 +18982,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -18896,7 +19232,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -18917,6 +19253,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -19001,6 +19338,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -19079,7 +19419,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -19100,6 +19440,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -19184,6 +19525,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -19457,7 +19801,7 @@
   {
     "n": "126775",
     "exports": {
-      "queryId": "nadSW2clcga0UmZ4cMdb5w",
+      "queryId": "qdXSWUYGY0l0pvuLYjg_fg",
       "operationName": "SportsProductLeagueMediaSeries",
       "operationType": "query",
       "metadata": {
@@ -19471,6 +19815,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -19539,6 +19884,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -19684,7 +20032,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -19705,6 +20053,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -19789,6 +20138,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -19867,7 +20219,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -19888,6 +20240,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -19972,6 +20325,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -20050,7 +20406,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -20071,6 +20427,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -20155,6 +20512,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -20233,7 +20593,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -20254,6 +20614,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -20338,6 +20699,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -20442,7 +20806,7 @@
   {
     "n": "564471",
     "exports": {
-      "queryId": "x2uKy8YjabfLDhKHOfHybQ",
+      "queryId": "npz98m9NOm7Snvj0Ik3obQ",
       "operationName": "BirdwatchFetchAuthenticatedBirdwatchMatchSlice",
       "operationType": "query",
       "metadata": {
@@ -20456,6 +20820,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -20524,6 +20889,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -20617,7 +20985,7 @@
   {
     "n": "331453",
     "exports": {
-      "queryId": "GoeVZgHma4wV0sTukAJu5g",
+      "queryId": "oP0BATsYv5gPPb-iiG1sjg",
       "operationName": "BirdwatchFetchContributorNotesSlice",
       "operationType": "query",
       "metadata": {
@@ -20635,6 +21003,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -20715,6 +21084,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -21103,7 +21475,7 @@
   {
     "n": "336645",
     "exports": {
-      "queryId": "VJ5QxsDyI80TMj9xK3MXbg",
+      "queryId": "i8I7E-QFR0dnhrYk8SRgXA",
       "operationName": "BirdwatchFetchGlobalTimeline",
       "operationType": "query",
       "metadata": {
@@ -21124,6 +21496,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -21210,6 +21583,9 @@
           "rweb_sports_post_context_enabled": {
             "value": true
           },
+          "x_elections_post_context_enabled": {
+            "value": true
+          },
           "responsive_web_grok_share_attachment_enabled": {
             "value": true
           },
@@ -21286,7 +21662,7 @@
   {
     "n": "869290",
     "exports": {
-      "queryId": "i37slckkek01pmrk6lYCVA",
+      "queryId": "Uj_i9cuip49ChWGCany08w",
       "operationName": "BirdwatchFetchMediaMatchSlice",
       "operationType": "query",
       "metadata": {
@@ -21300,6 +21676,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -21368,6 +21745,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -21642,7 +22022,7 @@
   {
     "n": "929692",
     "exports": {
-      "queryId": "viS_yvobdKGC7kcbFLUX5g",
+      "queryId": "utpwfJxXxW3yfbBuGZWMsg",
       "operationName": "BirdwatchFetchProminentMediaMatchSlice",
       "operationType": "query",
       "metadata": {
@@ -21656,6 +22036,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -21724,6 +22105,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -21855,7 +22239,7 @@
   {
     "n": "995115",
     "exports": {
-      "queryId": "bAgqJHZq_fcA5VA8962YBA",
+      "queryId": "5uQQOXeagD8b2rb2NrOQYg",
       "operationName": "BirdwatchFetchSimilarMediaMatchSlice",
       "operationType": "query",
       "metadata": {
@@ -21869,6 +22253,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -21937,6 +22322,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -22030,7 +22418,7 @@
   {
     "n": "56638",
     "exports": {
-      "queryId": "drHgjyKThGOSwPgzO8Ds3g",
+      "queryId": "g9uLs-wSr_NQmgYz30VL8g",
       "operationName": "BirdwatchFetchSourceLinkSlice",
       "operationType": "query",
       "metadata": {
@@ -22044,6 +22432,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -22112,6 +22501,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -22224,7 +22616,7 @@
   {
     "n": "617925",
     "exports": {
-      "queryId": "7ZYZqePr7nb8uTTanso16A",
+      "queryId": "XIjAXtmF2guG-m5d1PVRiw",
       "operationName": "BirdwatchFetchSuggestionFeedbackOverview",
       "operationType": "query",
       "metadata": {
@@ -22242,6 +22634,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -22322,6 +22715,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -22441,7 +22837,7 @@
   {
     "n": "92602",
     "exports": {
-      "queryId": "k2AATRe7SeS92C5NwWQbsw",
+      "queryId": "kyDH93mj6x8S0Goe7AF3QA",
       "operationName": "BookmarkFolderTimeline",
       "operationType": "query",
       "metadata": {
@@ -22462,6 +22858,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -22546,6 +22943,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -22650,7 +23050,7 @@
   {
     "n": "999252",
     "exports": {
-      "queryId": "zFGFGLIm1akEv8PE3uut8w",
+      "queryId": "jbqsfdzI0EMFHAtpEC6vyA",
       "operationName": "Bookmarks",
       "operationType": "query",
       "metadata": {
@@ -22671,6 +23071,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -22757,6 +23158,9 @@
           "rweb_sports_post_context_enabled": {
             "value": true
           },
+          "x_elections_post_context_enabled": {
+            "value": true
+          },
           "responsive_web_grok_share_attachment_enabled": {
             "value": true
           },
@@ -22833,7 +23237,7 @@
   {
     "n": "914494",
     "exports": {
-      "queryId": "4WKYXdEzzMHZbjRsXvVrJg",
+      "queryId": "zov7jwKdTlWkL1pfblnigA",
       "operationName": "BroadcastQuery",
       "operationType": "query",
       "metadata": {
@@ -22847,6 +23251,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -22915,6 +23320,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -23437,7 +23845,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -23458,6 +23866,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -23542,6 +23951,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -23620,7 +24032,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -23641,6 +24053,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -23725,6 +24138,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -23803,7 +24219,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -23824,6 +24240,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -23908,6 +24325,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -23986,7 +24406,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -24007,6 +24427,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -24091,6 +24512,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -24169,7 +24593,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -24190,6 +24614,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -24274,6 +24699,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -24352,7 +24780,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -24373,6 +24801,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -24457,6 +24886,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -24548,7 +24980,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -24569,6 +25001,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -24653,6 +25086,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -24731,7 +25167,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -24752,6 +25188,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -24836,6 +25273,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -25034,7 +25474,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -25055,6 +25495,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -25139,6 +25580,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -25217,7 +25661,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -25238,6 +25682,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -25322,6 +25767,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -25569,7 +26017,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -25590,6 +26038,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -25674,6 +26123,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -25752,7 +26204,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -25773,6 +26225,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -25857,6 +26310,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -26208,7 +26664,7 @@
   {
     "n": "443401",
     "exports": {
-      "queryId": "qvfVw0HIWCx3PHRTPZ_irw",
+      "queryId": "WPr9iqmOmcf8YshbvWB9rQ",
       "operationName": "NflTop100",
       "operationType": "query",
       "metadata": {
@@ -26226,6 +26682,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -26302,6 +26759,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -26422,7 +26882,7 @@
   {
     "n": "414216",
     "exports": {
-      "queryId": "uy05GBoA6XtqAEkoGIPo-A",
+      "queryId": "z2xweLm6VqBN8QbKwVa4kg",
       "operationName": "SportsGameLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -26443,6 +26903,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -26527,6 +26988,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -26605,7 +27069,7 @@
   {
     "n": "227838",
     "exports": {
-      "queryId": "SYr-gJZPxqqNpjQz27A5Sg",
+      "queryId": "R4N8hVyjcoMAeQzzda23Bw",
       "operationName": "SportsGameTopTimeline",
       "operationType": "query",
       "metadata": {
@@ -26626,6 +27090,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -26710,6 +27175,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -27373,7 +27841,7 @@
   {
     "n": "706662",
     "exports": {
-      "queryId": "sY8QJWD87glnIbqjFHSRsw",
+      "queryId": "Gb8JbMZlKBoetN8TpqKDxQ",
       "operationName": "Favoriters",
       "operationType": "query",
       "metadata": {
@@ -27394,6 +27862,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -27478,6 +27947,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -27556,7 +28028,7 @@
   {
     "n": "222417",
     "exports": {
-      "queryId": "cGC7fJ_YwDrcXErhG8JHHQ",
+      "queryId": "ZB1yNma3uVFb0gtV9kEWiA",
       "operationName": "Retweeters",
       "operationType": "query",
       "metadata": {
@@ -27577,6 +28049,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -27663,6 +28136,9 @@
           "rweb_sports_post_context_enabled": {
             "value": true
           },
+          "x_elections_post_context_enabled": {
+            "value": true
+          },
           "responsive_web_grok_share_attachment_enabled": {
             "value": true
           },
@@ -27739,7 +28215,7 @@
   {
     "n": "253638",
     "exports": {
-      "queryId": "pnjrk9VLB31vLkWwV1ELqg",
+      "queryId": "i3ag7WNlTD4s2nw5ZcNXoA",
       "operationName": "TweetEditHistory",
       "operationType": "query",
       "metadata": {
@@ -27752,6 +28228,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "freedom_of_speech_not_reach_fetch_enabled",
@@ -27820,6 +28297,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -28377,7 +28857,7 @@
   {
     "n": "443401",
     "exports": {
-      "queryId": "qvfVw0HIWCx3PHRTPZ_irw",
+      "queryId": "WPr9iqmOmcf8YshbvWB9rQ",
       "operationName": "NflTop100",
       "operationType": "query",
       "metadata": {
@@ -28395,6 +28875,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -28471,6 +28952,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -28591,7 +29075,7 @@
   {
     "n": "414216",
     "exports": {
-      "queryId": "uy05GBoA6XtqAEkoGIPo-A",
+      "queryId": "z2xweLm6VqBN8QbKwVa4kg",
       "operationName": "SportsGameLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -28612,6 +29096,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -28696,6 +29181,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -28774,7 +29262,7 @@
   {
     "n": "227838",
     "exports": {
-      "queryId": "SYr-gJZPxqqNpjQz27A5Sg",
+      "queryId": "R4N8hVyjcoMAeQzzda23Bw",
       "operationName": "SportsGameTopTimeline",
       "operationType": "query",
       "metadata": {
@@ -28795,6 +29283,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -28879,6 +29368,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -29256,7 +29748,7 @@
   {
     "n": "894556",
     "exports": {
-      "queryId": "ONWJWVy4kR6ayoe8VvwvUw",
+      "queryId": "VVZp93NV6LMNa4BfEFRZiQ",
       "operationName": "DmMutedTimeline",
       "operationType": "query",
       "metadata": {
@@ -29277,6 +29769,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -29361,6 +29854,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -29572,7 +30068,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -29593,6 +30089,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -29677,6 +30174,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -29755,7 +30255,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -29776,6 +30276,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -29860,6 +30361,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -29938,7 +30442,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -29959,6 +30463,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -30043,6 +30548,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -30121,7 +30629,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -30142,6 +30650,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -30226,6 +30735,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -30304,7 +30816,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -30325,6 +30837,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -30409,6 +30922,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -30487,7 +31003,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -30508,6 +31024,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -30592,6 +31109,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -30670,7 +31190,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -30691,6 +31211,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -30775,6 +31296,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -30853,7 +31377,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -30874,6 +31398,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -30958,6 +31483,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -31036,7 +31564,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -31057,6 +31585,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -31141,6 +31670,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -31219,7 +31751,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -31240,6 +31772,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -31324,6 +31857,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -31402,7 +31938,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -31423,6 +31959,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -31507,6 +32044,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -31585,7 +32125,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -31606,6 +32146,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -31690,6 +32231,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -31768,7 +32312,7 @@
   {
     "n": "914494",
     "exports": {
-      "queryId": "4WKYXdEzzMHZbjRsXvVrJg",
+      "queryId": "zov7jwKdTlWkL1pfblnigA",
       "operationName": "BroadcastQuery",
       "operationType": "query",
       "metadata": {
@@ -31782,6 +32326,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -31850,6 +32395,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -31956,7 +32504,7 @@
   {
     "n": "606691",
     "exports": {
-      "queryId": "60iDk55u-rTx1qB8KQMZKw",
+      "queryId": "EZ8YjsOa_EBMOMv815eqZw",
       "operationName": "CombinedLists",
       "operationType": "query",
       "metadata": {
@@ -31977,6 +32525,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -32061,6 +32610,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -32334,7 +32886,7 @@
   {
     "n": "667171",
     "exports": {
-      "queryId": "wRyStDxGthAJ7ocIJU4AaQ",
+      "queryId": "MITFVwB76UcvceBWWBk-bA",
       "operationName": "ListCreationRecommendedUsers",
       "operationType": "query",
       "metadata": {
@@ -32355,6 +32907,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -32439,6 +32992,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -32530,7 +33086,7 @@
   {
     "n": "759680",
     "exports": {
-      "queryId": "Pfya5exdwF0D7a1GdJ5GpQ",
+      "queryId": "pf2RfNzQjCHKTrfV1rFTwg",
       "operationName": "ListEditRecommendedUsers",
       "operationType": "query",
       "metadata": {
@@ -32551,6 +33107,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -32635,6 +33192,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -32713,7 +33273,7 @@
   {
     "n": "521161",
     "exports": {
-      "queryId": "uV0pbd0DrW8hTbMrtZ1SYQ",
+      "queryId": "dCYL1r8KgXjvgV6t1vtSZA",
       "operationName": "ListLatestTweetsTimeline",
       "operationType": "query",
       "metadata": {
@@ -32734,6 +33294,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -32818,6 +33379,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -32896,7 +33460,7 @@
   {
     "n": "299026",
     "exports": {
-      "queryId": "fFCNliJG5Gq4yEnINo6-1A",
+      "queryId": "_RDpx--fQKSccuRlGpEIoA",
       "operationName": "ListMembers",
       "operationType": "query",
       "metadata": {
@@ -32917,6 +33481,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -33001,6 +33566,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -33079,7 +33647,7 @@
   {
     "n": "655452",
     "exports": {
-      "queryId": "n_tXnt_hxtsVLhN_boayjA",
+      "queryId": "sitwc_mm7Be7T2xHY4igJw",
       "operationName": "ListMemberships",
       "operationType": "query",
       "metadata": {
@@ -33100,6 +33668,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -33184,6 +33753,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -33275,7 +33847,7 @@
   {
     "n": "406153",
     "exports": {
-      "queryId": "yj0QWid7dFucshVURQTWrA",
+      "queryId": "6spVXajXDiSz025ZUwzOfQ",
       "operationName": "ListOwnerships",
       "operationType": "query",
       "metadata": {
@@ -33296,6 +33868,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -33380,6 +33953,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -33497,7 +34073,7 @@
   {
     "n": "434029",
     "exports": {
-      "queryId": "PgIon2CiCPEmkyafzqHfcA",
+      "queryId": "qpEBEDnbLv0yzBbDgQVRkQ",
       "operationName": "ListRankedTweetsTimeline",
       "operationType": "query",
       "metadata": {
@@ -33518,6 +34094,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -33602,6 +34179,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -33758,7 +34338,7 @@
   {
     "n": "749514",
     "exports": {
-      "queryId": "9eNWJ4u4FmpurGggOEo0AA",
+      "queryId": "QmqW0VFRmLPfBtViuvVtBA",
       "operationName": "ListSubscribers",
       "operationType": "query",
       "metadata": {
@@ -33779,6 +34359,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -33863,6 +34444,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -34032,7 +34616,7 @@
   {
     "n": "874168",
     "exports": {
-      "queryId": "GRtSajng7aa-pT9G3cJLWQ",
+      "queryId": "tuweMPOSfN0A2vVGVam_Hw",
       "operationName": "ListsDiscovery",
       "operationType": "query",
       "metadata": {
@@ -34053,6 +34637,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -34137,6 +34722,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -34215,7 +34803,7 @@
   {
     "n": "416229",
     "exports": {
-      "queryId": "EJr344tsMZZpEwjeaYvk-g",
+      "queryId": "HWkp6lUaAkEJ-Y_Q57korw",
       "operationName": "ListsManagementPageTimeline",
       "operationType": "query",
       "metadata": {
@@ -34236,6 +34824,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -34320,6 +34909,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -34463,7 +35055,7 @@
   {
     "n": "874337",
     "exports": {
-      "queryId": "epAwXCs8rKIbFkHlRRmQaw",
+      "queryId": "4PkmBs5c4BDYMTizyLvyKQ",
       "operationName": "TopicToFollowSidebar",
       "operationType": "query",
       "metadata": {
@@ -34484,6 +35076,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -34568,6 +35161,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -34672,7 +35268,7 @@
   {
     "n": "136790",
     "exports": {
-      "queryId": "KQPfcqQJJqF6M0D77p3JKw",
+      "queryId": "GjleyyGw4xvWe5tn8EQt9w",
       "operationName": "HomeLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -34693,6 +35289,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -34777,6 +35374,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -34855,7 +35455,7 @@
   {
     "n": "237607",
     "exports": {
-      "queryId": "0toR0MxC06yY3Fc57GXBpA",
+      "queryId": "fedFLLzmiCAuzPgA8lyh8Q",
       "operationName": "HomeTimeline",
       "operationType": "query",
       "metadata": {
@@ -34876,6 +35476,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -34960,6 +35561,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -35119,7 +35723,7 @@
   {
     "n": "706662",
     "exports": {
-      "queryId": "sY8QJWD87glnIbqjFHSRsw",
+      "queryId": "Gb8JbMZlKBoetN8TpqKDxQ",
       "operationName": "Favoriters",
       "operationType": "query",
       "metadata": {
@@ -35140,6 +35744,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -35224,6 +35829,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -35302,7 +35910,7 @@
   {
     "n": "222417",
     "exports": {
-      "queryId": "cGC7fJ_YwDrcXErhG8JHHQ",
+      "queryId": "ZB1yNma3uVFb0gtV9kEWiA",
       "operationName": "Retweeters",
       "operationType": "query",
       "metadata": {
@@ -35323,6 +35931,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -35409,6 +36018,9 @@
           "rweb_sports_post_context_enabled": {
             "value": true
           },
+          "x_elections_post_context_enabled": {
+            "value": true
+          },
           "responsive_web_grok_share_attachment_enabled": {
             "value": true
           },
@@ -35485,7 +36097,7 @@
   {
     "n": "253638",
     "exports": {
-      "queryId": "pnjrk9VLB31vLkWwV1ELqg",
+      "queryId": "i3ag7WNlTD4s2nw5ZcNXoA",
       "operationName": "TweetEditHistory",
       "operationType": "query",
       "metadata": {
@@ -35498,6 +36110,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "freedom_of_speech_not_reach_fetch_enabled",
@@ -35566,6 +36179,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -36019,7 +36635,7 @@
   {
     "n": "443401",
     "exports": {
-      "queryId": "qvfVw0HIWCx3PHRTPZ_irw",
+      "queryId": "WPr9iqmOmcf8YshbvWB9rQ",
       "operationName": "NflTop100",
       "operationType": "query",
       "metadata": {
@@ -36037,6 +36653,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -36113,6 +36730,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -36233,7 +36853,7 @@
   {
     "n": "414216",
     "exports": {
-      "queryId": "uy05GBoA6XtqAEkoGIPo-A",
+      "queryId": "z2xweLm6VqBN8QbKwVa4kg",
       "operationName": "SportsGameLatestTimeline",
       "operationType": "query",
       "metadata": {
@@ -36254,6 +36874,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -36338,6 +36959,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -36416,7 +37040,7 @@
   {
     "n": "227838",
     "exports": {
-      "queryId": "SYr-gJZPxqqNpjQz27A5Sg",
+      "queryId": "R4N8hVyjcoMAeQzzda23Bw",
       "operationName": "SportsGameTopTimeline",
       "operationType": "query",
       "metadata": {
@@ -36437,6 +37061,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -36521,6 +37146,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -36833,7 +37461,7 @@
   {
     "n": "92602",
     "exports": {
-      "queryId": "k2AATRe7SeS92C5NwWQbsw",
+      "queryId": "kyDH93mj6x8S0Goe7AF3QA",
       "operationName": "BookmarkFolderTimeline",
       "operationType": "query",
       "metadata": {
@@ -36854,6 +37482,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -36938,6 +37567,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -37042,7 +37674,7 @@
   {
     "n": "999252",
     "exports": {
-      "queryId": "zFGFGLIm1akEv8PE3uut8w",
+      "queryId": "jbqsfdzI0EMFHAtpEC6vyA",
       "operationName": "Bookmarks",
       "operationType": "query",
       "metadata": {
@@ -37063,6 +37695,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -37147,6 +37780,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -37290,7 +37926,7 @@
   {
     "n": "417142",
     "exports": {
-      "queryId": "MSIb-PAcnu9OBUe56f_DHQ",
+      "queryId": "YX7xisHsNjDlFHW-MVXINQ",
       "operationName": "NotificationsTimeline",
       "operationType": "query",
       "metadata": {
@@ -37311,6 +37947,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -37395,6 +38032,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -37538,7 +38178,7 @@
   {
     "n": "936070",
     "exports": {
-      "queryId": "jNDoO-7f4EPnrF3PvSy2XQ",
+      "queryId": "vSD6QsvM22S5ETx0clKXjg",
       "operationName": "BlockedAccountsAll",
       "operationType": "query",
       "metadata": {
@@ -37559,6 +38199,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -37643,6 +38284,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -37721,7 +38365,7 @@
   {
     "n": "191299",
     "exports": {
-      "queryId": "MxMurcDirtxTD7netaRPgA",
+      "queryId": "yWSWMLYDdRCZTijsNSkuTQ",
       "operationName": "BlockedAccountsImported",
       "operationType": "query",
       "metadata": {
@@ -37742,6 +38386,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -37826,6 +38471,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -37904,7 +38552,7 @@
   {
     "n": "839071",
     "exports": {
-      "queryId": "-pOjzI1JgeIcxgiojstEMA",
+      "queryId": "yeHz6Pbno-kijajOobPLNg",
       "operationName": "BlueVerifiedFollowers",
       "operationType": "query",
       "metadata": {
@@ -37925,6 +38573,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -38009,6 +38658,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -38087,7 +38739,7 @@
   {
     "n": "252474",
     "exports": {
-      "queryId": "08huCIPW4ShnTtTDYyUTgA",
+      "queryId": "3sreNJCdPWiqkUE9eoE92g",
       "operationName": "BookmarkSearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -38108,6 +38760,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -38192,6 +38845,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -38312,7 +38968,7 @@
   {
     "n": "913205",
     "exports": {
-      "queryId": "G2bOvMxw7fcLJep4_GPpdw",
+      "queryId": "l8W_aoK20ZnDerU_sxx7tA",
       "operationName": "ConnectTabTimeline",
       "operationType": "query",
       "metadata": {
@@ -38333,6 +38989,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -38417,6 +39074,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -38547,7 +39207,7 @@
   {
     "n": "262744",
     "exports": {
-      "queryId": "VtI_DWMLTJzkPVbTsOXMYw",
+      "queryId": "seOZkIS8AysCGfPo6yYPVA",
       "operationName": "CreateNoteTweet",
       "operationType": "mutation",
       "metadata": {
@@ -38560,6 +39220,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "responsive_web_edit_tweet_api_enabled",
@@ -38625,6 +39286,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -38731,7 +39395,7 @@
   {
     "n": "369932",
     "exports": {
-      "queryId": "5CVj-J0FZWyGgJpcjeBJEA",
+      "queryId": "l4hk8uVGvR-a8kzQ4nOhPA",
       "operationName": "CreateTweet",
       "operationType": "mutation",
       "metadata": {
@@ -38744,6 +39408,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "responsive_web_edit_tweet_api_enabled",
@@ -38809,6 +39474,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -39071,7 +39739,7 @@
   {
     "n": "874775",
     "exports": {
-      "queryId": "8AOU8kcEUKciZ1LZN1z8gw",
+      "queryId": "48W-AbOlM55_eQT_rzUECA",
       "operationName": "ExplorePage",
       "operationType": "query",
       "metadata": {
@@ -39092,6 +39760,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -39176,6 +39845,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -39254,7 +39926,7 @@
   {
     "n": "305200",
     "exports": {
-      "queryId": "hzDjjdgn35qR0usbsro8YQ",
+      "queryId": "GVGJ2AHQjQLkIPlIZ9LiSw",
       "operationName": "ExploreSidebar",
       "operationType": "query",
       "metadata": {
@@ -39275,6 +39947,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -39359,6 +40032,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -39463,7 +40139,7 @@
   {
     "n": "884311",
     "exports": {
-      "queryId": "KLLQR3852iPAj8J32VMdXQ",
+      "queryId": "QgDRdL1wGs4vS0mZ0qKHkA",
       "operationName": "Followers",
       "operationType": "query",
       "metadata": {
@@ -39484,6 +40160,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -39568,6 +40245,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -39646,7 +40326,7 @@
   {
     "n": "547053",
     "exports": {
-      "queryId": "85KIcL0KntSKE-fEbKEV3w",
+      "queryId": "84Pvhd0CoG9mTIHy5DxrdA",
       "operationName": "FollowersYouKnow",
       "operationType": "query",
       "metadata": {
@@ -39667,6 +40347,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -39751,6 +40432,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -39829,7 +40513,7 @@
   {
     "n": "505267",
     "exports": {
-      "queryId": "nxiL6UwEf7B1K1JNGPx-Jw",
+      "queryId": "QPaR5ONQTW_KyiEXQCHP4g",
       "operationName": "Following",
       "operationType": "query",
       "metadata": {
@@ -39850,6 +40534,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -39934,6 +40619,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -40012,7 +40700,7 @@
   {
     "n": "408473",
     "exports": {
-      "queryId": "Hf-EsSfAki8uY9Q5ura6zQ",
+      "queryId": "jGftuM3PU3SFT3MUzwLopw",
       "operationName": "GenericTimelineById",
       "operationType": "query",
       "metadata": {
@@ -40033,6 +40721,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -40117,6 +40806,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -40208,7 +40900,7 @@
   {
     "n": "751221",
     "exports": {
-      "queryId": "FKZDGcCLNwXpHAIaOLcsvQ",
+      "queryId": "rOLZrEBkGfx9WIb0-cx4GA",
       "operationName": "GlobalCommunitiesLatestPostSearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -40229,6 +40921,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -40313,6 +41006,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -40391,7 +41087,7 @@
   {
     "n": "748568",
     "exports": {
-      "queryId": "aOUgbX4tYaikWFX45ZwZ6A",
+      "queryId": "VTpTM1R7_HJKUMFcZkoedQ",
       "operationName": "GlobalCommunitiesPostSearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -40412,6 +41108,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -40496,6 +41193,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -40574,7 +41274,7 @@
   {
     "n": "964295",
     "exports": {
-      "queryId": "mzOgReEsktOIIXzWkqf0ig",
+      "queryId": "a6ZbplAY_XzbVt5jy_Ko_Q",
       "operationName": "Likes",
       "operationType": "query",
       "metadata": {
@@ -40595,6 +41295,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -40679,6 +41380,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -40757,7 +41461,7 @@
   {
     "n": "273046",
     "exports": {
-      "queryId": "1bXNAT3HsIXiq5XlQnSEtQ",
+      "queryId": "AUuFRTs_uR18jkZRequlMA",
       "operationName": "ListSearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -40778,6 +41482,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -40862,6 +41567,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -40940,7 +41648,7 @@
   {
     "n": "104954",
     "exports": {
-      "queryId": "bTRC_abNxXLW9WvzxdcHfA",
+      "queryId": "lGYUZ1Gj5KGywQUQSjj1UA",
       "operationName": "MediaTabVideoMixer",
       "operationType": "query",
       "metadata": {
@@ -40961,6 +41669,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -41045,6 +41754,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -41136,7 +41848,7 @@
   {
     "n": "631519",
     "exports": {
-      "queryId": "J-8wfzVZqoGRVXZwTs5eVg",
+      "queryId": "pDlVzU1xvHlo44smuXoSfA",
       "operationName": "ModeratedTimeline",
       "operationType": "query",
       "metadata": {
@@ -41157,6 +41869,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -41241,6 +41954,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -41319,7 +42035,7 @@
   {
     "n": "125046",
     "exports": {
-      "queryId": "Sc8HpW2C7W_mOM0rvJJNhg",
+      "queryId": "PucELk--jP6MJKFau2cMdw",
       "operationName": "MutedAccounts",
       "operationType": "query",
       "metadata": {
@@ -41340,6 +42056,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -41424,6 +42141,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -41653,7 +42373,7 @@
   {
     "n": "851898",
     "exports": {
-      "queryId": "ZIJfrkFfzkFjidu6ALqDWA",
+      "queryId": "aRgl-9Adc394l9ZBJsQgzw",
       "operationName": "ProfileFilter",
       "operationType": "query",
       "metadata": {
@@ -41674,6 +42394,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -41758,6 +42479,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -41875,7 +42599,7 @@
   {
     "n": "808098",
     "exports": {
-      "queryId": "f7SuGIm11eLbQs7c0K9X9w",
+      "queryId": "3fEctOs2-FvTB7_mvm1hrQ",
       "operationName": "SearchTimeline",
       "operationType": "query",
       "metadata": {
@@ -41896,6 +42620,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -41980,6 +42705,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -42071,7 +42799,7 @@
   {
     "n": "890399",
     "exports": {
-      "queryId": "i96iNduNVk-saIWV_2IJUA",
+      "queryId": "6qZwgybvYhr1butftFQFvQ",
       "operationName": "SimilarPosts",
       "operationType": "query",
       "metadata": {
@@ -42092,6 +42820,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -42176,6 +42905,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -42254,7 +42986,7 @@
   {
     "n": "792052",
     "exports": {
-      "queryId": "-9tU4WNpxG9uQisKiDGSLA",
+      "queryId": "F6tnKJ7Ef7922S3n7WSAzg",
       "operationName": "SuperFollowers",
       "operationType": "query",
       "metadata": {
@@ -42275,6 +43007,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -42359,6 +43092,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -42463,7 +43199,7 @@
   {
     "n": "32256",
     "exports": {
-      "queryId": "Bc0wCcEy-e0EkCfwf8t8rg",
+      "queryId": "Wz35KKrqS12H2RR8s0ZxRg",
       "operationName": "TrendHistory",
       "operationType": "query",
       "metadata": {
@@ -42484,6 +43220,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -42568,6 +43305,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -42646,7 +43386,7 @@
   {
     "n": "122121",
     "exports": {
-      "queryId": "UPgjT1PCj-iiCMMG4E7bkw",
+      "queryId": "T6JJ8goxRn2KxcvG7f3ODg",
       "operationName": "TrendRelevantUsers",
       "operationType": "query",
       "metadata": {
@@ -42667,6 +43407,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -42751,6 +43492,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -42829,7 +43573,7 @@
   {
     "n": "947977",
     "exports": {
-      "queryId": "eEYOARdQCgQaUZ7XKou1AA",
+      "queryId": "TNClKdJwIBhfhmrlp_TPjg",
       "operationName": "TVHomeMixer",
       "operationType": "query",
       "metadata": {
@@ -42850,6 +43594,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -42934,6 +43679,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -43012,7 +43760,7 @@
   {
     "n": "683103",
     "exports": {
-      "queryId": "gJoREC4Bspo4kJ0ax9C3sQ",
+      "queryId": "qpemjmVMoTWDvcRT43JIVQ",
       "operationName": "TweetDetail",
       "operationType": "query",
       "metadata": {
@@ -43033,6 +43781,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -43119,6 +43868,9 @@
           "rweb_sports_post_context_enabled": {
             "value": true
           },
+          "x_elections_post_context_enabled": {
+            "value": true
+          },
           "responsive_web_grok_share_attachment_enabled": {
             "value": true
           },
@@ -43195,7 +43947,7 @@
   {
     "n": "209421",
     "exports": {
-      "queryId": "a-Xpq8PjX9K6U5cmc1f05A",
+      "queryId": "U8lc5aomF5krJzZ9vJ9wxg",
       "operationName": "TweetResultByRestId",
       "operationType": "query",
       "metadata": {
@@ -43209,6 +43961,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -43277,6 +44030,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -43370,7 +44126,7 @@
   {
     "n": "389259",
     "exports": {
-      "queryId": "yicqPSziST_OYCvXJH4JbA",
+      "queryId": "yW_CmYWEKwaOpAEHpNSReg",
       "operationName": "TweetResultsByRestIds",
       "operationType": "query",
       "metadata": {
@@ -43384,6 +44140,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -43452,6 +44209,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -43707,7 +44467,7 @@
   {
     "n": "349814",
     "exports": {
-      "queryId": "o76T5_oZU_nUXyXVJ7PHpw",
+      "queryId": "hF0kVfH1hJReXpYmzCQ6dw",
       "operationName": "UrtFixtures",
       "operationType": "query",
       "metadata": {
@@ -43728,6 +44488,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -43812,6 +44573,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -43890,7 +44654,7 @@
   {
     "n": "129849",
     "exports": {
-      "queryId": "px0ZuoJAreztxT8_nJr9Xg",
+      "queryId": "9Yf6bKYpvNL8ungvkqMlTw",
       "operationName": "UserArticlesTweets",
       "operationType": "query",
       "metadata": {
@@ -43911,6 +44675,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -43995,6 +44760,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -44073,7 +44841,7 @@
   {
     "n": "709455",
     "exports": {
-      "queryId": "Wl8kTEsAVWsFGl48bDvqjw",
+      "queryId": "mXLQrlZZyZVlBJR3oQVlCQ",
       "operationName": "UserBusinessProfileTeamTimeline",
       "operationType": "query",
       "metadata": {
@@ -44094,6 +44862,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -44178,6 +44947,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -44395,7 +45167,7 @@
   {
     "n": "667615",
     "exports": {
-      "queryId": "uAU_-MxXHQOJDdeDe1BhyA",
+      "queryId": "jja4Eiy-hXmx5bAyAMgLgA",
       "operationName": "UserCreatorSubscribers",
       "operationType": "query",
       "metadata": {
@@ -44416,6 +45188,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -44500,6 +45273,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -44578,7 +45354,7 @@
   {
     "n": "371780",
     "exports": {
-      "queryId": "ptJNspERa_duq2G64dUX1Q",
+      "queryId": "bhWKl0HMSkj-v2Sr8KBD9A",
       "operationName": "UserCreatorSubscriptions",
       "operationType": "query",
       "metadata": {
@@ -44599,6 +45375,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -44683,6 +45460,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -44761,7 +45541,7 @@
   {
     "n": "20631",
     "exports": {
-      "queryId": "2vCerAWrlID9W2wM0pmuaA",
+      "queryId": "clDqp0dS11B6eNOEF6oYhQ",
       "operationName": "UserHighlightsTweets",
       "operationType": "query",
       "metadata": {
@@ -44782,6 +45562,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -44866,6 +45647,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -44944,7 +45728,7 @@
   {
     "n": "300468",
     "exports": {
-      "queryId": "eF8kYZ4r9zFLqcYno3I17A",
+      "queryId": "frYNjZhGZmtrgXmi_tIMkA",
       "operationName": "UserMedia",
       "operationType": "query",
       "metadata": {
@@ -44965,6 +45749,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -45049,6 +45834,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -45127,7 +45915,7 @@
   {
     "n": "882353",
     "exports": {
-      "queryId": "GMxl7_rXoC4G0o-kiH0oLA",
+      "queryId": "0L_XictlTdXhxJyxhMDxQA",
       "operationName": "UserOriginalsTimeline",
       "operationType": "query",
       "metadata": {
@@ -45148,6 +45936,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -45232,6 +46021,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -45310,7 +46102,7 @@
   {
     "n": "747993",
     "exports": {
-      "queryId": "kc23mh5ZZHOao1q8hzZ1LQ",
+      "queryId": "9SiNhJMRCvjdE957jGo3aQ",
       "operationName": "UserPhotoTimeline",
       "operationType": "query",
       "metadata": {
@@ -45331,6 +46123,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -45415,6 +46208,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -45506,7 +46302,7 @@
   {
     "n": "687183",
     "exports": {
-      "queryId": "1m5dbhDqEhyF60Ff0May-A",
+      "queryId": "01IUBEduknS0m7tUhKLUcA",
       "operationName": "UserPromotableTweets",
       "operationType": "query",
       "metadata": {
@@ -45527,6 +46323,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -45611,6 +46408,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -45689,7 +46489,7 @@
   {
     "n": "459324",
     "exports": {
-      "queryId": "aUIFI_JBQeHHB-ZzRHW4hw",
+      "queryId": "Cs1XFTP4fMW4aYwbsxoBdg",
       "operationName": "UserPromotedTweets",
       "operationType": "query",
       "metadata": {
@@ -45710,6 +46510,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -45794,6 +46595,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -45872,7 +46676,7 @@
   {
     "n": "259717",
     "exports": {
-      "queryId": "RFZCQszlYjo2RQYM-4vrTQ",
+      "queryId": "e2U1WlALwVhjkDBJnkcLnA",
       "operationName": "UserRepliesTimeline",
       "operationType": "query",
       "metadata": {
@@ -45893,6 +46697,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -45977,6 +46782,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -46055,7 +46863,7 @@
   {
     "n": "590065",
     "exports": {
-      "queryId": "o1Yp3gwGQgUne5ll61VWrg",
+      "queryId": "q5tCz6UCo5FOK8DSqsjS2A",
       "operationName": "UserRepostsTimeline",
       "operationType": "query",
       "metadata": {
@@ -46076,6 +46884,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -46160,6 +46969,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -46251,7 +47063,7 @@
   {
     "n": "34624",
     "exports": {
-      "queryId": "e4NJhyN0lS0npnVU7oFt9g",
+      "queryId": "lsccw_JwPlNPMP26U3y-0g",
       "operationName": "UserSuperFollowTweets",
       "operationType": "query",
       "metadata": {
@@ -46272,6 +47084,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -46356,6 +47169,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -46434,7 +47250,7 @@
   {
     "n": "566500",
     "exports": {
-      "queryId": "YHYMZsaMvzJvb5D2UVVjgw",
+      "queryId": "Rf0Oc_XSVYjASOj-Jbz3Xg",
       "operationName": "UserTweets",
       "operationType": "query",
       "metadata": {
@@ -46455,6 +47271,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -46539,6 +47356,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -46617,7 +47437,7 @@
   {
     "n": "307357",
     "exports": {
-      "queryId": "MbxTcSWPt8RWRFMwenOtyQ",
+      "queryId": "a6fye5SJAFWPUhE2BzoxBQ",
       "operationName": "UserTweetsAndReplies",
       "operationType": "query",
       "metadata": {
@@ -46638,6 +47458,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -46722,6 +47543,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
@@ -46800,7 +47624,7 @@
   {
     "n": "485624",
     "exports": {
-      "queryId": "kt4pT9MO7MSCJdizksKJkA",
+      "queryId": "pPxk1XFyAcJJ28hNFCLjTA",
       "operationName": "UserVideoTimeline",
       "operationType": "query",
       "metadata": {
@@ -46821,6 +47645,7 @@
           "rweb_cashtags_composer_attachment_enabled",
           "responsive_web_jetfuel_frame",
           "rweb_sports_post_context_enabled",
+          "x_elections_post_context_enabled",
           "responsive_web_grok_share_attachment_enabled",
           "responsive_web_grok_annotations_enabled",
           "articles_preview_enabled",
@@ -46905,6 +47730,9 @@
             "value": true
           },
           "rweb_sports_post_context_enabled": {
+            "value": true
+          },
+          "x_elections_post_context_enabled": {
             "value": true
           },
           "responsive_web_grok_share_attachment_enabled": {
