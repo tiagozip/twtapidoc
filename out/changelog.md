@@ -1,3 +1,21 @@
+## 2026-11-08
+### GraphQL API
+#### add
+- UserLiveTimeline
+- SoccerLeaders
+- SoccerMatchweeks
+- SoccerSchedule
+- SoccerStandings
+- UserLiveTimeline
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-10-29
 ### GraphQL API
 #### add
