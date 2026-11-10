@@ -1,3 +1,16 @@
+## 2026-11-10
+### GraphQL API
+#### add
+- None
+#### remove
+- None
+
+### Feature Switch
+#### add
+- rweb_conversational_replies_downvote_enabled
+#### remove
+- None
+
 ## 2026-11-08
 ### GraphQL API
 #### add
