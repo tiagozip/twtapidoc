@@ -5057,7 +5057,7 @@
       "features": {
         "responsive_web_birdwatch_media_notes_enabled": true,
         "responsive_web_birdwatch_fast_notes_badge_enabled": false,
-        "responsive_web_birdwatch_url_notes_enabled": false,
+        "responsive_web_birdwatch_url_notes_enabled": true,
         "responsive_web_birdwatch_live_note_enabled": true,
         "creator_subscriptions_tweet_preview_api_enabled": true,
         "premium_content_api_read_enabled": false,
@@ -5118,7 +5118,7 @@
       "method": "POST",
       "features": {
         "responsive_web_birdwatch_media_notes_enabled": true,
-        "responsive_web_birdwatch_url_notes_enabled": false,
+        "responsive_web_birdwatch_url_notes_enabled": true,
         "responsive_web_grok_community_note_translation_is_enabled": true,
         "responsive_web_birdwatch_fast_notes_badge_enabled": false,
         "responsive_web_birdwatch_live_note_enabled": true,
@@ -5334,7 +5334,7 @@
         "responsive_web_birdwatch_live_note_enabled": true,
         "responsive_web_birdwatch_enforce_author_user_quotas": true,
         "responsive_web_birdwatch_media_notes_enabled": true,
-        "responsive_web_birdwatch_url_notes_enabled": false,
+        "responsive_web_birdwatch_url_notes_enabled": true,
         "responsive_web_grok_community_note_translation_is_enabled": true,
         "responsive_web_birdwatch_fast_notes_badge_enabled": false,
         "responsive_web_birdwatch_note_internal_insights_enabled": false,
@@ -5352,7 +5352,7 @@
       "method": "GET",
       "features": {
         "responsive_web_birdwatch_media_notes_enabled": true,
-        "responsive_web_birdwatch_url_notes_enabled": false,
+        "responsive_web_birdwatch_url_notes_enabled": true,
         "responsive_web_grok_community_note_translation_is_enabled": true,
         "responsive_web_birdwatch_fast_notes_badge_enabled": false,
         "responsive_web_birdwatch_live_note_enabled": true,
@@ -5534,7 +5534,7 @@
       "features": {
         "responsive_web_birdwatch_media_notes_enabled": true,
         "responsive_web_birdwatch_fast_notes_badge_enabled": false,
-        "responsive_web_birdwatch_url_notes_enabled": false,
+        "responsive_web_birdwatch_url_notes_enabled": true,
         "responsive_web_birdwatch_live_note_enabled": true,
         "creator_subscriptions_tweet_preview_api_enabled": true,
         "premium_content_api_read_enabled": false,
@@ -5646,6 +5646,54 @@
     "FetchScheduledTweets": {
       "url": "https://x.com/i/api/graphql/H2elmT2R9DLhWoo0DZFNkA/FetchScheduledTweets",
       "queryId": "H2elmT2R9DLhWoo0DZFNkA",
+      "method": "GET",
+      "features": {}
+    },
+    "SoccerGame": {
+      "url": "https://x.com/i/api/graphql/aHMyPwcykMGU9HfervWHEA/SoccerGame",
+      "queryId": "aHMyPwcykMGU9HfervWHEA",
+      "method": "GET",
+      "features": {}
+    },
+    "SoccerGameOdds": {
+      "url": "https://x.com/i/api/graphql/a-rEkVj32-42VC9h5o3a4Q/SoccerGameOdds",
+      "queryId": "a-rEkVj32-42VC9h5o3a4Q",
+      "method": "GET",
+      "features": {}
+    },
+    "SoccerGamePregame": {
+      "url": "https://x.com/i/api/graphql/oXAS9BiMmQyUIGAJNdoPSQ/SoccerGamePregame",
+      "queryId": "oXAS9BiMmQyUIGAJNdoPSQ",
+      "method": "GET",
+      "features": {}
+    },
+    "SoccerLeaders": {
+      "url": "https://x.com/i/api/graphql/P1WcelZybikR-GpqJ19K7A/SoccerLeaders",
+      "queryId": "P1WcelZybikR-GpqJ19K7A",
+      "method": "GET",
+      "features": {}
+    },
+    "SoccerMatchweeks": {
+      "url": "https://x.com/i/api/graphql/l4UfmwkgQ7RudV3ddLCueQ/SoccerMatchweeks",
+      "queryId": "l4UfmwkgQ7RudV3ddLCueQ",
+      "method": "GET",
+      "features": {}
+    },
+    "SoccerPlayerBio": {
+      "url": "https://x.com/i/api/graphql/n300A5CmJTzMcM7_MzmGIw/SoccerPlayerBio",
+      "queryId": "n300A5CmJTzMcM7_MzmGIw",
+      "method": "GET",
+      "features": {}
+    },
+    "SoccerSchedule": {
+      "url": "https://x.com/i/api/graphql/BgmEf4z1co-6iwhKArsXPg/SoccerSchedule",
+      "queryId": "BgmEf4z1co-6iwhKArsXPg",
+      "method": "GET",
+      "features": {}
+    },
+    "SoccerStandings": {
+      "url": "https://x.com/i/api/graphql/0sh90UjWpuHzJhn8ZCf0Rg/SoccerStandings",
+      "queryId": "0sh90UjWpuHzJhn8ZCf0Rg",
       "method": "GET",
       "features": {}
     },
@@ -5960,14 +6008,14 @@
       "features": {}
     },
     "SportsProductCreateGameReminder": {
-      "url": "https://x.com/i/api/graphql/ZyWLAyQ_WsLedy-JBkIROg/SportsProductCreateGameReminder",
-      "queryId": "ZyWLAyQ_WsLedy-JBkIROg",
+      "url": "https://x.com/i/api/graphql/WdKv6DN3ozlgNbZnBiPmKQ/SportsProductCreateGameReminder",
+      "queryId": "WdKv6DN3ozlgNbZnBiPmKQ",
       "method": "POST",
       "features": {}
     },
     "SportsProductDeleteGameReminder": {
-      "url": "https://x.com/i/api/graphql/zD6qMrNX_BPjXZ8fLPXuiQ/SportsProductDeleteGameReminder",
-      "queryId": "zD6qMrNX_BPjXZ8fLPXuiQ",
+      "url": "https://x.com/i/api/graphql/7RPkOzj8Lg_DSI7Nfkd9Ag/SportsProductDeleteGameReminder",
+      "queryId": "7RPkOzj8Lg_DSI7Nfkd9Ag",
       "method": "POST",
       "features": {}
     },
@@ -5984,8 +6032,8 @@
       "features": {}
     },
     "SportsProductGameReminders": {
-      "url": "https://x.com/i/api/graphql/4T5v2sJ-8kOvk53OgBaLkQ/SportsProductGameReminders",
-      "queryId": "4T5v2sJ-8kOvk53OgBaLkQ",
+      "url": "https://x.com/i/api/graphql/2_uTEYthMrEBh6Z75La3Qw/SportsProductGameReminders",
+      "queryId": "2_uTEYthMrEBh6Z75La3Qw",
       "method": "GET",
       "features": {}
     },
@@ -6020,8 +6068,8 @@
       "features": {}
     },
     "SportsProductSnoozeGameReminder": {
-      "url": "https://x.com/i/api/graphql/9LCYq2VYYvKE--NhmJk8pg/SportsProductSnoozeGameReminder",
-      "queryId": "9LCYq2VYYvKE--NhmJk8pg",
+      "url": "https://x.com/i/api/graphql/79_s7GZsGUcCZM-trBCFYg/SportsProductSnoozeGameReminder",
+      "queryId": "79_s7GZsGUcCZM-trBCFYg",
       "method": "POST",
       "features": {}
     },
@@ -6277,30 +6325,6 @@
     "ViewerEmailSettings": {
       "url": "https://x.com/i/api/graphql/YYJk-rhCD2EUmq49LugABA/ViewerEmailSettings",
       "queryId": "YYJk-rhCD2EUmq49LugABA",
-      "method": "GET",
-      "features": {}
-    },
-    "SoccerLeaders": {
-      "url": "https://x.com/i/api/graphql/P1WcelZybikR-GpqJ19K7A/SoccerLeaders",
-      "queryId": "P1WcelZybikR-GpqJ19K7A",
-      "method": "GET",
-      "features": {}
-    },
-    "SoccerMatchweeks": {
-      "url": "https://x.com/i/api/graphql/l4UfmwkgQ7RudV3ddLCueQ/SoccerMatchweeks",
-      "queryId": "l4UfmwkgQ7RudV3ddLCueQ",
-      "method": "GET",
-      "features": {}
-    },
-    "SoccerSchedule": {
-      "url": "https://x.com/i/api/graphql/BgmEf4z1co-6iwhKArsXPg/SoccerSchedule",
-      "queryId": "BgmEf4z1co-6iwhKArsXPg",
-      "method": "GET",
-      "features": {}
-    },
-    "SoccerStandings": {
-      "url": "https://x.com/i/api/graphql/0sh90UjWpuHzJhn8ZCf0Rg/SoccerStandings",
-      "queryId": "0sh90UjWpuHzJhn8ZCf0Rg",
       "method": "GET",
       "features": {}
     },

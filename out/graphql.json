@@ -17934,7 +17934,7 @@
     }
   },
   {
-    "n": "697181",
+    "n": "919562",
     "exports": {
       "queryId": "VaaLGwK5KNLoc7wsOmp4uw",
       "operationName": "DeletePaymentMethod",
@@ -21309,7 +21309,7 @@
             "value": false
           },
           "responsive_web_birdwatch_url_notes_enabled": {
-            "value": false
+            "value": true
           },
           "responsive_web_birdwatch_live_note_enabled": {
             "value": true
@@ -21492,7 +21492,7 @@
             "value": true
           },
           "responsive_web_birdwatch_url_notes_enabled": {
-            "value": false
+            "value": true
           },
           "responsive_web_grok_community_note_translation_is_enabled": {
             "value": true
@@ -22183,7 +22183,7 @@
             "value": true
           },
           "responsive_web_birdwatch_url_notes_enabled": {
-            "value": false
+            "value": true
           },
           "responsive_web_grok_community_note_translation_is_enabled": {
             "value": true
@@ -22247,7 +22247,7 @@
             "value": true
           },
           "responsive_web_birdwatch_url_notes_enabled": {
-            "value": false
+            "value": true
           },
           "responsive_web_grok_community_note_translation_is_enabled": {
             "value": true
@@ -22958,7 +22958,7 @@
             "value": false
           },
           "responsive_web_birdwatch_url_notes_enabled": {
-            "value": false
+            "value": true
           },
           "responsive_web_birdwatch_live_note_enabled": {
             "value": true
@@ -23764,7 +23764,7 @@
     }
   },
   {
-    "n": "697181",
+    "n": "919562",
     "exports": {
       "queryId": "VaaLGwK5KNLoc7wsOmp4uw",
       "operationName": "DeletePaymentMethod",
@@ -25264,6 +25264,110 @@
             "value": false
           }
         }
+      }
+    }
+  },
+  {
+    "n": "253616",
+    "exports": {
+      "queryId": "aHMyPwcykMGU9HfervWHEA",
+      "operationName": "SoccerGame",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "222018",
+    "exports": {
+      "queryId": "a-rEkVj32-42VC9h5o3a4Q",
+      "operationName": "SoccerGameOdds",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "439539",
+    "exports": {
+      "queryId": "oXAS9BiMmQyUIGAJNdoPSQ",
+      "operationName": "SoccerGamePregame",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "875942",
+    "exports": {
+      "queryId": "P1WcelZybikR-GpqJ19K7A",
+      "operationName": "SoccerLeaders",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "672532",
+    "exports": {
+      "queryId": "l4UfmwkgQ7RudV3ddLCueQ",
+      "operationName": "SoccerMatchweeks",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "270327",
+    "exports": {
+      "queryId": "n300A5CmJTzMcM7_MzmGIw",
+      "operationName": "SoccerPlayerBio",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "271909",
+    "exports": {
+      "queryId": "BgmEf4z1co-6iwhKArsXPg",
+      "operationName": "SoccerSchedule",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "610275",
+    "exports": {
+      "queryId": "0sh90UjWpuHzJhn8ZCf0Rg",
+      "operationName": "SoccerStandings",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
       }
     }
   },
@@ -27625,7 +27729,7 @@
   {
     "n": "125981",
     "exports": {
-      "queryId": "ZyWLAyQ_WsLedy-JBkIROg",
+      "queryId": "WdKv6DN3ozlgNbZnBiPmKQ",
       "operationName": "SportsProductCreateGameReminder",
       "operationType": "mutation",
       "metadata": {
@@ -27638,7 +27742,7 @@
   {
     "n": "274120",
     "exports": {
-      "queryId": "zD6qMrNX_BPjXZ8fLPXuiQ",
+      "queryId": "7RPkOzj8Lg_DSI7Nfkd9Ag",
       "operationName": "SportsProductDeleteGameReminder",
       "operationType": "mutation",
       "metadata": {
@@ -27677,7 +27781,7 @@
   {
     "n": "683666",
     "exports": {
-      "queryId": "4T5v2sJ-8kOvk53OgBaLkQ",
+      "queryId": "2_uTEYthMrEBh6Z75La3Qw",
       "operationName": "SportsProductGameReminders",
       "operationType": "query",
       "metadata": {
@@ -27755,7 +27859,7 @@
   {
     "n": "263547",
     "exports": {
-      "queryId": "9LCYq2VYYvKE--NhmJk8pg",
+      "queryId": "79_s7GZsGUcCZM-trBCFYg",
       "operationName": "SportsProductSnoozeGameReminder",
       "operationType": "mutation",
       "metadata": {
@@ -30596,7 +30700,7 @@
   {
     "n": "125981",
     "exports": {
-      "queryId": "ZyWLAyQ_WsLedy-JBkIROg",
+      "queryId": "WdKv6DN3ozlgNbZnBiPmKQ",
       "operationName": "SportsProductCreateGameReminder",
       "operationType": "mutation",
       "metadata": {
@@ -30609,7 +30713,7 @@
   {
     "n": "274120",
     "exports": {
-      "queryId": "zD6qMrNX_BPjXZ8fLPXuiQ",
+      "queryId": "7RPkOzj8Lg_DSI7Nfkd9Ag",
       "operationName": "SportsProductDeleteGameReminder",
       "operationType": "mutation",
       "metadata": {
@@ -30648,7 +30752,7 @@
   {
     "n": "683666",
     "exports": {
-      "queryId": "4T5v2sJ-8kOvk53OgBaLkQ",
+      "queryId": "2_uTEYthMrEBh6Z75La3Qw",
       "operationName": "SportsProductGameReminders",
       "operationType": "query",
       "metadata": {
@@ -30726,7 +30830,7 @@
   {
     "n": "263547",
     "exports": {
-      "queryId": "9LCYq2VYYvKE--NhmJk8pg",
+      "queryId": "79_s7GZsGUcCZM-trBCFYg",
       "operationName": "SportsProductSnoozeGameReminder",
       "operationType": "mutation",
       "metadata": {
@@ -33077,6 +33181,45 @@
     }
   },
   {
+    "n": "253616",
+    "exports": {
+      "queryId": "aHMyPwcykMGU9HfervWHEA",
+      "operationName": "SoccerGame",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "222018",
+    "exports": {
+      "queryId": "a-rEkVj32-42VC9h5o3a4Q",
+      "operationName": "SoccerGameOdds",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "439539",
+    "exports": {
+      "queryId": "oXAS9BiMmQyUIGAJNdoPSQ",
+      "operationName": "SoccerGamePregame",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
     "n": "875942",
     "exports": {
       "queryId": "P1WcelZybikR-GpqJ19K7A",
@@ -33094,6 +33237,19 @@
     "exports": {
       "queryId": "l4UfmwkgQ7RudV3ddLCueQ",
       "operationName": "SoccerMatchweeks",
+      "operationType": "query",
+      "metadata": {
+        "featureSwitches": [],
+        "fieldToggles": [],
+        "featureSwitch": {}
+      }
+    }
+  },
+  {
+    "n": "270327",
+    "exports": {
+      "queryId": "n300A5CmJTzMcM7_MzmGIw",
+      "operationName": "SoccerPlayerBio",
       "operationType": "query",
       "metadata": {
         "featureSwitches": [],
@@ -38528,7 +38684,7 @@
   {
     "n": "125981",
     "exports": {
-      "queryId": "ZyWLAyQ_WsLedy-JBkIROg",
+      "queryId": "WdKv6DN3ozlgNbZnBiPmKQ",
       "operationName": "SportsProductCreateGameReminder",
       "operationType": "mutation",
       "metadata": {
@@ -38541,7 +38697,7 @@
   {
     "n": "274120",
     "exports": {
-      "queryId": "zD6qMrNX_BPjXZ8fLPXuiQ",
+      "queryId": "7RPkOzj8Lg_DSI7Nfkd9Ag",
       "operationName": "SportsProductDeleteGameReminder",
       "operationType": "mutation",
       "metadata": {
@@ -38580,7 +38736,7 @@
   {
     "n": "683666",
     "exports": {
-      "queryId": "4T5v2sJ-8kOvk53OgBaLkQ",
+      "queryId": "2_uTEYthMrEBh6Z75La3Qw",
       "operationName": "SportsProductGameReminders",
       "operationType": "query",
       "metadata": {
@@ -38658,7 +38814,7 @@
   {
     "n": "263547",
     "exports": {
-      "queryId": "9LCYq2VYYvKE--NhmJk8pg",
+      "queryId": "79_s7GZsGUcCZM-trBCFYg",
       "operationName": "SportsProductSnoozeGameReminder",
       "operationType": "mutation",
       "metadata": {

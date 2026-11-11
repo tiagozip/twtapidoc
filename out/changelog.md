@@ -1,3 +1,23 @@
+## 2026-11-11
+### GraphQL API
+#### add
+- SoccerGame
+- SoccerGameOdds
+- SoccerGamePregame
+- SoccerPlayerBio
+- SoccerGame
+- SoccerGameOdds
+- SoccerGamePregame
+- SoccerPlayerBio
+#### remove
+- None
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-11-10
 ### GraphQL API
 #### add
