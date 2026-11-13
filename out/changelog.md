@@ -1,3 +1,32 @@
+## 2026-11-13
+### GraphQL API
+#### add
+- SoccerPlayerSeasonStats
+- SportsSettings
+- UpdateSportsSettings
+- SportsTeamLastGameHighlights
+- SportsTeamLastGameHighlights
+- SoccerPlayerSeasonStats
+- SportsProductAddMediaSeriesPost
+- SportsProductCreateMediaSeries
+- SportsProductDeleteMediaSeries
+- SportsProductMediaSeriesManager
+- SportsProductRemoveMediaSeriesPost
+- SportsProductReorderMediaSeries
+- SportsProductReorderMediaSeriesPosts
+- SportsProductUpdateMediaSeries
+- SportsTeamLastGameHighlights
+#### remove
+- NFLTeamLastGameHighlights
+- NFLTeamLastGameHighlights
+- NFLTeamLastGameHighlights
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-11-11
 ### GraphQL API
 #### add
