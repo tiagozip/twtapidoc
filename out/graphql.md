@@ -8421,7 +8421,7 @@ Request Method: `POST`<br>
 #### features<br>
 `None`<br>
 ## SportsSettings<br>
-Request URL: `https://x.com/i/api/graphql/guher9SqKi1rdKCw9_mJVQ/SportsSettings`<br>
+Request URL: `https://x.com/i/api/graphql/I6Dk9KnS9T5GHA797ZSmNQ/SportsSettings`<br>
 Request Method: `GET`<br>
 ### Param<br>
 #### variables<br>
@@ -8456,7 +8456,7 @@ Request Method: `POST`<br>
 #### features<br>
 `None`<br>
 ## UpdateSportsSettings<br>
-Request URL: `https://x.com/i/api/graphql/Ou0Jd5tMU8aKQGjnST5x-g/UpdateSportsSettings`<br>
+Request URL: `https://x.com/i/api/graphql/3FdvFBVuC5Cpj_lC75ewUQ/UpdateSportsSettings`<br>
 Request Method: `POST`<br>
 ### Param<br>
 #### variables<br>

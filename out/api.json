@@ -5716,14 +5716,14 @@
       }
     },
     "SportsSettings": {
-      "url": "https://x.com/i/api/graphql/guher9SqKi1rdKCw9_mJVQ/SportsSettings",
-      "queryId": "guher9SqKi1rdKCw9_mJVQ",
+      "url": "https://x.com/i/api/graphql/I6Dk9KnS9T5GHA797ZSmNQ/SportsSettings",
+      "queryId": "I6Dk9KnS9T5GHA797ZSmNQ",
       "method": "GET",
       "features": {}
     },
     "UpdateSportsSettings": {
-      "url": "https://x.com/i/api/graphql/Ou0Jd5tMU8aKQGjnST5x-g/UpdateSportsSettings",
-      "queryId": "Ou0Jd5tMU8aKQGjnST5x-g",
+      "url": "https://x.com/i/api/graphql/3FdvFBVuC5Cpj_lC75ewUQ/UpdateSportsSettings",
+      "queryId": "3FdvFBVuC5Cpj_lC75ewUQ",
       "method": "POST",
       "features": {}
     },
