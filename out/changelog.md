@@ -1,3 +1,49 @@
+## 2026-11-21
+### GraphQL API
+#### add
+- None
+#### remove
+- CommunitiesExploreTimeline
+- CommunitiesMainDiscoveryModule
+- CommunitiesMainPageTimeline
+- CommunitiesMembershipsSlice
+- CommunitiesMembershipsTimeline
+- CommunityAboutTimeline
+- CreateCommunity
+- CommunityCreateRule
+- CommunityDiscoveryTimeline
+- CommunityEditBannerMedia
+- CommunityEditName
+- CommunityEditPurpose
+- CommunityEditQuestion
+- CommunityEditRule
+- CommunityByRestId
+- CommunityHashtagsTimeline
+- JoinCommunity
+- LeaveCommunity
+- CommunityMediaLoggedOutTimeline
+- CommunityMediaTimeline
+- CommunityModerationKeepTweet
+- CommunityModerationTweetCasesSlice
+- CommunityRemoveBannerMedia
+- CommunityRemoveRule
+- CommunityReorderRules
+- RequestToJoinCommunity
+- CommunityTweetModerationLogSlice
+- CommunityTweetsLoggedOutTimeline
+- CommunityTweetsRankedLoggedOutTimeline
+- CommunityTweetsTimeline
+- CommunityUpdateRole
+- CommunityUserInvite
+- CommunitiesRankedTimeline
+- GenerateDrmToken
+
+### Feature Switch
+#### add
+- None
+#### remove
+- None
+
 ## 2026-11-13
 ### GraphQL API
 #### add
